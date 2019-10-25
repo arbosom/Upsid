@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID EWONDO</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>EWONDO</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>4141</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Niger-Kordofanian.html">Niger-Kordofanian</a>, <a href = "../C/C_Bantoid.html">Bantoid</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>34 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.324572845 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0590.html"><span title="voiceless labial-velar plosive" class="alphaid">kp</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0465.html"><span title="voiced labial-velar plosive" class="alphaid">gb</span></a> 
+					<a href="../S/S0628.html"><span title="prenasalized voiced bilabial plosive" class="alphaid">mb</span></a> 
+					<a href="../S/S0659.html"><span title="prenasalized voiced alveolar plosive" class="alphaid">nd</span></a> 
+					<a href="../S/S0227.html"><span title="prenasalized voiced velar plosive" class="alphaid">Ng</span></a> 
+					<a href="../S/S0235.html"><span title="prenasalized voiced labial-velar plosive" class="alphaid">Nmgb</span></a> 
+					<a href="../S/S0847.html"><span title="voiceless alveolar sibilant affricate" class="alphaid">ts</span></a> 
+					<a href="../S/S0415.html"><span title="voiced alveolar sibilant affricate" class="alphaid">dz</span></a> 
+					<a href="../S/S0670.html"><span title="prenasalized voiced alveolar sibilant affricate" class="alphaid">ndz</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0886.html"><span title="voiced labiodental fricative" class="alphaid">v</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0907.html"><span title="voiced alveolar sibilant fricative" class="alphaid">z</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0177.html"><span title="higher mid central unrounded vowel" class="alphaid">@</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0542.html"><span title="fricative high front unrounded vowel" class="alphaid">iF</span></a> 
+					<a href="../S/S0863.html"><span title="fricative high back rounded vowel" class="alphaid">uF</span></a> 
+					<a href="../S/S0634.html"><span title="prenasalized voiced labiodental fricative" class="alphaid">mv</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Ewondo has 3 level tones. The high vowels /i,u/ are "so high...that loud friction usually occurs with these vowels" (Redden 1979: 8). Prenasalized obstruents contrast with syllabic nasal + C sequences and according to Nnomo and Mbezele syllable boundary falls before them. The intuition of these native speakers that these are single segments is followed here.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Abega, P. 1970. Grammaire Ewondo. Universite Federale du Cameroun, Departement des langues africaines et linguistiques. <br>Nnomo, T.A. and Mbezele, L.E. 1982. Elements de Grammaire Ewondo. College Liberman, Donala. <br>Redden, J.E. 1979. A Descriptive Grammar of Ewando. SIU Department of Linguistics, Carbindale (?), Illinois.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

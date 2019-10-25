@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID EKARI</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>EKARI</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>8650</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td>EKAGI, KAPAUKI</td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Papuan.html">Papuan</a>, <a href = "../C/C_Trans-New Guinea.html">Trans-New Guinea</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>15 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.621729490 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0462.html"><span title="laterally-released voiced velar plosive" class="alphaid">gL</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Ekari is spoken in the Paniai district of Irian Jaya, Indonesia, near the Wissel Lakes. Doble (1987) describes some limited pitch-accent contrasts. All vowels occur long and two-vowel sequences with a high second vowel occur. Other sequences of unlike vowels assimilate and occur as long vowels (e.g. a + e -> ee).</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Doble, M. 1982. Essays on Kapauku grammar. Nieuw Guinea Studien 6: 152-155. <br>Doble, M. 1987. A description of some features of Ekari language structure. Oceanic Linguistics 26:55-113. <br>Steltenpool, J. 1969. Ekagi-Dutch-English-Indonesian Dictionary. Koninklijk Instituut voor Taal-, Land- en Volkenkunde, Martinus Nijhoff, The Hague.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID EYAK</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>EYAK</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6109</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Na-Dene.html">Na-Dene</a>, <a href = "../C/C_Eyak.html">Eyak</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>45 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.227297364 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0112.html"><span title="voiceless aspirated dental/alveolar plosive" class="alphaid">"th</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0760.html"><span title="voiceless aspirated uvular plosive" class="alphaid">qh</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0103.html"><span title="voiceless dental/alveolar ejective stop" class="alphaid">"t'</span></a> 
+					<a href="../S/S0574.html"><span title="voiceless velar ejective stop" class="alphaid">k'</span></a> 
+					<a href="../S/S0736.html"><span title="voiceless uvular ejective stop" class="alphaid">q'</span></a> 
+					<a href="../S/S0012.html"><span title="voiced dental/alveolar plosive" class="alphaid">"d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0463.html"><span title="labialized voiced velar plosive" class="alphaid">gW</span></a> 
+					<a href="../S/S0209.html"><span title="voiced uvular plosive" class="alphaid">G</span></a> 
+					<a href="../S/S0131.html"><span title="voiceless aspirated dental/alveolar sibilant affricate" class="alphaid">"tsh</span></a> 
+					<a href="../S/S0839.html"><span title="voiceless aspirated palato-alveolar sibilant affricate" class="alphaid">tSh</span></a> 
+					<a href="../S/S0123.html"><span title="voiceless dental/alveolar sibilant ejective affricate" class="alphaid">"ts'</span></a> 
+					<a href="../S/S0828.html"><span title="voiceless palato-alveolar sibilant ejective affricate" class="alphaid">tS'</span></a> 
+					<a href="../S/S0020.html"><span title="voiced dental/alveolar sibilant affricate" class="alphaid">"dz</span></a> 
+					<a href="../S/S0395.html"><span title="voiced palato-alveolar sibilant affricate" class="alphaid">dZ</span></a> 
+					<a href="../S/S0121.html"><span title="voiceless aspirated dental/alveolar lateral affricate" class="alphaid">"tlFh</span></a> 
+					<a href="../S/S0115.html"><span title="voiceless dental/alveolar lateral ejective affricate" class="alphaid">"tlF'</span></a> 
+					<a href="../S/S0019.html"><span title="voiced dental/alveolar lateral affricate" class="alphaid">"dlF</span></a> 
+					<a href="../S/S0896.html"><span title="voiceless velar fricative" class="alphaid">x</span></a> 
+					<a href="../S/S0900.html"><span title="labialized voiceless velar fricative" class="alphaid">xW</span></a> 
+					<a href="../S/S0281.html"><span title="voiceless uvular fricative" class="alphaid">X</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0033.html"><span title="voiceless dental/alveolar lateral fricative" class="alphaid">"hlF</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0564.html"><span title="nasalized high front unrounded vowel" class="alphaid">i~</span></a> 
+					<a href="../S/S0323.html"><span title="nasalized low back unrounded vowel" class="alphaid">a_~</span></a> 
+					<a href="../S/S0884.html"><span title="nasalized high back rounded vowel" class="alphaid">u~</span></a> 
+					<a href="../S/S0537.html"><span title="long high front unrounded vowel" class="alphaid">i:</span></a> 
+					<a href="../S/S0200.html"><span title="long lower mid front unrounded vowel" class="alphaid">E:</span></a> 
+					<a href="../S/S0321.html"><span title="long low back unrounded vowel" class="alphaid">a_:</span></a> 
+					<a href="../S/S0860.html"><span title="long high back rounded vowel" class="alphaid">u:</span></a> 
+					<a href="../S/S0567.html"><span title="long nasalized high front unrounded vowel" class="alphaid">i~:</span></a> 
+					<a href="../S/S0324.html"><span title="long nasalized low back unrounded vowel" class="alphaid">a_~:</span></a> 
+					<a href="../S/S0885.html"><span title="long nasalized high back rounded vowel" class="alphaid">u~:</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Krauss (1965) reported that there were "3 persons capable of serving adequately as informants for Eyak". Apart from loanwords /m,n/ "could be interpreted as w and l respectively, followed by a nasalized vowel". Short oral vowels are often in free variation, the non-high vowel variation being obscurely described. Krauss includes 'aspiration' and 'glottalization' of vowels as modifications similar to length and nasalization. Since there are consonants /h,?/, and verb stems in -V:? ("long glottalized nucleus") seem to count as closed, these are interpreted as postvocalic -h and -?.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Krauss, M.E. 1965. Eyak: a preliminary report. Canadian Journal of Linguistics/RCL 10:2,3: 167-187.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

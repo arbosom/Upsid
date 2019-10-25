@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID KET</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>KET</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2706</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Ket.html">Ket</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>25 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.358758315 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0108.html"><span title="palatalized voiceless dental/alveolar plosive" class="alphaid">"tJ</span></a> 
+					<a href="../S/S0012.html"><span title="voiced dental/alveolar plosive" class="alphaid">"d</span></a> 
+					<a href="../S/S0016.html"><span title="palatalized voiced dental/alveolar plosive" class="alphaid">"dJ</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0735.html"><span title="voiceless uvular plosive" class="alphaid">q</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0098.html"><span title="palatalized voiceless dental/alveolar sibilant fricative" class="alphaid">"sJ</span></a> 
+					<a href="../S/S0570.html"><span title="voiced palatal fricative" class="alphaid">jF</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0047.html"><span title="velarized voiced dental/alveolar lateral approximant" class="alphaid">"l-</span></a> 
+					<a href="../S/S0050.html"><span title="palatalized voiced dental/alveolar lateral approximant" class="alphaid">"lJ</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0325.html"><span title="raised low front unrounded vowel" class="alphaid">aa</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0545.html"><span title="high central unrounded vowel" class="alphaid">i_</span></a> 
+					<a href="../S/S0006.html"><span title="mid central rounded vowel" class="alphaid">"@)</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Dul'zon, A.P. 1968. Ketskij Jazyk. Tomsk University, Tomsk. <br>Krejnovich, E.A. 1968a. Ketskij jazyk. In V.V. Vinogradov (ed.), Jazyki Narodov SSSR, Vol. 5. Nauka, Leningrad and Moscow: 453-73.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID KHMER</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>KHMER</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2306</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td>CAMBODIAN</td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Austro-Asiatic.html">Austro-Asiatic</a>, <a href = "../C/C_Khmer.html">Khmer</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>42 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.214972020 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0353.html"><span title="voiced bilabial implosive" class="alphaid">b<</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0112.html"><span title="voiceless aspirated dental/alveolar plosive" class="alphaid">"th</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0047.html"><span title="velarized voiced dental/alveolar lateral approximant" class="alphaid">"l-</span></a> 
+					<a href="../S/S0764.html"><span title="voiced retroflex flap" class="alphaid">r.[</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0537.html"><span title="long high front unrounded vowel" class="alphaid">i:</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0421.html"><span title="long higher mid front unrounded vowel" class="alphaid">e:</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0200.html"><span title="long lower mid front unrounded vowel" class="alphaid">E:</span></a> 
+					<a href="../S/S0009.html"><span title="long mid central unrounded vowel" class="alphaid">"@:</span></a> 
+					<a href="../S/S0302.html"><span title="low front unrounded vowel" class="alphaid">a+</span></a> 
+					<a href="../S/S0303.html"><span title="long low front unrounded vowel" class="alphaid">a+:</span></a> 
+					<a href="../S/S0860.html"><span title="long high back rounded vowel" class="alphaid">u:</span></a> 
+					<a href="../S/S0272.html"><span title="lowered high back rounded vowel" class="alphaid">U</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0704.html"><span title="long higher mid back rounded vowel" class="alphaid">o:</span></a> 
+					<a href="../S/S0242.html"><span title="long lower mid back rounded vowel" class="alphaid">O:</span></a> 
+					<a href="../S/S0315.html"><span title="low back unrounded vowel" class="alphaid">a_</span></a> 
+					<a href="../S/S0321.html"><span title="long low back unrounded vowel" class="alphaid">a_:</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0887.html"><span title="voiced labiodental approximant" class="alphaid">vA</span></a> 
+					<a href="../S/S0363.html"><span title="voiceless palatal plosive" class="alphaid">c</span></a> 
+					<a href="../S/S0372.html"><span title="voiceless aspirated palatal plosive" class="alphaid">ch</span></a> 
+					<a href="../S/S0873.html"><span title="high back unrounded vowel" class="alphaid">uu</span></a> 
+					<a href="../S/S0692.html"><span title="higher mid back unrounded vowel" class="alphaid">o(</span></a> 
+					<a href="../S/S0874.html"><span title="long high back unrounded vowel" class="alphaid">uu:</span></a> 
+					<a href="../S/S0422.html"><span title="mid front unrounded to mid central unrounded diphthong" class="alphaid">e@</span></a> 
+					<a href="../S/S0861.html"><span title="high back rounded to mid central unrounded diphthong" class="alphaid">u@</span></a> 
+					<a href="../S/S0875.html"><span title="high back unrounded to mid central unrounded diphthong" class="alphaid">uu@</span></a> 
+					<a href="../S/S0015.html"><span title="voiced dental/alveolar implosive" class="alphaid">"d<</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Khmer ios spoken in Mekong Delta of Southwesten Vietnamand also in Kampuchean and Thailand. Khmer syllables are assigned to one of two 'registers'. Vowel qualities often differ between registers with some being limited to one or the other. In careful speech lower pitch and breathy phonation distinguish second from first register, but often only vowel differences remain in more rapid speech. In addition to the short diphthongs listed there are a number of vowel sequences.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Ehrman, M.E. and Sos, K. 1972. Contemporary Cambodian. Foreign Service Institute: Basic Course Series. <br>Huffman, F.E. 1970a. The Cambodian System of Writing and Beginning Reading. Yale University Press, New Haven. <br>Huffman, F.E. 1970b. Modern Spoken Cambodian. Yale University Press, New Haven. <br>Jacob, J.M. 1968. Introduction to Cambodian. Oxford University Press, London.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

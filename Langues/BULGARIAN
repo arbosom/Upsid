@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID BULGARIAN</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>BULGARIAN</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2009</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Indo-European.html">Indo-European</a>, <a href = "../C/C_Slavic.html">Slavic</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>42 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.274416640 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0886.html"><span title="voiced labiodental fricative" class="alphaid">v</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0292.html"><span title="voiced palato-alveolar sibilant fricative" class="alphaid">Z</span></a> 
+					<a href="../S/S0896.html"><span title="voiceless velar fricative" class="alphaid">x</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0355.html"><span title="palatalized voiced bilabial plosive" class="alphaid">bJ</span></a> 
+					<a href="../S/S0436.html"><span title="palatalized voiceless labiodental fricative" class="alphaid">fJ</span></a> 
+					<a href="../S/S0888.html"><span title="palatalized voiced labiodental fricative" class="alphaid">vJ</span></a> 
+					<a href="../S/S0625.html"><span title="palatalized voiced bilabial nasal" class="alphaid">mJ</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0726.html"><span title="palatalized voiceless bilabial plosive" class="alphaid">pJ</span></a> 
+					<a href="../S/S0812.html"><span title="voiceless dental plosive" class="alphaid">tD</span></a> 
+					<a href="../S/S0819.html"><span title="palatalized voiceless dental plosive" class="alphaid">tDJ</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0578.html"><span title="palatalized voiceless velar plosive" class="alphaid">kJ</span></a> 
+					<a href="../S/S0385.html"><span title="voiced dental plosive" class="alphaid">dD</span></a> 
+					<a href="../S/S0390.html"><span title="palatalized voiced dental plosive" class="alphaid">dDJ</span></a> 
+					<a href="../S/S0461.html"><span title="palatalized voiced velar plosive" class="alphaid">gJ</span></a> 
+					<a href="../S/S0822.html"><span title="voiceless dental sibilant affricate" class="alphaid">tDs</span></a> 
+					<a href="../S/S0824.html"><span title="voiceless palatalized dental sibilant affricate" class="alphaid">tDsJ</span></a> 
+					<a href="../S/S0395.html"><span title="voiced palato-alveolar sibilant affricate" class="alphaid">dZ</span></a> 
+					<a href="../S/S0791.html"><span title="voiceless dental sibilant fricative" class="alphaid">sD</span></a> 
+					<a href="../S/S0795.html"><span title="palatalized voiceless dental sibilant fricative" class="alphaid">sDJ</span></a> 
+					<a href="../S/S0911.html"><span title="voiced dental sibilant fricative" class="alphaid">zD</span></a> 
+					<a href="../S/S0913.html"><span title="palatalized voiced sibilant dental fricative" class="alphaid">zDJ</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0652.html"><span title="palatalized voiced alveolar nasal" class="alphaid">nJ</span></a> 
+					<a href="../S/S0761.html"><span title="voiced alveolar trill" class="alphaid">r</span></a> 
+					<a href="../S/S0772.html"><span title="palatalized voiced alveolar trill" class="alphaid">rJ</span></a> 
+					<a href="../S/S0611.html"><span title="palatalized voiced dental lateral approximant" class="alphaid">lDJ</span></a> 
+					<a href="../S/S0607.html"><span title="velarized voiced dental lateral approximant" class="alphaid">lD-</span></a> 
+					<a href="../S/S0177.html"><span title="higher mid central unrounded vowel" class="alphaid">@</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Bulgarian is primarily spoken in Bulgaria.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Aronson, H.I. 1968. Bulgarian Inflectional Morphophonology. Mouton, The Hague. <br>Bidwell, C. 1968. The stress patterns of the noun in Bulgarian. Studies in Linguistics 20: 41-47. <br>Klagstad, H. 1958. The phonemic system of colloquial standard Bulgarian. Slavic and East European Journal 16: 42-54. <br>Scatton, E.A. 1983. A Reference Grammar of Modern Bulgarian. Slavica Publishers, Inc., Columbus, Ohio.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

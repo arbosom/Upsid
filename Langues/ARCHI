@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID ARCHI</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>ARCHI</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2605</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Caucasian.html">Caucasian</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>91 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.130674204 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0724.html"><span title="long voiceless bilabial plosive" class="alphaid">p:</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0107.html"><span title="long voiceless dental/alveolar plosive" class="alphaid">"t:</span></a> 
+					<a href="../S/S0577.html"><span title="long voiceless velar plosive" class="alphaid">k:</span></a> 
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0112.html"><span title="voiceless aspirated dental/alveolar plosive" class="alphaid">"th</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0012.html"><span title="voiced dental/alveolar plosive" class="alphaid">"d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0722.html"><span title="voiceless bilabial ejective stop" class="alphaid">p'</span></a> 
+					<a href="../S/S0103.html"><span title="voiceless dental/alveolar ejective stop" class="alphaid">"t'</span></a> 
+					<a href="../S/S0574.html"><span title="voiceless velar ejective stop" class="alphaid">k'</span></a> 
+					<a href="../S/S0131.html"><span title="voiceless aspirated dental/alveolar sibilant affricate" class="alphaid">"tsh</span></a> 
+					<a href="../S/S0839.html"><span title="voiceless aspirated palato-alveolar sibilant affricate" class="alphaid">tSh</span></a> 
+					<a href="../S/S0123.html"><span title="voiceless dental/alveolar sibilant ejective affricate" class="alphaid">"ts'</span></a> 
+					<a href="../S/S0828.html"><span title="voiceless palato-alveolar sibilant ejective affricate" class="alphaid">tS'</span></a> 
+					<a href="../S/S0124.html"><span title="long voiceless dental/alveolar sibilant ejective affricate" class="alphaid">"ts':</span></a> 
+					<a href="../S/S0829.html"><span title="long voiceless palato-alveolar sibilant ejective affricate" class="alphaid">tS':</span></a> 
+					<a href="../S/S0749.html"><span title="voiceless uvular affricate" class="alphaid">qX</span></a> 
+					<a href="../S/S0752.html"><span title="pharyngealized voiceless uvular affricate" class="alphaid">qX9</span></a> 
+					<a href="../S/S0750.html"><span title="voiceless uvular ejective affricate" class="alphaid">qX'</span></a> 
+					<a href="../S/S0753.html"><span title="pharyngealized voiceless uvular ejective affricate" class="alphaid">qX9'</span></a> 
+					<a href="../S/S0751.html"><span title="long voiceless uvular ejective affricate" class="alphaid">qX':</span></a> 
+					<a href="../S/S0754.html"><span title="long pharyngealized voiceless uvular ejective affricate" class="alphaid">qX9':</span></a> 
+					<a href="../S/S0121.html"><span title="voiceless aspirated dental/alveolar lateral affricate" class="alphaid">"tlFh</span></a> 
+					<a href="../S/S0115.html"><span title="voiceless dental/alveolar lateral ejective affricate" class="alphaid">"tlF'</span></a> 
+					<a href="../S/S0281.html"><span title="voiceless uvular fricative" class="alphaid">X</span></a> 
+					<a href="../S/S0283.html"><span title="pharyngealized voiceless uvular fricative" class="alphaid">X9</span></a> 
+					<a href="../S/S0213.html"><span title="voiceless pharyngeal fricative" class="alphaid">H</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0285.html"><span title="long voiceless uvular fricative" class="alphaid">X:</span></a> 
+					<a href="../S/S0284.html"><span title="long pharyngealized voiceless uvular fricative" class="alphaid">X9:</span></a> 
+					<a href="../S/S0261.html"><span title="voiced uvular fricative" class="alphaid">RF</span></a> 
+					<a href="../S/S0262.html"><span title="pharyngealized voiced uvular fricative" class="alphaid">RF9</span></a> 
+					<a href="../S/S0171.html"><span title="voiced pharyngeal fricative" class="alphaid">9</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0097.html"><span title="long voiceless dental/alveolar sibilant fricative" class="alphaid">"s:</span></a> 
+					<a href="../S/S0268.html"><span title="long voiceless palato-alveolar sibilant fricative" class="alphaid">S:</span></a> 
+					<a href="../S/S0133.html"><span title="voiced dental/alveolar sibilant fricative" class="alphaid">"z</span></a> 
+					<a href="../S/S0292.html"><span title="voiced palato-alveolar sibilant fricative" class="alphaid">Z</span></a> 
+					<a href="../S/S0033.html"><span title="voiceless dental/alveolar lateral fricative" class="alphaid">"hlF</span></a> 
+					<a href="../S/S0035.html"><span title="long voiceless dental/alveolar lateral fricative" class="alphaid">"hlF:</span></a> 
+					<a href="../S/S0049.html"><span title="voiced dental/alveolar lateral fricative" class="alphaid">"lF</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0092.html"><span title="voiced dental/alveolar r-sound" class="alphaid">"rr</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0584.html"><span title="long labialized voiceless velar plosive" class="alphaid">kW:</span></a> 
+					<a href="../S/S0111.html"><span title="labialized voiceless aspirated dental/alveolar plosive" class="alphaid">"tWh</span></a> 
+					<a href="../S/S0585.html"><span title="labialized voiceless aspirated velar plosive" class="alphaid">kWh</span></a> 
+					<a href="../S/S0017.html"><span title="labialized voiced dental/alveolar plosive" class="alphaid">"dW</span></a> 
+					<a href="../S/S0463.html"><span title="labialized voiced velar plosive" class="alphaid">gW</span></a> 
+					<a href="../S/S0582.html"><span title="labialized voiceless velar ejective stop" class="alphaid">kW'</span></a> 
+					<a href="../S/S0128.html"><span title="labialized voiceless dental/alveolar sibilant ejective affricate" class="alphaid">"tsW'</span></a> 
+					<a href="../S/S0836.html"><span title="labialized voiceless palato-alveolar sibilant ejective affricate" class="alphaid">tSW'</span></a> 
+					<a href="../S/S0756.html"><span title="labialized voiceless uvular affricate" class="alphaid">qXW</span></a> 
+					<a href="../S/S0758.html"><span title="labialized pharyngealized voiceless uvular affricate" class="alphaid">qXW9</span></a> 
+					<a href="../S/S0757.html"><span title="labialized voiceless uvular ejective affricate" class="alphaid">qXW'</span></a> 
+					<a href="../S/S0759.html"><span title="labialized pharyngealized voiceless uvular ejective affricate" class="alphaid">qXW9'</span></a> 
+					<a href="../S/S0120.html"><span title="labialized voiceless aspirated dental/alveolar lateral affricate" class="alphaid">"tlFWh</span></a> 
+					<a href="../S/S0119.html"><span title="labialized voiceless dental/alveolar lateral ejective affricate" class="alphaid">"tlFW'</span></a> 
+					<a href="../S/S0286.html"><span title="labialized voiceless uvular fricative" class="alphaid">XW</span></a> 
+					<a href="../S/S0288.html"><span title="labialized pharyngealized voiceless uvular fricative" class="alphaid">XW9</span></a> 
+					<a href="../S/S0290.html"><span title="long labialized voiceless uvular fricative" class="alphaid">XW:</span></a> 
+					<a href="../S/S0289.html"><span title="long labialized pharyngealized voiceless uvular fricative" class="alphaid">XW9:</span></a> 
+					<a href="../S/S0263.html"><span title="labialized voiced uvular fricative" class="alphaid">RFW</span></a> 
+					<a href="../S/S0264.html"><span title="labialized pharyngealized voiced uvular fricative" class="alphaid">RFW9</span></a> 
+					<a href="../S/S0099.html"><span title="labialized voiceless dental/alveolar sibilant fricative" class="alphaid">"sW</span></a> 
+					<a href="../S/S0270.html"><span title="labialized voiceless palato-alveolar sibilant fricative" class="alphaid">SW</span></a> 
+					<a href="../S/S0100.html"><span title="long labialized voiceless dental/alveolar sibilant fricative" class="alphaid">"sW:</span></a> 
+					<a href="../S/S0136.html"><span title="labialized voiced dental/alveolar sibilant fricative" class="alphaid">"zW</span></a> 
+					<a href="../S/S0295.html"><span title="labialized voiced palato-alveolar sibilant fricative" class="alphaid">ZW</span></a> 
+					<a href="../S/S0037.html"><span title="labialized voiceless dental/alveolar lateral fricative" class="alphaid">"hlFW</span></a> 
+					<a href="../S/S0038.html"><span title="long labialized voiceless dental/alveolar lateral fricative" class="alphaid">"hlFW:</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0535.html"><span title="pharyngealized high front unrounded vowel" class="alphaid">i9</span></a> 
+					<a href="../S/S0025.html"><span title="pharyngealized mid front unrounded vowel" class="alphaid">"e9</span></a> 
+					<a href="../S/S0308.html"><span title="pharyngealized low central unrounded vowel" class="alphaid">a9</span></a> 
+					<a href="../S/S0076.html"><span title="pharyngealized mid back rounded vowel" class="alphaid">"o9</span></a> 
+					<a href="../S/S0858.html"><span title="pharyngealized high back rounded vowel" class="alphaid">u9</span></a> 
+					<a href="../S/S0130.html"><span title="labialized voiceless aspirated dental/alveolar sibilant affricate" class="alphaid">"tsWh</span></a> 
+					<a href="../S/S0838.html"><span title="labialized voiceless aspirated palato-alveolar sibilant affricate" class="alphaid">tSWh</span></a> 
+					<a href="../S/S0271.html"><span title="long labialized voiceless palato-alveolar sibilant fricative" class="alphaid">SW:</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Archi is spoken in mountainous areas of the southern Dagestan ASSR, in the Soviet Union. Kodzasov (1977) treats pharyngealization as a 'suprasegmental' element which can be focussed on a vowel or a uvular consonant. Particularly in the latter case it seems preferable to treat it as segmental. Originally only velar and uvular consonants (and the long lateral fricative ?) had contrastive labialization but there are now a few words with distinctive labialization on most of the dental/alveolar or palato-alveolar obstruents. The voiced lateral fricative arises from morphological combination of a lateral ejective and a dental/alveolar stop but surface contrasts occur with other laterals.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Kodzasov, S.V. 1977. Fonetika Archinskogo Jazyka. Part 2 of A.E. Kibrik, S.V. Kodzasov, I.P. Olovjannikova, D.S. Samedov (eds.), Opyt Strukturnogo Opisanija Archinskogo Jazyka, Vol. 1, Izdatel'stvo Moskovskogo Universiteta, Moscow.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

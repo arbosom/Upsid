@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID APINAYE</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>APINAYE</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6809</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_South American.html">South American</a>, <a href = "../C/C_Macro-Ge.html">Macro-Ge</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>30 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.289874353 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0886.html"><span title="voiced labiodental fricative" class="alphaid">v</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0292.html"><span title="voiced palato-alveolar sibilant fricative" class="alphaid">Z</span></a> 
+					<a href="../S/S0628.html"><span title="prenasalized voiced bilabial plosive" class="alphaid">mb</span></a> 
+					<a href="../S/S0667.html"><span title="prenasalized voiced palatal plosive" class="alphaid">ndj</span></a> 
+					<a href="../S/S0227.html"><span title="prenasalized voiced velar plosive" class="alphaid">Ng</span></a> 
+					<a href="../S/S0764.html"><span title="voiced retroflex flap" class="alphaid">r.[</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0564.html"><span title="nasalized high front unrounded vowel" class="alphaid">i~</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0207.html"><span title="nasalized lower mid front unrounded vowel" class="alphaid">E~</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0346.html"><span title="nasalized low central unrounded vowel" class="alphaid">a~</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0884.html"><span title="nasalized high back rounded vowel" class="alphaid">u~</span></a> 
+					<a href="../S/S0873.html"><span title="high back unrounded vowel" class="alphaid">uu</span></a> 
+					<a href="../S/S0883.html"><span title="nasalized high back unrounded vowel" class="alphaid">uu~</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0719.html"><span title="nasalized higher mid back rounded vowel" class="alphaid">o~</span></a> 
+					<a href="../S/S0692.html"><span title="higher mid back unrounded vowel" class="alphaid">o(</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0297.html"><span title="lower mid back unrounded vowel" class="alphaid">^</span></a> 
+					<a href="../S/S0299.html"><span title="nasalized lower mid back unrounded vowel" class="alphaid">^~</span></a> 
+					<a href="../S/S0659.html"><span title="prenasalized voiced alveolar plosive" class="alphaid">nd</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Burgess, E. and Ham, P. 1968. Multilevel conditioning of phoneme variants in Apinaye. Linguistics 41: 5-18.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

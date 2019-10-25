@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID CHEROKEE</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>CHEROKEE</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6781</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_North American.html">North American</a>, <a href = "../C/C_Keresiouan.html">Keresiouan</a>, <a href = "../C/C_Iroquoian.html">Iroquoian</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>17 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.535541933 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0415.html"><span title="voiced alveolar sibilant affricate" class="alphaid">dz</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0011.html"><span title="nasalized mid central unrounded vowel" class="alphaid">"@~</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>North Carolina dialect. Cherokee is spoken in parts of eastern Oklahoma and also in western North Carolina. Clusters of /h/ + voiced consonant are phonetically voiceless counterparts of the voiced C. Such clusters often arise from a metathesis process switching /h, ?/ and a resonant. A more superficial account might posit a whole set of voiceless consonants.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Bender, E. and Harris, Z.S. 1946. The Phonemes of North Carolina Cherokee. International Journal of American Linguistics 12/1: 14-21. <br>Walker, W. 1975. Cherokee. In Studies in SE Indian Languages. (James M. Crawford, ed.) University of Georgia Press, Athens. <br>Cook, W.H. 1979. A Grammar of North Carolina Cherokee. PhD dissertation, Yale.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

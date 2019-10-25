@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID POHNPEIAN</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>POHNPEIAN</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2430</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td>PONAPEAN</td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Austro-Tai.html">Austro-Tai</a>, <a href = "../C/C_East Malayo-Polynesian.html">East Malayo-Polynesian</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>20 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.443791574 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0728.html"><span title="labialized voiceless bilabial plosive" class="alphaid">pW</span></a> 
+					<a href="../S/S0812.html"><span title="voiceless dental plosive" class="alphaid">tD</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0805.html"><span title="voiceless retroflex sibilant affricate" class="alphaid">t.s</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0626.html"><span title="labialized voiced bilabial nasal" class="alphaid">mW</span></a> 
+					<a href="../S/S0648.html"><span title="voiced dental nasal" class="alphaid">nD</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0761.html"><span title="voiced alveolar trill" class="alphaid">r</span></a> 
+					<a href="../S/S0606.html"><span title="voiced dental lateral approximant" class="alphaid">lD</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Main dialect. Pohnpeian is spoken in Pohnpei, Federated States of Micronesia. A higher mid front vowel [e] occurs when a high vowel or glide follows in underlying forms. Surface contrasts arise with the lower mid front vowel (Rehg 1984). All vowels can appear long, often as a result of compensatory lengthening.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Rehg, K. 1981. Ponapean Reference Grammar. University Press of Hawaii, Honolulu. <br>Rehg, K. 1984. Nasal substitution rules in Ponapean. In B.W. Bender (ed.), Studies in Micronesian Linguistics (Pacific Linguistics, Series C, No. 80). Australian National University, Canberra. <br>Rehg, K. 1984. On the history of Ponapean phonolgy. In B.W. Bender (ed.), Studies in Micronesian Linguistics (Pacific Linguistics, Series C, No. 80). Australian National University, Canberra.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

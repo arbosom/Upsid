@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID WOLOF</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>WOLOF</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>4107</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Niger-Kordofanian.html">Niger-Kordofanian</a>, <a href = "../C/C_West Atlantic.html">West Atlantic</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>40 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.330044346 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0352.html"><span title="long voiced bilabial plosive" class="alphaid">b:</span></a> 
+					<a href="../S/S0363.html"><span title="voiceless palatal plosive" class="alphaid">c</span></a> 
+					<a href="../S/S0405.html"><span title="voiced palatal plosive" class="alphaid">dj</span></a> 
+					<a href="../S/S0407.html"><span title="long voiced palatal plosive" class="alphaid">dj:</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0749.html"><span title="voiceless uvular affricate" class="alphaid">qX</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0281.html"><span title="voiceless uvular fricative" class="alphaid">X</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0623.html"><span title="long voiced bilabial nasal" class="alphaid">m:</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0090.html"><span title="voiced dental/alveolar flap" class="alphaid">"r[</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0537.html"><span title="long high front unrounded vowel" class="alphaid">i:</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0421.html"><span title="long higher mid front unrounded vowel" class="alphaid">e:</span></a> 
+					<a href="../S/S0699.html"><span title="higher mid front rounded vowel" class="alphaid">o/</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0200.html"><span title="long lower mid front unrounded vowel" class="alphaid">E:</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0312.html"><span title="long low central unrounded vowel" class="alphaid">a:</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0860.html"><span title="long high back rounded vowel" class="alphaid">u:</span></a> 
+					<a href="../S/S0704.html"><span title="long higher mid back rounded vowel" class="alphaid">o:</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0242.html"><span title="long lower mid back rounded vowel" class="alphaid">O:</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0606.html"><span title="voiced dental lateral approximant" class="alphaid">lD</span></a> 
+					<a href="../S/S0608.html"><span title="long voiced dental lateral approximant" class="alphaid">lD:</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0647.html"><span title="long voiced alveolar nasal" class="alphaid">n:</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Manessy, G. and Sauvageot, S. 1963. Notes Preliminaires to Wolof et Serer: Etudes de Phonetique et de Grammaire Descriptive. Universite de Dakar, Dakar. <br>Sauvageot, S. 1965. Description Synchronique d'un Dialecte Wolof: le Parler du Dyolof (Memoires de l'Institut Fondamental d'Afrique Noire 73). IFAN, Dakar. <br>Sauvageot, S. 1963. A short phonetic study of Wolof (Jolof) as spoken in the Gambia and in Senegal. Wolof et Serer (Manessy and Sauvageot, eds.) Universite de Dakar, Dakar.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID ACHE</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>ACHE</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6866</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td>GUAYAKI</td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_South American.html">South American</a>, <a href = "../C/C_Equatorial.html">Equatorial</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>21 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.383697603 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0628.html"><span title="prenasalized voiced bilabial plosive" class="alphaid">mb</span></a> 
+					<a href="../S/S0058.html"><span title="prenasalized voiced dental/alveolar plosive" class="alphaid">"nd</span></a> 
+					<a href="../S/S0227.html"><span title="prenasalized voiced velar plosive" class="alphaid">Ng</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0395.html"><span title="voiced palato-alveolar sibilant affricate" class="alphaid">dZ</span></a> 
+					<a href="../S/S0186.html"><span title="voiced bilabial fricative" class="alphaid">B</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0051.html"><span title="voiced dental/alveolar lateral flap" class="alphaid">"l[</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0564.html"><span title="nasalized high front unrounded vowel" class="alphaid">i~</span></a> 
+					<a href="../S/S0029.html"><span title="nasalized mid front unrounded vowel" class="alphaid">"e~</span></a> 
+					<a href="../S/S0346.html"><span title="nasalized low central unrounded vowel" class="alphaid">a~</span></a> 
+					<a href="../S/S0081.html"><span title="nasalized mid back rounded vowel" class="alphaid">"o~</span></a> 
+					<a href="../S/S0884.html"><span title="nasalized high back rounded vowel" class="alphaid">u~</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Ache is spoken by a very small group of surviving speakers in the Alta Pou reservation, Alto Parana, Paraguay. Susnik's description is quite unorthodox and leaves somewhat unclear exactly what consonants and vowels are contrastive. In particular nasalized vowels seem often predictable if prenasalized stops and /m/ are assumed to be underlying. However, the analysis adopted here assumes that they are contrastive because a few are cited in words with voiceless stops. On the other hand [n] is taken to be an allophone of the lateral flap.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Susnik, B. 1974. Estudios Guayaki: Sistema fonetico y tematico. Museo Etnografico "Andres Barbero", Asuncion, Paraguay.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

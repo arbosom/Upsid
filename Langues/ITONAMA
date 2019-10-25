@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID ITONAMA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>ITONAMA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6800</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_South American.html">South American</a>, <a href = "../C/C_Paezan.html">Paezan</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>25 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.469179601 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0108.html"><span title="palatalized voiceless dental/alveolar plosive" class="alphaid">"tJ</span></a> 
+					<a href="../S/S0103.html"><span title="voiceless dental/alveolar ejective stop" class="alphaid">"t'</span></a> 
+					<a href="../S/S0012.html"><span title="voiced dental/alveolar plosive" class="alphaid">"d</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0574.html"><span title="voiceless velar ejective stop" class="alphaid">k'</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0828.html"><span title="voiceless palato-alveolar sibilant ejective affricate" class="alphaid">tS'</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0090.html"><span title="voiced dental/alveolar flap" class="alphaid">"r[</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0545.html"><span title="high central unrounded vowel" class="alphaid">i_</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Liccardi, M. and Grimes, J. 1968. Itonama intonation and phonemes. Linguistics 38: 36-41.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

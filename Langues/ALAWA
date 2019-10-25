@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID ALAWA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>ALAWA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>8354</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Australian.html">Australian</a>, <a href = "../C/C_Maran.html">Maran</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>26 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.318864063 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0642.html"><span title="voiced retroflex nasal" class="alphaid">n.</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0761.html"><span title="voiced alveolar trill" class="alphaid">r</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0655.html"><span title="voiced palato-alveolar nasal" class="alphaid">n_</span></a> 
+					<a href="../S/S0666.html"><span title="prenasalized voiced palato-alveolar plosive" class="alphaid">nd_</span></a> 
+					<a href="../S/S0628.html"><span title="prenasalized voiced bilabial plosive" class="alphaid">mb</span></a> 
+					<a href="../S/S0659.html"><span title="prenasalized voiced alveolar plosive" class="alphaid">nd</span></a> 
+					<a href="../S/S0660.html"><span title="prenasalized voiced retroflex plosive" class="alphaid">nd.</span></a> 
+					<a href="../S/S0227.html"><span title="prenasalized voiced velar plosive" class="alphaid">Ng</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0601.html"><span title="voiced retroflex lateral approximant" class="alphaid">l.</span></a> 
+					<a href="../S/S0617.html"><span title="voiced palato-alveolar lateral approximant" class="alphaid">l_</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0277.html"><span title="lowered high back unrounded vowel" class="alphaid">UU</span></a> 
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0840.html"><span title="voiceless palato-alveolar plosive" class="alphaid">t_</span></a> 
+					<a href="../S/S0800.html"><span title="voiceless retroflex plosive" class="alphaid">t.</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0766.html"><span title="voiced alveolar approximant" class="alphaid">rA</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Plosives vary in perceived voicing. Prenasalized stops can be distinguished from homorganic nasal + plosive on the basis of syllabification. The contrast between retroflex and alveolar is limited to intervocalic positions. /e/ seems to be a recent development from /a/.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Sharpe, M. 1972. Alawa Phonology and Grammar (Australian Aboriginal Studies 37). Australian Institute of Aboriginal Studies, Canberra.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

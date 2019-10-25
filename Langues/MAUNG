@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID MAUNG</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>MAUNG</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>8350</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Australian.html">Australian</a>, <a href = "../C/C_Yiwaidjan.html">Yiwaidjan</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>22 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.423503326 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0800.html"><span title="voiceless retroflex plosive" class="alphaid">t.</span></a> 
+					<a href="../S/S0642.html"><span title="voiced retroflex nasal" class="alphaid">n.</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0457.html"><span title="voiced velar fricative" class="alphaid">gF</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0601.html"><span title="voiced retroflex lateral approximant" class="alphaid">l.</span></a> 
+					<a href="../S/S0761.html"><span title="voiced alveolar trill" class="alphaid">r</span></a> 
+					<a href="../S/S0766.html"><span title="voiced alveolar approximant" class="alphaid">rA</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0764.html"><span title="voiced retroflex flap" class="alphaid">r.[</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0840.html"><span title="voiceless palato-alveolar plosive" class="alphaid">t_</span></a> 
+					<a href="../S/S0655.html"><span title="voiced palato-alveolar nasal" class="alphaid">n_</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Maung plosives are "voiceless lenes". They "tend to be voiced in the pre-stop position and voiceless in the post-stop and word-final position. Following the nasals they are voiced, and elsewhere they freely vary between voiced and voiceless." (Capell and Hinch, 1970:21).</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Capell, C. and Hinch, H.E. 1970. Maung Grammar. Mouton, The Hague.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

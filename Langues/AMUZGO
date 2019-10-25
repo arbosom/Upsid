@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID AMUZGO</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>AMUZGO</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6770</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_North American.html">North American</a>, <a href = "../C/C_Oto-Manguean.html">Oto-Manguean</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>37 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.349074130 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0840.html"><span title="voiceless palato-alveolar plosive" class="alphaid">t_</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0578.html"><span title="palatalized voiceless velar plosive" class="alphaid">kJ</span></a> 
+					<a href="../S/S0581.html"><span title="labialized voiceless velar plosive" class="alphaid">kW</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0628.html"><span title="prenasalized voiced bilabial plosive" class="alphaid">mb</span></a> 
+					<a href="../S/S0666.html"><span title="prenasalized voiced palato-alveolar plosive" class="alphaid">nd_</span></a> 
+					<a href="../S/S0227.html"><span title="prenasalized voiced velar plosive" class="alphaid">Ng</span></a> 
+					<a href="../S/S0847.html"><span title="voiceless alveolar sibilant affricate" class="alphaid">ts</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0186.html"><span title="voiced bilabial fricative" class="alphaid">B</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0655.html"><span title="voiced palato-alveolar nasal" class="alphaid">n_</span></a> 
+					<a href="../S/S0774.html"><span title="voiced alveolar flap" class="alphaid">r[</span></a> 
+					<a href="../S/S0761.html"><span title="voiced alveolar trill" class="alphaid">r</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0325.html"><span title="raised low front unrounded vowel" class="alphaid">aa</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0316.html"><span title="low back rounded vowel" class="alphaid">a_)</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0029.html"><span title="nasalized mid front unrounded vowel" class="alphaid">"e~</span></a> 
+					<a href="../S/S0330.html"><span title="nasalized raised low front unrounded vowel" class="alphaid">aa~</span></a> 
+					<a href="../S/S0346.html"><span title="nasalized low central unrounded vowel" class="alphaid">a~</span></a> 
+					<a href="../S/S0320.html"><span title="nasalized low back rounded vowel" class="alphaid">a_)~</span></a> 
+					<a href="../S/S0081.html"><span title="nasalized mid back rounded vowel" class="alphaid">"o~</span></a> 
+					<a href="../S/S0659.html"><span title="prenasalized voiced alveolar plosive" class="alphaid">nd</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Amuzgo contrasts ballistic and controlled syllables. Ballistic syllables have sharply falling pitch and amplitude contours. It also has three level tones and high-low, mid-high and low-mid contour tones. The prenasalized stops are described as occluded (post-stopped) nasals with a "lenis" homorganic stop. They contrast with nasal + stop sequences. A possible analysis (not among those suggested by Bauernschmidt) is to treat these as allophones of the plain nasals before oral vowels since the oral/nasalized vowel contrast is neutralized after a nasal. This would mean that a velar nasal would only occur before an oral vowel, so it is not accepted here. Bilabials and t,n are described as velarized.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Bauernschmidt, A. 1965. Amuzgo syllable dynamics. Language 41: 471-483. <br>Longacre, R.E. 1966. On linguistic affinities of Amuzgo. International Journal of American Linguistics 32: 46-49.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

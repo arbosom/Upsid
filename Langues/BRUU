@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID BRUU</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>BRUU</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2316</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td>BROU</td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Austro-Asiatic.html">Austro-Asiatic</a>, <a href = "../C/C_Katuic.html">Katuic</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>42 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.312691374 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0112.html"><span title="voiceless aspirated dental/alveolar plosive" class="alphaid">"th</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0012.html"><span title="voiced dental/alveolar plosive" class="alphaid">"d</span></a> 
+					<a href="../S/S0367.html"><span title="voiceless palatal sibilant affricate" class="alphaid">cC,</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0092.html"><span title="voiced dental/alveolar r-sound" class="alphaid">"rr</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0316.html"><span title="low back rounded vowel" class="alphaid">a_)</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0297.html"><span title="lower mid back unrounded vowel" class="alphaid">^</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0692.html"><span title="higher mid back unrounded vowel" class="alphaid">o(</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0873.html"><span title="high back unrounded vowel" class="alphaid">uu</span></a> 
+					<a href="../S/S0560.html"><span title="breathy voiced high front unrounded vowel" class="alphaid">ih</span></a> 
+					<a href="../S/S0425.html"><span title="breathy voiced higher mid front unrounded vowel" class="alphaid">eh</span></a> 
+					<a href="../S/S0203.html"><span title="breathy voiced lower-mid front unrounded vowel" class="alphaid">Eh</span></a> 
+					<a href="../S/S0334.html"><span title="breathy voiced low central unrounded vowel" class="alphaid">ah</span></a> 
+					<a href="../S/S0319.html"><span title="breathy voiced low back rounded vowel" class="alphaid">a_)h</span></a> 
+					<a href="../S/S0244.html"><span title="breathy voiced lower-mid back rounded vowel" class="alphaid">Oh</span></a> 
+					<a href="../S/S0298.html"><span title="breathy voiced lower mid back unrounded vowel" class="alphaid">^h</span></a> 
+					<a href="../S/S0711.html"><span title="breathy voiced higher mid back rounded vowel" class="alphaid">oh</span></a> 
+					<a href="../S/S0694.html"><span title="breathy voiced higher mid back unrounded vowel" class="alphaid">o(h</span></a> 
+					<a href="../S/S0868.html"><span title="breathy voiced high back rounded vowel" class="alphaid">uh</span></a> 
+					<a href="../S/S0880.html"><span title="breathy voiced high back unrounded vowel" class="alphaid">uuh</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Western dialect. W. Bruu is spoken in areas of Savannehkhet province, Laos and Ubon Rachathani province, Thailand. The 'register' distinction between plain and breathy voice quality is localized in the vowels in this interpretation. Aspirated or voiced stops do not occur before breathy vowels, neither does /s/. The inital ("minor") syllable of disyllabic words does not have plain/breathy contrast. Vowels are nasalized rather than breathy in phonologically "breathy" syllables after /h/ and /?/.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Thongkum, T.L. 1979. The distribution of the sounds of Bruu. Mon-Khmer Studies VIII:221-93.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID HAUSA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>HAUSA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>4366</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Afro-Asiatic.html">Afro-Asiatic</a>, <a href = "../C/C_Chadic.html">Chadic</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>38 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.348348699 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0353.html"><span title="voiced bilabial implosive" class="alphaid">b<</span></a> 
+					<a href="../S/S0581.html"><span title="labialized voiceless velar plosive" class="alphaid">kW</span></a> 
+					<a href="../S/S0578.html"><span title="palatalized voiceless velar plosive" class="alphaid">kJ</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0463.html"><span title="labialized voiced velar plosive" class="alphaid">gW</span></a> 
+					<a href="../S/S0461.html"><span title="palatalized voiced velar plosive" class="alphaid">gJ</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0582.html"><span title="labialized voiceless velar ejective stop" class="alphaid">kW'</span></a> 
+					<a href="../S/S0579.html"><span title="palatalized voiceless velar ejective stop" class="alphaid">kJ'</span></a> 
+					<a href="../S/S0574.html"><span title="voiceless velar ejective stop" class="alphaid">k'</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0395.html"><span title="voiced palato-alveolar sibilant affricate" class="alphaid">dZ</span></a> 
+					<a href="../S/S0251.html"><span title="voiceless bilabial fricative" class="alphaid">P</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0761.html"><span title="voiced alveolar trill" class="alphaid">r</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0569.html"><span title="laryngealized voiced palatal approximant" class="alphaid">j*</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0342.html"><span title="low central unrounded to high back rounded diphthong" class="alphaid">au</span></a> 
+					<a href="../S/S0335.html"><span title="low central unrounded to high front unrounded diphthong" class="alphaid">ai</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0384.html"><span title="voiced alveolar implosive" class="alphaid">d<</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0907.html"><span title="voiced alveolar sibilant fricative" class="alphaid">z</span></a> 
+					<a href="../S/S0786.html"><span title="laryngealized voiceless alveolar sibilant fricative" class="alphaid">s*</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0764.html"><span title="voiced retroflex flap" class="alphaid">r.[</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Hausa has two level tones which may combine to form a falling tone. Vowels may occur long or short. For many speakers the diphthong /ai/ is pronounced /e:/ in most positions. Palatalized velars do not contrast with plain velars before front vowels /i,e/ nor do labialized velars contrast before back vowels /u,o/.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Abraham, R.C. 1934. The Principles of Hausa vol. 1. Government Printer, Kaduna. <br>Abraham, R.C. 1959. The Language of the Hausa People. University of London Press Ltd., London. <br>Abraham, R.C. Hausa Literature and the Hausa Sound System. University of London Press, London. <br>Brauner, S. and Ashiwajn, M. 1966. Lehrbuch der Hausa-Sprache. Max Hueben Verlag, Munich. <br>Greenberg, T.H. 1941. Some problems in Hausa phonology. Language 17: 316-323. <br>Hodge, C.T. 1947. An Outline of Hausa Grammar (Language Dissertation 41). Linguistic Society of America, Baltimore. <br>Hodge, C.T. and Umaru, I. 1963. Hausa Basic Course. Foreign Service Institute, Washington D.C. <br>Kraft, C.H. 1963. A Study of Hausa Syntax, Vol.I., Structure. Department of Linguistics, The Hartford Seminary Foundation, Hartford, Connecticut. <br>Kraft, C.H. and Kirk-Greene, A.H.M. 1973. Hausa. Teach Yourself Books, London. <br>Kraft, C.H. and Kraft, M.G. 1973. Introductory Hausa. University of California Press, Berkeley. <br>Taylor, F.W. 1959. A Practical Hausa Grammar. Clarendon Press, Oxford.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

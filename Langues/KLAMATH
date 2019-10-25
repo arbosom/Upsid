@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID KLAMATH</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>KLAMATH</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6707</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_North American.html">North American</a>, <a href = "../C/C_Penutian.html">Penutian</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>37 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.275423983 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0405.html"><span title="voiced palatal plosive" class="alphaid">dj</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0842.html"><span title="voiceless aspirated alveolar plosive" class="alphaid">th</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0372.html"><span title="voiceless aspirated palatal plosive" class="alphaid">ch</span></a> 
+					<a href="../S/S0760.html"><span title="voiceless aspirated uvular plosive" class="alphaid">qh</span></a> 
+					<a href="../S/S0209.html"><span title="voiced uvular plosive" class="alphaid">G</span></a> 
+					<a href="../S/S0736.html"><span title="voiceless uvular ejective stop" class="alphaid">q'</span></a> 
+					<a href="../S/S0574.html"><span title="voiceless velar ejective stop" class="alphaid">k'</span></a> 
+					<a href="../S/S0364.html"><span title="voiceless palatal ejective stop" class="alphaid">c'</span></a> 
+					<a href="../S/S0798.html"><span title="voiceless alveolar ejective stop" class="alphaid">t'</span></a> 
+					<a href="../S/S0722.html"><span title="voiceless bilabial ejective stop" class="alphaid">p'</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0640.html"><span title="laryngealized voiced alveolar nasal" class="alphaid">n*</span></a> 
+					<a href="../S/S0893.html"><span title="laryngealized voiced labial-velar approximant" class="alphaid">w*</span></a> 
+					<a href="../S/S0599.html"><span title="laryngealized voiced alveolar lateral approximant" class="alphaid">l*</span></a> 
+					<a href="../S/S0569.html"><span title="laryngealized voiced palatal approximant" class="alphaid">j*</span></a> 
+					<a href="../S/S0622.html"><span title="laryngealized voiced bilabial nasal" class="alphaid">m*</span></a> 
+					<a href="../S/S0499.html"><span title="voiceless bilabial nasal" class="alphaid">hm</span></a> 
+					<a href="../S/S0530.html"><span title="voiceless labial-velar approximant" class="alphaid">hw</span></a> 
+					<a href="../S/S0488.html"><span title="voiceless alveolar lateral approximant" class="alphaid">hl</span></a> 
+					<a href="../S/S0486.html"><span title="voiceless palatal approximant" class="alphaid">hj</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0500.html"><span title="voiceless alveolar nasal" class="alphaid">hn</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Barker, M.A.R. 1964. Klamath Grammar. University of California Press, Berkeley and Los Angeles.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

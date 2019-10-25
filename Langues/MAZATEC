@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID MAZATEC</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>MAZATEC</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6727</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_North American.html">North American</a>, <a href = "../C/C_Oto-Manguean.html">Oto-Manguean</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>33 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.330040986 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0847.html"><span title="voiceless alveolar sibilant affricate" class="alphaid">ts</span></a> 
+					<a href="../S/S0805.html"><span title="voiceless retroflex sibilant affricate" class="alphaid">t.s</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0457.html"><span title="voiced velar fricative" class="alphaid">gF</span></a> 
+					<a href="../S/S0168.html"><span title="voiced dental fricative" class="alphaid">6D</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0787.html"><span title="voiceless retroflex sibilant fricative" class="alphaid">s.</span></a> 
+					<a href="../S/S0186.html"><span title="voiced bilabial fricative" class="alphaid">B</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0655.html"><span title="voiced palato-alveolar nasal" class="alphaid">n_</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0083.html"><span title="voiced dental/alveolar trill" class="alphaid">"r</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0058.html"><span title="prenasalized voiced dental/alveolar plosive" class="alphaid">"nd</span></a> 
+					<a href="../S/S0227.html"><span title="prenasalized voiced velar plosive" class="alphaid">Ng</span></a> 
+					<a href="../S/S0670.html"><span title="prenasalized voiced alveolar sibilant affricate" class="alphaid">ndz</span></a> 
+					<a href="../S/S0661.html"><span title="prenasalized voiced retroflex sibilant affricate" class="alphaid">nd.z</span></a> 
+					<a href="../S/S0665.html"><span title="prenasalized voiced palato-alveolar sibilant affricate" class="alphaid">ndZ</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0564.html"><span title="nasalized high front unrounded vowel" class="alphaid">i~</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0207.html"><span title="nasalized lower mid front unrounded vowel" class="alphaid">E~</span></a> 
+					<a href="../S/S0346.html"><span title="nasalized low central unrounded vowel" class="alphaid">a~</span></a> 
+					<a href="../S/S0719.html"><span title="nasalized higher mid back rounded vowel" class="alphaid">o~</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Jamieson, A.R. 1977. Chiquihuitlan Mazatec phonology. In Merrifield, W.R. (ed.) Studies in Otomanguean Phonology. Summer Institute of Linguistics Publications in Linguistics 54: 93-106. <br>Jamieson, A.R. 1977. Chiquihuitlan Mazatec tone. in Merrifield, W.R. (ed.) Studies in Otomanguean Phonology. Summer Institute of Linguistics Publications in Linguistics 54: 107-136. <br>Pike, K.L. and Pike, E.V. 1947. Immediate constituents of Mazateco syllables. International Journal of American Linguistics 13: 78-91.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

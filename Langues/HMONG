@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID HMONG</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>HMONG</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2519</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td>MIAO</td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Sino-Tibetan.html">Sino-Tibetan</a>, <a href = "../C/C_Hmong-Mien.html">Hmong-Mien</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>56 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.208465315 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0812.html"><span title="voiceless dental plosive" class="alphaid">tD</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0735.html"><span title="voiceless uvular plosive" class="alphaid">q</span></a> 
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0820.html"><span title="voiceless aspirated dental plosive" class="alphaid">tDh</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0760.html"><span title="voiceless aspirated uvular plosive" class="alphaid">qh</span></a> 
+					<a href="../S/S0632.html"><span title="prenasalized voiceless bilabial plosive" class="alphaid">mp</span></a> 
+					<a href="../S/S0680.html"><span title="prenasalized voiceless dental plosive" class="alphaid">ntD</span></a> 
+					<a href="../S/S0230.html"><span title="prenasalized voiceless velar plosive" class="alphaid">Nk</span></a> 
+					<a href="../S/S0236.html"><span title="prenasalized voiceless uvular plosive" class="alphaid">Nq</span></a> 
+					<a href="../S/S0633.html"><span title="prenasalized voiceless aspirated bilabial plosive" class="alphaid">mph</span></a> 
+					<a href="../S/S0681.html"><span title="prenasalized voiceless aspirated dental plosive" class="alphaid">ntDh</span></a> 
+					<a href="../S/S0233.html"><span title="prenasalized voiceless aspirated velar plosive" class="alphaid">Nkh</span></a> 
+					<a href="../S/S0237.html"><span title="prenasalized voiceless aspirated uvular plosive" class="alphaid">Nqh</span></a> 
+					<a href="../S/S0822.html"><span title="voiceless dental sibilant affricate" class="alphaid">tDs</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0805.html"><span title="voiceless retroflex sibilant affricate" class="alphaid">t.s</span></a> 
+					<a href="../S/S0825.html"><span title="voiceless aspirated dental sibilant affricate" class="alphaid">tDsh</span></a> 
+					<a href="../S/S0839.html"><span title="voiceless aspirated palato-alveolar sibilant affricate" class="alphaid">tSh</span></a> 
+					<a href="../S/S0807.html"><span title="voiceless aspirated retroflex sibilant affricate" class="alphaid">t.sh</span></a> 
+					<a href="../S/S0684.html"><span title="prenasalized voiceless palato-alveolar sibilant affricate" class="alphaid">ntS</span></a> 
+					<a href="../S/S0682.html"><span title="prenasalized voiceless dental sibilant affricate" class="alphaid">ntDs</span></a> 
+					<a href="../S/S0678.html"><span title="prenasalized voiceless retroflex sibilant affricate" class="alphaid">nt.s</span></a> 
+					<a href="../S/S0683.html"><span title="prenasalized voiceless aspirated dental sibilant affricate" class="alphaid">ntDsh</span></a> 
+					<a href="../S/S0685.html"><span title="prenasalized voiceless aspirated palato-alveolar sibilant affricate" class="alphaid">ntSh</span></a> 
+					<a href="../S/S0679.html"><span title="prenasalized voiceless aspirated retroflex sibilant affricate" class="alphaid">nt.sh</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0886.html"><span title="voiced labiodental fricative" class="alphaid">v</span></a> 
+					<a href="../S/S0791.html"><span title="voiceless dental sibilant fricative" class="alphaid">sD</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0787.html"><span title="voiceless retroflex sibilant fricative" class="alphaid">s.</span></a> 
+					<a href="../S/S0292.html"><span title="voiced palato-alveolar sibilant fricative" class="alphaid">Z</span></a> 
+					<a href="../S/S0909.html"><span title="voiced retroflex sibilant fricative" class="alphaid">z.</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0648.html"><span title="voiced dental nasal" class="alphaid">nD</span></a> 
+					<a href="../S/S0655.html"><span title="voiced palato-alveolar nasal" class="alphaid">n_</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0499.html"><span title="voiceless bilabial nasal" class="alphaid">hm</span></a> 
+					<a href="../S/S0516.html"><span title="voiceless dental nasal" class="alphaid">hnD</span></a> 
+					<a href="../S/S0518.html"><span title="voiceless palato-alveolar nasal" class="alphaid">hn_</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0488.html"><span title="voiceless alveolar lateral approximant" class="alphaid">hl</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0316.html"><span title="low back rounded vowel" class="alphaid">a_)</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0335.html"><span title="low central unrounded to high front unrounded diphthong" class="alphaid">ai</span></a> 
+					<a href="../S/S0342.html"><span title="low central unrounded to high back rounded diphthong" class="alphaid">au</span></a> 
+					<a href="../S/S0206.html"><span title="lower mid front unrounded to high back unrounded diphthong" class="alphaid">Euu</span></a> 
+					<a href="../S/S0182.html"><span title="mid central unrounded to high back rounded diphthong" class="alphaid">@u</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Dananshan dialect, Xianjin Xiang, Guizhou. Miao dialects are spoken in quite widely scattered areas of Hunan, Hubei, Guizhou, Guangxi, Sichuan, Yunnan in China and in northern parts of Thailand, Laos and Vietnam. The dialect represented here is described in the Miao Language Team article (1962) and by Wang (1983, 1985). It is described with 8 tones, transcribed on the Chinese 5-point scale as 55, 44, 33, 43, 31, 24, 21, 13. Aspirated stops, voiceless nasals and voiceless fricatives only occur with the first 4 tones in this list. Unaspirated stops, voiced nasals and voiced fricatives occur with all eight tones but become breathy voiced ("voiced aspirates") with the last two tones (low-fall and low rise). An alternative analysis might add breathy voiced segments to the consonant inventory and reduce the number of tones but the consonants undergo an alternation when tone sandhi results in the 13 tone replacing another tone. Hence breathy voicing is treated as an attribute of these tones. /l/ clusters with labial stops and with /t/ and /th/ initially. Native words seem to have mostly simple vocalism but more complex vowel nuclei have been borrowed from Chinese. Only dental and velar nasals occur as syllable final consonants.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Wang, Fushi. 1985. Miaoyu jianzhi. Brief guide to Miao language. Minzu Chubanshe, Beijing. <br>Wang, Fushi. 1983. Miaoyu fangyan huafen wenti (On the division of Miao dialects). Minzu Yuwen, 1983.5: 1-22. <br>Purnell, H.C. (editor) 1972. Miao and Yao Linguistic Studies, Selected articles in Chinese, translated by Chang Yu-hung and Chu Kwo-ray. Linguistics Series VII. Department of Asian Studies, Cornell University, Ithaca.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

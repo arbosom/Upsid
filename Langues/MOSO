@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID NAXI</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>NAXI</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2525</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td>NAKHI, NAHSI, MOSO</td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Sino-Tibetan.html">Sino-Tibetan</a>, <a href = "../C/C_Lolo-Burmese.html">Lolo-Burmese</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>49 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.218018915 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0842.html"><span title="voiceless aspirated alveolar plosive" class="alphaid">th</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0628.html"><span title="prenasalized voiced bilabial plosive" class="alphaid">mb</span></a> 
+					<a href="../S/S0659.html"><span title="prenasalized voiced alveolar plosive" class="alphaid">nd</span></a> 
+					<a href="../S/S0227.html"><span title="prenasalized voiced velar plosive" class="alphaid">Ng</span></a> 
+					<a href="../S/S0822.html"><span title="voiceless dental sibilant affricate" class="alphaid">tDs</span></a> 
+					<a href="../S/S0805.html"><span title="voiceless retroflex sibilant affricate" class="alphaid">t.s</span></a> 
+					<a href="../S/S0367.html"><span title="voiceless palatal sibilant affricate" class="alphaid">cC,</span></a> 
+					<a href="../S/S0825.html"><span title="voiceless aspirated dental sibilant affricate" class="alphaid">tDsh</span></a> 
+					<a href="../S/S0807.html"><span title="voiceless aspirated retroflex sibilant affricate" class="alphaid">t.sh</span></a> 
+					<a href="../S/S0369.html"><span title="voiceless aspirated palatal sibilant affricate" class="alphaid">cC,h</span></a> 
+					<a href="../S/S0393.html"><span title="voiced dental sibilant affricate" class="alphaid">dDz</span></a> 
+					<a href="../S/S0383.html"><span title="voiced retroflex sibilant affricate" class="alphaid">d.z</span></a> 
+					<a href="../S/S0411.html"><span title="voiced sibilant palatal affricate" class="alphaid">djz,</span></a> 
+					<a href="../S/S0663.html"><span title="prenasalized voiced dental sibilant affricate" class="alphaid">ndDz</span></a> 
+					<a href="../S/S0661.html"><span title="prenasalized voiced retroflex sibilant affricate" class="alphaid">nd.z</span></a> 
+					<a href="../S/S0669.html"><span title="prenasalized voiced palatal sibilant affricate" class="alphaid">ndjz,</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0281.html"><span title="voiceless uvular fricative" class="alphaid">X</span></a> 
+					<a href="../S/S0886.html"><span title="voiced labiodental fricative" class="alphaid">v</span></a> 
+					<a href="../S/S0457.html"><span title="voiced velar fricative" class="alphaid">gF</span></a> 
+					<a href="../S/S0791.html"><span title="voiceless dental sibilant fricative" class="alphaid">sD</span></a> 
+					<a href="../S/S0787.html"><span title="voiceless retroflex sibilant fricative" class="alphaid">s.</span></a> 
+					<a href="../S/S0193.html"><span title="voiceless palatal sibilant fricative" class="alphaid">C,</span></a> 
+					<a href="../S/S0911.html"><span title="voiced dental sibilant fricative" class="alphaid">zD</span></a> 
+					<a href="../S/S0909.html"><span title="voiced retroflex sibilant fricative" class="alphaid">z.</span></a> 
+					<a href="../S/S0908.html"><span title="voiced palatal sibilant fricative" class="alphaid">z,</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0903.html"><span title="high front rounded vowel" class="alphaid">y</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0325.html"><span title="raised low front unrounded vowel" class="alphaid">aa</span></a> 
+					<a href="../S/S0315.html"><span title="low back unrounded vowel" class="alphaid">a_</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0873.html"><span title="high back unrounded vowel" class="alphaid">uu</span></a> 
+					<a href="../S/S0005.html"><span title="mid central unrounded vowel" class="alphaid">"@</span></a> 
+					<a href="../S/S0008.html"><span title="retroflexed mid central unrounded vowel" class="alphaid">"@.</span></a> 
+					<a href="../S/S0877.html"><span title="fricative high back unrounded lip-compressed vowel" class="alphaid">uuF</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Lijiang dialect. Naxi is spoken in Northwestern Yunnan, China, primarily around Lijiang. The fricative vowel contrasts with /u/; it has a bilabial trill allophone after bilabial consonants. High vowels /i,u,y/ occur before a number of non-high vowels; the 11 resulting sequences might be regarded as diphthongs. Naxi has 4 tones, high, mid, low rising, and low falling. Bradley (1975) suggests that the rising tone only occurs in loan vocabulary.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Bradley, D. 1975. Nahsi and Proto-Burmese-Lolo. Linguistics of the Tibeto-Burman Area 2.1:93-150. <br>Jiang, Zhu-yi. Naxiyu gaikuang (A Brief Description of the Naxi Language). Minzu Yuwen, 1980.3 (August), 59-73.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

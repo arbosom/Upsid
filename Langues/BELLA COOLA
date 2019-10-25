@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID BELLA COOLA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>BELLA COOLA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6771</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_North American.html">North American</a>, <a href = "../C/C_Almosan.html">Almosan</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>31 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.256204849 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0812.html"><span title="voiceless dental plosive" class="alphaid">tD</span></a> 
+					<a href="../S/S0363.html"><span title="voiceless palatal plosive" class="alphaid">c</span></a> 
+					<a href="../S/S0581.html"><span title="labialized voiceless velar plosive" class="alphaid">kW</span></a> 
+					<a href="../S/S0735.html"><span title="voiceless uvular plosive" class="alphaid">q</span></a> 
+					<a href="../S/S0742.html"><span title="labialized voiceless uvular plosive" class="alphaid">qW</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0722.html"><span title="voiceless bilabial ejective stop" class="alphaid">p'</span></a> 
+					<a href="../S/S0813.html"><span title="voiceless dental ejective stop" class="alphaid">tD'</span></a> 
+					<a href="../S/S0364.html"><span title="voiceless palatal ejective stop" class="alphaid">c'</span></a> 
+					<a href="../S/S0582.html"><span title="labialized voiceless velar ejective stop" class="alphaid">kW'</span></a> 
+					<a href="../S/S0736.html"><span title="voiceless uvular ejective stop" class="alphaid">q'</span></a> 
+					<a href="../S/S0743.html"><span title="labialized voiceless uvular ejective stop" class="alphaid">qW'</span></a> 
+					<a href="../S/S0847.html"><span title="voiceless alveolar sibilant affricate" class="alphaid">ts</span></a> 
+					<a href="../S/S0848.html"><span title="voiceless alveolar sibilant ejective affricate" class="alphaid">ts'</span></a> 
+					<a href="../S/S0115.html"><span title="voiceless dental/alveolar lateral ejective affricate" class="alphaid">"tlF'</span></a> 
+					<a href="../S/S0192.html"><span title="voiceless palatal fricative" class="alphaid">C</span></a> 
+					<a href="../S/S0900.html"><span title="labialized voiceless velar fricative" class="alphaid">xW</span></a> 
+					<a href="../S/S0281.html"><span title="voiceless uvular fricative" class="alphaid">X</span></a> 
+					<a href="../S/S0286.html"><span title="labialized voiceless uvular fricative" class="alphaid">XW</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0033.html"><span title="voiceless dental/alveolar lateral fricative" class="alphaid">"hlF</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0648.html"><span title="voiced dental nasal" class="alphaid">nD</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0272.html"><span title="lowered high back rounded vowel" class="alphaid">U</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Bella Coola is spoken by perhaps 75 remaining fluent speakers in Bella Coola on the central coast of British Columbia. Reduplication rules that copy a single consonant clarify that the ejectives and affricates listed are not clusters. High vowels alternate with /w,j/. Syllabic instances of /m,n,l/ (phonetically shwa before sonorant) are largely predictable from phonological and morphological context.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Nater, H.F. 1984. The Bella Coola Language. National Museum of Man Mercury Series, Canadian Ethnology Service Paper No. 92. National Museums of Canada, Ottawa. <br>Newman, S. 1947. Bella Coola I: Phonology. International Journal of American Linguistics 13/3: 129-134.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

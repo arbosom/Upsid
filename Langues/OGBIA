@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID OGBIA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>OGBIA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>4124</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Niger-Kordofanian.html">Niger-Kordofanian</a>, <a href = "../C/C_Cross River.html">Cross River</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>34 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.377005348 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0590.html"><span title="voiceless labial-velar plosive" class="alphaid">kp</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0012.html"><span title="voiced dental/alveolar plosive" class="alphaid">"d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0465.html"><span title="voiced labial-velar plosive" class="alphaid">gb</span></a> 
+					<a href="../S/S0353.html"><span title="voiced bilabial implosive" class="alphaid">b<</span></a> 
+					<a href="../S/S0015.html"><span title="voiced dental/alveolar implosive" class="alphaid">"d<</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0186.html"><span title="voiced bilabial fricative" class="alphaid">B</span></a> 
+					<a href="../S/S0886.html"><span title="voiced labiodental fricative" class="alphaid">v</span></a> 
+					<a href="../S/S0457.html"><span title="voiced velar fricative" class="alphaid">gF</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0133.html"><span title="voiced dental/alveolar sibilant fricative" class="alphaid">"z</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0057.html"><span title="labialized voiced dental/alveolar nasal" class="alphaid">"nW</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0092.html"><span title="voiced dental/alveolar r-sound" class="alphaid">"rr</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0160.html"><span title="raised low central unrounded vowel" class="alphaid">4</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0272.html"><span title="lowered high back rounded vowel" class="alphaid">U</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Ogbia is spoken in the Rivers State, Nigeria. The language has two level tones. Vowel harmony requires all words to contain vowels from the 'raised' set (i,e,o,u, and the raised low vowel 4) or from the 'lowered' set (the remainder). The palatal and labialized dental/alveolar nasals surface as nasalization of the vowel when followed by high front and back vowels respectively.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Williamson, K. 1972. Assimilation in Ogbia. Research Notes 5/2-3: 1-5. Dept. of Linguistics and Nigerian Languages, University of Ibadan. <br>Williamson, K. 1970. Reading and Writing Ogbia. Rivers Readers Project, Institute of African Studies, University of Ibadan.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

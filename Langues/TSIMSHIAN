@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID TSIMSHIAN</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>TSIMSHIAN</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6774</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td>SM'ALGYAX</td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_North American.html">North American</a>, <a href = "../C/C_Penutian.html">Penutian</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>41 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.301606187 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0578.html"><span title="palatalized voiceless velar plosive" class="alphaid">kJ</span></a> 
+					<a href="../S/S0581.html"><span title="labialized voiceless velar plosive" class="alphaid">kW</span></a> 
+					<a href="../S/S0735.html"><span title="voiceless uvular plosive" class="alphaid">q</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0461.html"><span title="palatalized voiced velar plosive" class="alphaid">gJ</span></a> 
+					<a href="../S/S0463.html"><span title="labialized voiced velar plosive" class="alphaid">gW</span></a> 
+					<a href="../S/S0209.html"><span title="voiced uvular plosive" class="alphaid">G</span></a> 
+					<a href="../S/S0722.html"><span title="voiceless bilabial ejective stop" class="alphaid">p'</span></a> 
+					<a href="../S/S0798.html"><span title="voiceless alveolar ejective stop" class="alphaid">t'</span></a> 
+					<a href="../S/S0574.html"><span title="voiceless velar ejective stop" class="alphaid">k'</span></a> 
+					<a href="../S/S0579.html"><span title="palatalized voiceless velar ejective stop" class="alphaid">kJ'</span></a> 
+					<a href="../S/S0582.html"><span title="labialized voiceless velar ejective stop" class="alphaid">kW'</span></a> 
+					<a href="../S/S0736.html"><span title="voiceless uvular ejective stop" class="alphaid">q'</span></a> 
+					<a href="../S/S0847.html"><span title="voiceless alveolar sibilant affricate" class="alphaid">ts</span></a> 
+					<a href="../S/S0415.html"><span title="voiced alveolar sibilant affricate" class="alphaid">dz</span></a> 
+					<a href="../S/S0848.html"><span title="voiceless alveolar sibilant ejective affricate" class="alphaid">ts'</span></a> 
+					<a href="../S/S0496.html"><span title="voiceless alveolar lateral fricative" class="alphaid">hlF</span></a> 
+					<a href="../S/S0281.html"><span title="voiceless uvular fricative" class="alphaid">X</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0622.html"><span title="laryngealized voiced bilabial nasal" class="alphaid">m*</span></a> 
+					<a href="../S/S0640.html"><span title="laryngealized voiced alveolar nasal" class="alphaid">n*</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0599.html"><span title="laryngealized voiced alveolar lateral approximant" class="alphaid">l*</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0455.html"><span title="voiced velar approximant" class="alphaid">gA</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0569.html"><span title="laryngealized voiced palatal approximant" class="alphaid">j*</span></a> 
+					<a href="../S/S0456.html"><span title="laryngealized voiced velar approximant" class="alphaid">gA*</span></a> 
+					<a href="../S/S0893.html"><span title="laryngealized voiced labial-velar approximant" class="alphaid">w*</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Coast Tsimshian is spoken along the British Columbia coast adjacent to the border with Alaska. The system presented here is primarily based on Mulder's (1988) interpretation of Dunn's grammar and dictionary. Voiced and voiceless plosives are largely in complementary distribution, voiced ones occurring immediately before a voiced sonorant or vowel and voiceless ones in final position and in clusters elsewhere. However, exceptions to this pattern occur often enough that obstruent voicing must be treated as contrastive. It is not clear if plain velar stops are distinctive; Dunn implies that either a w-offglide or a j-offglide accompanies every velar stop but many examples are written without an offglide. Mulder interprets occurrence of "plain velars before rounded vowels" as evidence for three velar series, but it could be that consonant rounding is redundant in this context and these are instances of labialized velars. Both Mulder and Dunn recognise a larger inventory of vowels than Hoard (1978) does for closely-related Gitksan. Phonetic vowel quality seems strongly influenced by consonant environment and stress, but full details are not worked out. Only three vowels, which occur long and short, are assumed to be underlying.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Dunn, J.A. 1978. A Practical Dictionary of the Coast Tsimshian Language. National Museum of Man Mercury Series, Canadian Ethnology Service Paper no. 42. <br>Dunn, J.A. 1979. A Reference Grammar for the Coast Tsimshian Language. Canadian Ethnology Service. <br>Hoard, J.E. 1978. Obstruent voicing in Gitksan: some implications for distinctive feature theory. Linguistic Studies of Native Canada (eds. Eung-Do Cook and J. Kaye). University of British Columbia Press, Vancouver. <br>Mulder, J.G. 1988. Ergativity in Coast Tsimshian (Sm'algyax). PhD Dissertation, UCLA.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

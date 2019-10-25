@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID TAMANG</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>TAMANG</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2507</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Sino-Tibetan.html">Sino-Tibetan</a>, <a href = "../C/C_Himalayic.html">Himalayic</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>29 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.336264240 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0812.html"><span title="voiceless dental plosive" class="alphaid">tD</span></a> 
+					<a href="../S/S0820.html"><span title="voiceless aspirated dental plosive" class="alphaid">tDh</span></a> 
+					<a href="../S/S0791.html"><span title="voiceless dental sibilant fricative" class="alphaid">sD</span></a> 
+					<a href="../S/S0822.html"><span title="voiceless dental sibilant affricate" class="alphaid">tDs</span></a> 
+					<a href="../S/S0825.html"><span title="voiceless aspirated dental sibilant affricate" class="alphaid">tDsh</span></a> 
+					<a href="../S/S0808.html"><span title="voiceless alveolar affricate" class="alphaid">t0</span></a> 
+					<a href="../S/S0809.html"><span title="voiceless aspirated alveolar affricate" class="alphaid">t0h</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0648.html"><span title="voiced dental nasal" class="alphaid">nD</span></a> 
+					<a href="../S/S0606.html"><span title="voiced dental lateral approximant" class="alphaid">lD</span></a> 
+					<a href="../S/S0767.html"><span title="voiced dental trill" class="alphaid">rD</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0560.html"><span title="breathy voiced high front unrounded vowel" class="alphaid">ih</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0425.html"><span title="breathy voiced higher mid front unrounded vowel" class="alphaid">eh</span></a> 
+					<a href="../S/S0711.html"><span title="breathy voiced higher mid back rounded vowel" class="alphaid">oh</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0334.html"><span title="breathy voiced low central unrounded vowel" class="alphaid">ah</span></a> 
+					<a href="../S/S0868.html"><span title="breathy voiced high back rounded vowel" class="alphaid">uh</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Tamang is spoken in Kathmandu to the east in Nepal.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Mazaudon, M. 1973. Phonologie Tamang (Nepal) (Collection "Tradition Orale" 4). SELAF, Paris.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID OJIBWA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>OJIBWA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6750</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_North American.html">North American</a>, <a href = "../C/C_Almosan.html">Almosan</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>27 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.256302866 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0523.html"><span title="voiceless preaspirated bilabial plosive" class="alphaid">hp</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0487.html"><span title="voiceless preaspirated velar plosive" class="alphaid">hk</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0528.html"><span title="voiceless preaspirated palato-alveolar sibilant affricate" class="alphaid">htS</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0044.html"><span title="voiceless preaspirated dental/alveolar sibilant fricative" class="alphaid">"hs</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0537.html"><span title="long high front unrounded vowel" class="alphaid">i:</span></a> 
+					<a href="../S/S0567.html"><span title="long nasalized high front unrounded vowel" class="alphaid">i~:</span></a> 
+					<a href="../S/S0200.html"><span title="long lower mid front unrounded vowel" class="alphaid">E:</span></a> 
+					<a href="../S/S0208.html"><span title="long nasalized lower mid front unrounded vowel" class="alphaid">E~:</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0312.html"><span title="long low central unrounded vowel" class="alphaid">a:</span></a> 
+					<a href="../S/S0348.html"><span title="long nasalized low central unrounded vowel" class="alphaid">a~:</span></a> 
+					<a href="../S/S0272.html"><span title="lowered high back rounded vowel" class="alphaid">U</span></a> 
+					<a href="../S/S0704.html"><span title="long higher mid back rounded vowel" class="alphaid">o:</span></a> 
+					<a href="../S/S0720.html"><span title="long nasalized higher mid back rounded vowel" class="alphaid">o~:</span></a> 
+					<a href="../S/S0527.html"><span title="voiceless preaspirated alveolar plosive" class="alphaid">ht</span></a> 
+					<a href="../S/S0481.html"><span title="voiceless preaspirated palato-alveolar sibilant fricative" class="alphaid">hS</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Bloomfield, L. 1956. Eastern Ojibwa. University of Michigan Press, Ann Arbor.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

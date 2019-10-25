@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID MALAKMALAK</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>MALAKMALAK</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>8356</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Australian.html">Australian</a>, <a href = "../C/C_Daly.html">Daly</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>19 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.458396546 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0761.html"><span title="voiced alveolar trill" class="alphaid">r</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0766.html"><span title="voiced alveolar approximant" class="alphaid">rA</span></a> 
+					<a href="../S/S0840.html"><span title="voiceless palato-alveolar plosive" class="alphaid">t_</span></a> 
+					<a href="../S/S0655.html"><span title="voiced palato-alveolar nasal" class="alphaid">n_</span></a> 
+					<a href="../S/S0617.html"><span title="voiced palato-alveolar lateral approximant" class="alphaid">l_</span></a> 
+					<a href="../S/S0702.html"><span title="higher mid retracted front rounded vowel" class="alphaid">o/_</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0272.html"><span title="lowered high back rounded vowel" class="alphaid">U</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Stops are voiced intervocalically and after voiced consonants, voiceless elsewhere. Initially, single consonants or the vowels /E, a/ appear. There are a large number of medial clusters, seven clusters with a liquid as first member occur finally.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Birk, D.B.W. 1975. The phonology of Malakmalak. Papers in Australian Linguistics 8 (Pacific Linguistics, Series A, 39): 59-78. <br>Tryon, D.T. 1974. Daly Family Languages (Pacific Linguistics, Series C, 32). Australian National University, Canberra.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

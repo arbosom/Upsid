@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID TUVA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>TUVA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2165</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Ural-Altaic.html">Ural-Altaic</a>, <a href = "../C/C_Turkic.html">Turkic</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>29 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.368682621 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0812.html"><span title="voiceless dental plosive" class="alphaid">tD</span></a> 
+					<a href="../S/S0385.html"><span title="voiced dental plosive" class="alphaid">dD</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0791.html"><span title="voiceless dental sibilant fricative" class="alphaid">sD</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0648.html"><span title="voiced dental nasal" class="alphaid">nD</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0606.html"><span title="voiced dental lateral approximant" class="alphaid">lD</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0903.html"><span title="high front rounded vowel" class="alphaid">y</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0699.html"><span title="higher mid front rounded vowel" class="alphaid">o/</span></a> 
+					<a href="../S/S0315.html"><span title="low back unrounded vowel" class="alphaid">a_</span></a> 
+					<a href="../S/S0822.html"><span title="voiceless dental sibilant affricate" class="alphaid">tDs</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0692.html"><span title="higher mid back unrounded vowel" class="alphaid">o(</span></a> 
+					<a href="../S/S0393.html"><span title="voiced dental sibilant affricate" class="alphaid">dDz</span></a> 
+					<a href="../S/S0395.html"><span title="voiced palato-alveolar sibilant affricate" class="alphaid">dZ</span></a> 
+					<a href="../S/S0186.html"><span title="voiced bilabial fricative" class="alphaid">B</span></a> 
+					<a href="../S/S0761.html"><span title="voiced alveolar trill" class="alphaid">r</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Tuva is spoken primarily in Tuva ASSR in USSR. Accounts of the Tuva vowel system differ widely. The system given here is that of Song (1982) since this makes the basis of vowel harmony clear: front and back vowels belong to different sets. All vowels occur long and maybe nasalized. Song mentions that older speakers distinguish a series of vowels with tense phonation. Place of articulation is based on Seglenmej (1979).</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Sat, S.C. 1966. Tuvinskij jazyk. In V.V. Vinogradov (ed.), Jazyki Narodov SSSR, Vol 2. Nauka, Moscow and Leningrad: 387-402. <br>Seglenmej, S.F. 1979. Tuvinskie perednejazychnye v tverdorjadnykh slovoformakh. In V.M. Nadeljaev (ed.), Fonetika Sibirskikh Jazykov. Akademija Nauk SSSR, Sibirskoe Otdelenie, Institut Istorii, Filologii i Filosofii, Novosibirsk, pp. 35-44. <br>Song, Z. 1982. Woguo tuwayu yinxi chutan (A Preliminary Study of the Phonological System of the Tuva Language in China). Minzu Yuwen, 1982.6 (December), 58-65.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

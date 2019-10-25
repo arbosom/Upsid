@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID SELKUP</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>SELKUP</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2164</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Ural-Altaic.html">Ural-Altaic</a>, <a href = "../C/C_Samoyed.html">Samoyed</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>34 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.296791444 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0108.html"><span title="palatalized voiceless dental/alveolar plosive" class="alphaid">"tJ</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0735.html"><span title="voiceless uvular plosive" class="alphaid">q</span></a> 
+					<a href="../S/S0805.html"><span title="voiceless retroflex sibilant affricate" class="alphaid">t.s</span></a> 
+					<a href="../S/S0457.html"><span title="voiced velar fricative" class="alphaid">gF</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0092.html"><span title="voiced dental/alveolar r-sound" class="alphaid">"rr</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0050.html"><span title="palatalized voiced dental/alveolar lateral approximant" class="alphaid">"lJ</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0903.html"><span title="high front rounded vowel" class="alphaid">y</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0302.html"><span title="low front unrounded vowel" class="alphaid">a+</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0067.html"><span title="mid back unrounded vowel" class="alphaid">"o(</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0537.html"><span title="long high front unrounded vowel" class="alphaid">i:</span></a> 
+					<a href="../S/S0904.html"><span title="long high front rounded vowel" class="alphaid">y:</span></a> 
+					<a href="../S/S0026.html"><span title="long mid front unrounded vowel" class="alphaid">"e:</span></a> 
+					<a href="../S/S0075.html"><span title="long mid front rounded vowel" class="alphaid">"o/:</span></a> 
+					<a href="../S/S0303.html"><span title="long low front unrounded vowel" class="alphaid">a+:</span></a> 
+					<a href="../S/S0312.html"><span title="long low central unrounded vowel" class="alphaid">a:</span></a> 
+					<a href="../S/S0079.html"><span title="long mid back rounded vowel" class="alphaid">"o:</span></a> 
+					<a href="../S/S0069.html"><span title="long mid back unrounded vowel" class="alphaid">"o(:</span></a> 
+					<a href="../S/S0860.html"><span title="long high back rounded vowel" class="alphaid">u:</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Tym dialect. Selkup is spoken in Siberia in an area south of the Khatanga Gulf. The source is an interpretation of older sources by Katz and may be incomplete. Several aspects of the transcription are obscure. Katz recognizes a set of labialized consonants which are omitted from UPSID. They could be analyzed as C + w.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Katz, H. 1975. Selcupica I: Materialien von Tym. Veroeffentlichungen des Finnisch-Ugrischen Seminars an der Universitaet Muenchen, Serie C, Band 1, Muenchen.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

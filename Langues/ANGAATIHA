@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID ANGAATIHA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>ANGAATIHA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>8627</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Papuan.html">Papuan</a>, <a href = "../C/C_Trans-New Guinea.html">Trans-New Guinea</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>21 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.492661810 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0615.html"><span title="voiced alveolar lateral flap" class="alphaid">l[</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0312.html"><span title="long low central unrounded vowel" class="alphaid">a:</span></a> 
+					<a href="../S/S0010.html"><span title="overshort mid central unrounded vowel" class="alphaid">"@S</span></a> 
+					<a href="../S/S0335.html"><span title="low central unrounded to high front unrounded diphthong" class="alphaid">ai</span></a> 
+					<a href="../S/S0342.html"><span title="low central unrounded to high back rounded diphthong" class="alphaid">au</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Angaatiha is analyzed as having 3 tones - high, low, and falling. Huisman et al. treat nj as a cluster, but it is the only Cj cluster. /w/ clusters with /p,m,k,?/ - these are treated as two-consonant clusters.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Huisman, R. 1973. Angaataha verb morphology. Linguistics 110:43-54. <br>Huisman, R., Huisman, R., Lloyd, J. 1981. Angaatiha syllable patterns. In P.M. Healey (ed.), Angan Languages are Different: Four Phonologies. Language Data, Asian-Pacific Series 12, Summer Institute of Linguistics, Huntington Beach: 51-62. <br>Huisman, R., Lloyd, J. 1981. Angaatiha tone, stress, and length. In P.M Healey (ed.), Angan Languages are Different: Four Phonologies. Language Data, Asian-Pacific Series 12, Summer Institute of Linguistics, Huntington Beach: 63-82.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID GBEYA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>GBEYA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>4129</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Niger-Kordofanian.html">Niger-Kordofanian</a>, <a href = "../C/C_Ubangi (Eastern).html">Ubangi (Eastern)</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>43 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.339246120 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0628.html"><span title="prenasalized voiced bilabial plosive" class="alphaid">mb</span></a> 
+					<a href="../S/S0353.html"><span title="voiced bilabial implosive" class="alphaid">b<</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0227.html"><span title="prenasalized voiced velar plosive" class="alphaid">Ng</span></a> 
+					<a href="../S/S0590.html"><span title="voiceless labial-velar plosive" class="alphaid">kp</span></a> 
+					<a href="../S/S0465.html"><span title="voiced labial-velar plosive" class="alphaid">gb</span></a> 
+					<a href="../S/S0235.html"><span title="prenasalized voiced labial-velar plosive" class="alphaid">Nmgb</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0886.html"><span title="voiced labiodental fricative" class="alphaid">v</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0622.html"><span title="laryngealized voiced bilabial nasal" class="alphaid">m*</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0234.html"><span title="voiced labial-velar nasal" class="alphaid">Nm</span></a> 
+					<a href="../S/S0774.html"><span title="voiced alveolar flap" class="alphaid">r[</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0564.html"><span title="nasalized high front unrounded vowel" class="alphaid">i~</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0330.html"><span title="nasalized raised low front unrounded vowel" class="alphaid">aa~</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0346.html"><span title="nasalized low central unrounded vowel" class="alphaid">a~</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0249.html"><span title="nasalized lower mid back rounded vowel" class="alphaid">O~</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0884.html"><span title="nasalized high back rounded vowel" class="alphaid">u~</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0384.html"><span title="voiced alveolar implosive" class="alphaid">d<</span></a> 
+					<a href="../S/S0659.html"><span title="prenasalized voiced alveolar plosive" class="alphaid">nd</span></a> 
+					<a href="../S/S0193.html"><span title="voiceless palatal sibilant fricative" class="alphaid">C,</span></a> 
+					<a href="../S/S0908.html"><span title="voiced palatal sibilant fricative" class="alphaid">z,</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0640.html"><span title="laryngealized voiced alveolar nasal" class="alphaid">n*</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0890.html"><span title="voiced labiodental flap" class="alphaid">v[</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Monino, Y. and Roulon, P. 1972. Phonologie du Gbaya Kara 'Bodoe de Ndongue Bongowen. SELAF, Paris. <br>Samarin, W.J. 1966. The Gbeya Language. University of California Press, Berkeley and Los Angeles.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

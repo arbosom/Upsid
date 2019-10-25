@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID KABARDIAN</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>KABARDIAN</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2601</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Caucasian.html">Caucasian</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>56 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.125593918 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0722.html"><span title="voiceless bilabial ejective stop" class="alphaid">p'</span></a> 
+					<a href="../S/S0820.html"><span title="voiceless aspirated dental plosive" class="alphaid">tDh</span></a> 
+					<a href="../S/S0385.html"><span title="voiced dental plosive" class="alphaid">dD</span></a> 
+					<a href="../S/S0813.html"><span title="voiceless dental ejective stop" class="alphaid">tD'</span></a> 
+					<a href="../S/S0580.html"><span title="palatalized voiceless aspirated velar plosive" class="alphaid">kJh</span></a> 
+					<a href="../S/S0461.html"><span title="palatalized voiced velar plosive" class="alphaid">gJ</span></a> 
+					<a href="../S/S0579.html"><span title="palatalized voiceless velar ejective stop" class="alphaid">kJ'</span></a> 
+					<a href="../S/S0585.html"><span title="labialized voiceless aspirated velar plosive" class="alphaid">kWh</span></a> 
+					<a href="../S/S0463.html"><span title="labialized voiced velar plosive" class="alphaid">gW</span></a> 
+					<a href="../S/S0582.html"><span title="labialized voiceless velar ejective stop" class="alphaid">kW'</span></a> 
+					<a href="../S/S0736.html"><span title="voiceless uvular ejective stop" class="alphaid">q'</span></a> 
+					<a href="../S/S0743.html"><span title="labialized voiceless uvular ejective stop" class="alphaid">qW'</span></a> 
+					<a href="../S/S0822.html"><span title="voiceless dental sibilant affricate" class="alphaid">tDs</span></a> 
+					<a href="../S/S0393.html"><span title="voiced dental sibilant affricate" class="alphaid">dDz</span></a> 
+					<a href="../S/S0823.html"><span title="voiceless dental sibilant ejective affricate" class="alphaid">tDs'</span></a> 
+					<a href="../S/S0749.html"><span title="voiceless uvular affricate" class="alphaid">qX</span></a> 
+					<a href="../S/S0756.html"><span title="labialized voiceless uvular affricate" class="alphaid">qXW</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0886.html"><span title="voiced labiodental fricative" class="alphaid">v</span></a> 
+					<a href="../S/S0434.html"><span title="voiceless labiodental ejective fricative" class="alphaid">f'</span></a> 
+					<a href="../S/S0791.html"><span title="voiceless dental sibilant fricative" class="alphaid">sD</span></a> 
+					<a href="../S/S0911.html"><span title="voiced dental sibilant fricative" class="alphaid">zD</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0292.html"><span title="voiced palato-alveolar sibilant fricative" class="alphaid">Z</span></a> 
+					<a href="../S/S0266.html"><span title="voiceless palato-alveolar sibilant ejective fricative" class="alphaid">S'</span></a> 
+					<a href="../S/S0154.html"><span title="voiceless palato-alveolar fricative" class="alphaid">0_</span></a> 
+					<a href="../S/S0170.html"><span title="voiced palato-alveolar fricative" class="alphaid">6_</span></a> 
+					<a href="../S/S0899.html"><span title="palatalized voiceless velar fricative" class="alphaid">xJ</span></a> 
+					<a href="../S/S0900.html"><span title="labialized voiceless velar fricative" class="alphaid">xW</span></a> 
+					<a href="../S/S0459.html"><span title="palatalized voiced velar fricative" class="alphaid">gFJ</span></a> 
+					<a href="../S/S0281.html"><span title="voiceless uvular fricative" class="alphaid">X</span></a> 
+					<a href="../S/S0286.html"><span title="labialized voiceless uvular fricative" class="alphaid">XW</span></a> 
+					<a href="../S/S0261.html"><span title="voiced uvular fricative" class="alphaid">RF</span></a> 
+					<a href="../S/S0263.html"><span title="labialized voiced uvular fricative" class="alphaid">RFW</span></a> 
+					<a href="../S/S0213.html"><span title="voiceless pharyngeal fricative" class="alphaid">H</span></a> 
+					<a href="../S/S0171.html"><span title="voiced pharyngeal fricative" class="alphaid">9</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0648.html"><span title="voiced dental nasal" class="alphaid">nD</span></a> 
+					<a href="../S/S0610.html"><span title="palatalized voiced dental lateral fricative" class="alphaid">lDFJ</span></a> 
+					<a href="../S/S0494.html"><span title="palatalized voiceless dental lateral fricative" class="alphaid">hlDFJ</span></a> 
+					<a href="../S/S0761.html"><span title="voiced alveolar trill" class="alphaid">r</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0176.html"><span title="labialized glottal plosive" class="alphaid">?W</span></a> 
+					<a href="../S/S0484.html"><span title="voiced "h"" class="alphaid">hh</span></a> 
+					<a href="../S/S0303.html"><span title="long low front unrounded vowel" class="alphaid">a+:</span></a> 
+					<a href="../S/S0545.html"><span title="high central unrounded vowel" class="alphaid">i_</span></a> 
+					<a href="../S/S0155.html"><span title="lower mid central unrounded vowel" class="alphaid">3</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0537.html"><span title="long high front unrounded vowel" class="alphaid">i:</span></a> 
+					<a href="../S/S0860.html"><span title="long high back rounded vowel" class="alphaid">u:</span></a> 
+					<a href="../S/S0026.html"><span title="long mid front unrounded vowel" class="alphaid">"e:</span></a> 
+					<a href="../S/S0079.html"><span title="long mid back rounded vowel" class="alphaid">"o:</span></a> 
+					<a href="../S/S0495.html"><span title="palatalized voiceless dental lateral ejective fricative" class="alphaid">hlDFJ'</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Kuipers, A.H. 1960. Phoneme and Morpheme in Kabardian. Mouton, The Hague.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

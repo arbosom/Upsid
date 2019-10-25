@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID IRISH</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>IRISH</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2001</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Indo-European.html">Indo-European</a>, <a href = "../C/C_Celtic.html">Celtic</a>, <a href = "../C/C_Goidelic.html">Goidelic</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>69 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.132170057 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0729.html"><span title="labialized velarized voiceless aspirated bilabial plosive" class="alphaid">pW-h</span></a> 
+					<a href="../S/S0727.html"><span title="palatalized voiceless aspirated bilabial plosive" class="alphaid">pJh</span></a> 
+					<a href="../S/S0355.html"><span title="palatalized voiced bilabial plosive" class="alphaid">bJ</span></a> 
+					<a href="../S/S0820.html"><span title="voiceless aspirated dental plosive" class="alphaid">tDh</span></a> 
+					<a href="../S/S0385.html"><span title="voiced dental plosive" class="alphaid">dD</span></a> 
+					<a href="../S/S0580.html"><span title="palatalized voiceless aspirated velar plosive" class="alphaid">kJh</span></a> 
+					<a href="../S/S0461.html"><span title="palatalized voiced velar plosive" class="alphaid">gJ</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0395.html"><span title="voiced palato-alveolar sibilant affricate" class="alphaid">dZ</span></a> 
+					<a href="../S/S0256.html"><span title="labialized velarized voiceless bilabial fricative" class="alphaid">PW-</span></a> 
+					<a href="../S/S0254.html"><span title="palatalized voiceless bilabial fricative" class="alphaid">PJ</span></a> 
+					<a href="../S/S0191.html"><span title="palatalized voiced bilabial fricative" class="alphaid">BJ</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0192.html"><span title="voiceless palatal fricative" class="alphaid">C</span></a> 
+					<a href="../S/S0896.html"><span title="voiceless velar fricative" class="alphaid">x</span></a> 
+					<a href="../S/S0457.html"><span title="voiced velar fricative" class="alphaid">gF</span></a> 
+					<a href="../S/S0627.html"><span title="labialized velarized voiced bilabial nasal" class="alphaid">mW-</span></a> 
+					<a href="../S/S0625.html"><span title="palatalized voiced bilabial nasal" class="alphaid">mJ</span></a> 
+					<a href="../S/S0648.html"><span title="voiced dental nasal" class="alphaid">nD</span></a> 
+					<a href="../S/S0225.html"><span title="palatalized voiced velar nasal" class="alphaid">NJ</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0600.html"><span title="velarized voiced alveolar lateral approximant" class="alphaid">l-</span></a> 
+					<a href="../S/S0489.html"><span title="velarized voiceless alveolar lateral approximant" class="alphaid">hl-</span></a> 
+					<a href="../S/S0614.html"><span title="palatalized voiced alveolar lateral approximant" class="alphaid">lJ</span></a> 
+					<a href="../S/S0498.html"><span title="palatalized voiceless alveolar lateral approximant" class="alphaid">hlJ</span></a> 
+					<a href="../S/S0525.html"><span title="velarized voiceless alveolar flap" class="alphaid">hr[-</span></a> 
+					<a href="../S/S0778.html"><span title="palatalized voiced alveolar flap" class="alphaid">r[J</span></a> 
+					<a href="../S/S0526.html"><span title="palatalized voiceless alveolar flap" class="alphaid">hr[J</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0272.html"><span title="lowered high back rounded vowel" class="alphaid">U</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0220.html"><span title="nasalized lowered high front unrounded vowel" class="alphaid">I~</span></a> 
+					<a href="../S/S0029.html"><span title="nasalized mid front unrounded vowel" class="alphaid">"e~</span></a> 
+					<a href="../S/S0346.html"><span title="nasalized low central unrounded vowel" class="alphaid">a~</span></a> 
+					<a href="../S/S0280.html"><span title="nasalized lowered high back rounded vowel" class="alphaid">U~</span></a> 
+					<a href="../S/S0081.html"><span title="nasalized mid back rounded vowel" class="alphaid">"o~</span></a> 
+					<a href="../S/S0537.html"><span title="long high front unrounded vowel" class="alphaid">i:</span></a> 
+					<a href="../S/S0421.html"><span title="long higher mid front unrounded vowel" class="alphaid">e:</span></a> 
+					<a href="../S/S0860.html"><span title="long high back rounded vowel" class="alphaid">u:</span></a> 
+					<a href="../S/S0704.html"><span title="long higher mid back rounded vowel" class="alphaid">o:</span></a> 
+					<a href="../S/S0321.html"><span title="long low back unrounded vowel" class="alphaid">a_:</span></a> 
+					<a href="../S/S0567.html"><span title="long nasalized high front unrounded vowel" class="alphaid">i~:</span></a> 
+					<a href="../S/S0432.html"><span title="long nasalized higher mid front unrounded vowel" class="alphaid">e~:</span></a> 
+					<a href="../S/S0885.html"><span title="long nasalized high back rounded vowel" class="alphaid">u~:</span></a> 
+					<a href="../S/S0720.html"><span title="long nasalized higher mid back rounded vowel" class="alphaid">o~:</span></a> 
+					<a href="../S/S0324.html"><span title="long nasalized low back unrounded vowel" class="alphaid">a_~:</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0359.html"><span title="labialized velarized voiced bilabial plosive" class="alphaid">bW-</span></a> 
+					<a href="../S/S0607.html"><span title="velarized voiced dental lateral approximant" class="alphaid">lD-</span></a> 
+					<a href="../S/S0181.html"><span title="mid central unrounded to high front unrounded diphthong" class="alphaid">@i</span></a> 
+					<a href="../S/S0182.html"><span title="mid central unrounded to high back rounded diphthong" class="alphaid">@u</span></a> 
+					<a href="../S/S0538.html"><span title="high front unrounded to mid central unrounded diphthong" class="alphaid">i@</span></a> 
+					<a href="../S/S0861.html"><span title="high back rounded to mid central unrounded diphthong" class="alphaid">u@</span></a> 
+					<a href="../S/S0842.html"><span title="voiceless aspirated alveolar plosive" class="alphaid">th</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0652.html"><span title="palatalized voiced alveolar nasal" class="alphaid">nJ</span></a> 
+					<a href="../S/S0641.html"><span title="velarized voiced alveolar nasal" class="alphaid">n-</span></a> 
+					<a href="../S/S0517.html"><span title="palatalized voiceless alveolar nasal" class="alphaid">hnJ</span></a> 
+					<a href="../S/S0508.html"><span title="velarized voiceless alveolar nasal" class="alphaid">hn-</span></a> 
+					<a href="../S/S0655.html"><span title="voiced palato-alveolar nasal" class="alphaid">n_</span></a> 
+					<a href="../S/S0776.html"><span title="velarized voiced alveolar flap" class="alphaid">r[-</span></a> 
+					<a href="../S/S0617.html"><span title="voiced palato-alveolar lateral approximant" class="alphaid">l_</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Irish is spoken in the Western Isles northwest and southwestcoasts, Galway, part of Mayo, Kerry, Donegal, Ireland. The voiceless nasals and liquids can be interpreted as clusters with /h/.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Mhac An Fhailigh, E. 1968. The Irish of Erris, Co. Mayo. Dublin Institute for Advanced Studies, Dublin. <br>Sommerfelt, A. 1964. Consonant clusters or single phonemes in Northern Irish. In D. Abercrombie, et al. (eds.), In Memory of Daniel Jones. Longmans, London: 368-73. <br>The Christian Brothers. 1905. Aids to the pronunciation of Irish. M. H. Gill and Son, Dublin.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

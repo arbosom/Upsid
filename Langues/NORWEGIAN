@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID NORWEGIAN</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>NORWEGIAN</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2006</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Indo-European.html">Indo-European</a>, <a href = "../C/C_North Germanic.html">North Germanic</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>46 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.201484624 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0820.html"><span title="voiceless aspirated dental plosive" class="alphaid">tDh</span></a> 
+					<a href="../S/S0385.html"><span title="voiced dental plosive" class="alphaid">dD</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0887.html"><span title="voiced labiodental approximant" class="alphaid">vA</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0192.html"><span title="voiceless palatal fricative" class="alphaid">C</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0648.html"><span title="voiced dental nasal" class="alphaid">nD</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0598.html"><span title="voiced alveolar lateral approximant" class="alphaid">l</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0291.html"><span title="lowered high front rounded vowel" class="alphaid">Y</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0325.html"><span title="raised low front unrounded vowel" class="alphaid">aa</span></a> 
+					<a href="../S/S0855.html"><span title="high central rounded vowel" class="alphaid">u+</span></a> 
+					<a href="../S/S0162.html"><span title="raised low back rounded vowel" class="alphaid">4)_</span></a> 
+					<a href="../S/S0537.html"><span title="long high front unrounded vowel" class="alphaid">i:</span></a> 
+					<a href="../S/S0904.html"><span title="long high front rounded vowel" class="alphaid">y:</span></a> 
+					<a href="../S/S0421.html"><span title="long higher mid front unrounded vowel" class="alphaid">e:</span></a> 
+					<a href="../S/S0327.html"><span title="long raised low front unrounded vowel" class="alphaid">aa:</span></a> 
+					<a href="../S/S0856.html"><span title="long high central rounded vowel" class="alphaid">u+:</span></a> 
+					<a href="../S/S0079.html"><span title="long mid back rounded vowel" class="alphaid">"o:</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0005.html"><span title="mid central unrounded vowel" class="alphaid">"@</span></a> 
+					<a href="../S/S0321.html"><span title="long low back unrounded vowel" class="alphaid">a_:</span></a> 
+					<a href="../S/S0860.html"><span title="long high back rounded vowel" class="alphaid">u:</span></a> 
+					<a href="../S/S0197.html"><span title="lower mid front rounded vowel" class="alphaid">E)</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0803.html"><span title="voiceless aspirated retroflex plosive" class="alphaid">t.h</span></a> 
+					<a href="../S/S0377.html"><span title="voiced retroflex plosive" class="alphaid">d.</span></a> 
+					<a href="../S/S0642.html"><span title="voiced retroflex nasal" class="alphaid">n.</span></a> 
+					<a href="../S/S0601.html"><span title="voiced retroflex lateral approximant" class="alphaid">l.</span></a> 
+					<a href="../S/S0774.html"><span title="voiced alveolar flap" class="alphaid">r[</span></a> 
+					<a href="../S/S0075.html"><span title="long mid front rounded vowel" class="alphaid">"o/:</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0272.html"><span title="lowered high back rounded vowel" class="alphaid">U</span></a> 
+					<a href="../S/S0328.html"><span title="raised low front unrounded to high front unrounded diphthong" class="alphaid">aai</span></a> 
+					<a href="../S/S0329.html"><span title="raised low front unrounded to high central rounded diphthong" class="alphaid">aau+</span></a> 
+					<a href="../S/S0335.html"><span title="low central unrounded to high front unrounded diphthong" class="alphaid">ai</span></a> 
+					<a href="../S/S0248.html"><span title="lower mid back rounded to high front rounded diphthong" class="alphaid">Oy</span></a> 
+					<a href="../S/S0703.html"><span title="higher mid front rounded to high front rounded diphthong" class="alphaid">o/y</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Norwegian is spoken in Norway.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Vanvik, A. 1972. A phonetic-phonemic analysis of Standard Eastern Norwegian. Norwegian Journal of Linguistics 26: 119-64.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

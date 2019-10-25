@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID HIGHLAND CHINANTEC</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>HIGHLAND CHINANTEC</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>6786</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_North American.html">North American</a>, <a href = "../C/C_Oto-Manguean.html">Oto-Manguean</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>41 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.274349684 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0840.html"><span title="voiceless palato-alveolar plosive" class="alphaid">t_</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0581.html"><span title="labialized voiceless velar plosive" class="alphaid">kW</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0122.html"><span title="voiceless dental/alveolar sibilant affricate" class="alphaid">"ts</span></a> 
+					<a href="../S/S0020.html"><span title="voiced dental/alveolar sibilant affricate" class="alphaid">"dz</span></a> 
+					<a href="../S/S0251.html"><span title="voiceless bilabial fricative" class="alphaid">P</span></a> 
+					<a href="../S/S0192.html"><span title="voiceless palatal fricative" class="alphaid">C</span></a> 
+					<a href="../S/S0004.html"><span title="voiced dental/alveolar fricative" class="alphaid">"6</span></a> 
+					<a href="../S/S0457.html"><span title="voiced velar fricative" class="alphaid">gF</span></a> 
+					<a href="../S/S0787.html"><span title="voiceless retroflex sibilant fricative" class="alphaid">s.</span></a> 
+					<a href="../S/S0909.html"><span title="voiced retroflex sibilant fricative" class="alphaid">z.</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0655.html"><span title="voiced palato-alveolar nasal" class="alphaid">n_</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0499.html"><span title="voiceless bilabial nasal" class="alphaid">hm</span></a> 
+					<a href="../S/S0039.html"><span title="voiceless dental/alveolar nasal" class="alphaid">"hn</span></a> 
+					<a href="../S/S0518.html"><span title="voiceless palato-alveolar nasal" class="alphaid">hn_</span></a> 
+					<a href="../S/S0477.html"><span title="voiceless velar nasal" class="alphaid">hN</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0032.html"><span title="voiceless dental/alveolar lateral approximant" class="alphaid">"hl</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0903.html"><span title="high front rounded vowel" class="alphaid">y</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0873.html"><span title="high back unrounded vowel" class="alphaid">uu</span></a> 
+					<a href="../S/S0564.html"><span title="nasalized high front unrounded vowel" class="alphaid">i~</span></a> 
+					<a href="../S/S0906.html"><span title="nasalized high front rounded vowel" class="alphaid">y~</span></a> 
+					<a href="../S/S0330.html"><span title="nasalized raised low front unrounded vowel" class="alphaid">aa~</span></a> 
+					<a href="../S/S0346.html"><span title="nasalized low central unrounded vowel" class="alphaid">a~</span></a> 
+					<a href="../S/S0249.html"><span title="nasalized lower mid back rounded vowel" class="alphaid">O~</span></a> 
+					<a href="../S/S0884.html"><span title="nasalized high back rounded vowel" class="alphaid">u~</span></a> 
+					<a href="../S/S0883.html"><span title="nasalized high back unrounded vowel" class="alphaid">uu~</span></a> 
+					<a href="../S/S0197.html"><span title="lower mid front rounded vowel" class="alphaid">E)</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Quiotepec dialect. Highland Chinantec is spoken in Ixtlan district, Oaxaca, Mexico. Robbins (1968) analyzes it as having three level tones and stress. Syllables with short vowels have only one tone. Syllables with long vowels can have rising and falling combinations of these levels. The only syllable-final consonant is /?/. Oral and nasalized vowels occur after voiceless obstruents, but nasal consonants and prenasalized stops are in complementary distribution. This is interpreted as 'oralization' of nasals before oral vowels (i.e. /ma/=[mba] etc.) Clusters of /?/ + nasal or /w, j/ occur but all other clusters posited by Robbins have been interpreted as single segments. Note especially his 'hg' is interpreted as the voiceless velar nasal. Phonetically he transcribes it as a prenasalized stop with a voiceless nasal onset and although he says that 'h' can "precede any nasal" there are no examples of 'h' before 'eng' anywhere in his grammar.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Robbins, F.E. 1968. Quiotepec Chinantec Grammar. Papeles de la Chinantla, IV/8. <br>Robbins, F.E. 1975. Nasal words without phonetic vowels in Quiotepec Chinantec. Bibliographie phonetique (Karger, Basel) no. 11: 126-130. <br>Robbins, F.E. 1961. Quiotepec Chinantec syllable patterning. International Journal of American Linguistics 27: 237-50.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

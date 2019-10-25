@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID VIETNAMESE</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>VIETNAMESE</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2303</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Austro-Asiatic.html">Austro-Asiatic</a>, <a href = "../C/C_Vietmuong.html">Vietmuong</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>36 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.309559005 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0353.html"><span title="voiced bilabial implosive" class="alphaid">b<</span></a> 
+					<a href="../S/S0384.html"><span title="voiced alveolar implosive" class="alphaid">d<</span></a> 
+					<a href="../S/S0363.html"><span title="voiceless palatal plosive" class="alphaid">c</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0886.html"><span title="voiced labiodental fricative" class="alphaid">v</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0907.html"><span title="voiced alveolar sibilant fricative" class="alphaid">z</span></a> 
+					<a href="../S/S0896.html"><span title="voiceless velar fricative" class="alphaid">x</span></a> 
+					<a href="../S/S0457.html"><span title="voiced velar fricative" class="alphaid">gF</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0277.html"><span title="lowered high back unrounded vowel" class="alphaid">UU</span></a> 
+					<a href="../S/S0272.html"><span title="lowered high back rounded vowel" class="alphaid">U</span></a> 
+					<a href="../S/S0692.html"><span title="higher mid back unrounded vowel" class="alphaid">o(</span></a> 
+					<a href="../S/S0297.html"><span title="lower mid back unrounded vowel" class="alphaid">^</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0160.html"><span title="raised low central unrounded vowel" class="alphaid">4</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0878.html"><span title="high back unrounded to lower mid back unrounded diphthong" class="alphaid">uu^</span></a> 
+					<a href="../S/S0865.html"><span title="high back rounded to lower mid back unrounded diphthong" class="alphaid">u^</span></a> 
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0812.html"><span title="voiceless dental plosive" class="alphaid">tD</span></a> 
+					<a href="../S/S0820.html"><span title="voiceless aspirated dental plosive" class="alphaid">tDh</span></a> 
+					<a href="../S/S0648.html"><span title="voiced dental nasal" class="alphaid">nD</span></a> 
+					<a href="../S/S0606.html"><span title="voiced dental lateral approximant" class="alphaid">lD</span></a> 
+					<a href="../S/S0544.html"><span title="high front unrounded to lower mid back unrounded diphthong" class="alphaid">i^</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Vietnamese is spoken primarily in Vietnam. Vietnamese (of Hanoi) has six tones distinguished by level, contour and laryngeal features. /p/ only occurs finally and can be analyzed as an allophone of implosive /b/, but no general rule that voiced initials pair with voiceless final stops can be formulated. Vowels in open syllables are followed by a consonantal offglide (/j/ after /i, e/ etc.). /j, w/ can follow most vowels, when no other consonant may appear, but some final consonants can follow the diphthongs with a low final element.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Canh, N-p. 1974. A contribution to the phonological interpretation of the diphthongs in modern Vietnamese. Acta Universitatis Carolinae-Philologica. Phonetica Pregensia IV: 133-142. <br>Thompson, L.C. 1965. A Vietnamese Grammar. University of Washington Press, Seattle.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

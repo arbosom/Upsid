@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID !XU</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>!XU</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>4904</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Khoisan.html">Khoisan</a>, <a href = "../C/C_North Khoisan.html">North Khoisan</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>141 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.105738233 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0797.html"><span title="voiceless alveolar plosive" class="alphaid">t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0842.html"><span title="voiceless aspirated alveolar plosive" class="alphaid">th</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0798.html"><span title="voiceless alveolar ejective stop" class="alphaid">t'</span></a> 
+					<a href="../S/S0574.html"><span title="voiceless velar ejective stop" class="alphaid">k'</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0373.html"><span title="voiced alveolar plosive" class="alphaid">d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0467.html"><span title="breathy voiced velar plosive" class="alphaid">gh</span></a> 
+					<a href="../S/S0376.html"><span title="velarized voiced alveolar plosive" class="alphaid">d-</span></a> 
+					<a href="../S/S0350.html"><span title="voiced bilabial ejective stop" class="alphaid">b'</span></a> 
+					<a href="../S/S0374.html"><span title="voiced alveolar ejective stop" class="alphaid">d'</span></a> 
+					<a href="../S/S0445.html"><span title="voiced velar ejective stop" class="alphaid">g'</span></a> 
+					<a href="../S/S0847.html"><span title="voiceless alveolar sibilant affricate" class="alphaid">ts</span></a> 
+					<a href="../S/S0851.html"><span title="voiceless aspirated alveolar sibilant affricate" class="alphaid">tsh</span></a> 
+					<a href="../S/S0850.html"><span title="velarized voiceless alveolar sibilant affricate" class="alphaid">ts-</span></a> 
+					<a href="../S/S0848.html"><span title="voiceless alveolar sibilant ejective affricate" class="alphaid">ts'</span></a> 
+					<a href="../S/S0418.html"><span title="breathy voiced alveolar sibilant affricate" class="alphaid">dzh</span></a> 
+					<a href="../S/S0417.html"><span title="velarized voiced alveolar sibilant affricate" class="alphaid">dz-</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0839.html"><span title="voiceless aspirated palato-alveolar sibilant affricate" class="alphaid">tSh</span></a> 
+					<a href="../S/S0831.html"><span title="velarized voiceless palato-alveolar sibilant affricate" class="alphaid">tS-</span></a> 
+					<a href="../S/S0828.html"><span title="voiceless palato-alveolar sibilant ejective affricate" class="alphaid">tS'</span></a> 
+					<a href="../S/S0400.html"><span title="breathy voiced palato-alveolar sibilant affricate" class="alphaid">dZh</span></a> 
+					<a href="../S/S0397.html"><span title="velarized voiced palato-alveolar sibilant affricate" class="alphaid">dZ-</span></a> 
+					<a href="../S/S0396.html"><span title="voiced palato-alveolar sibilant ejective affricate" class="alphaid">dZ'</span></a> 
+					<a href="../S/S0784.html"><span title="voiceless alveolar sibilant fricative" class="alphaid">s</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0896.html"><span title="voiceless velar fricative" class="alphaid">x</span></a> 
+					<a href="../S/S0907.html"><span title="voiced alveolar sibilant fricative" class="alphaid">z</span></a> 
+					<a href="../S/S0292.html"><span title="voiced palato-alveolar sibilant fricative" class="alphaid">Z</span></a> 
+					<a href="../S/S0484.html"><span title="voiced "h"" class="alphaid">hh</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0635.html"><span title="voiced alveolar nasal" class="alphaid">n</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0631.html"><span title="breathy voiced bilabial nasal" class="alphaid">mh</span></a> 
+					<a href="../S/S0622.html"><span title="laryngealized voiced bilabial nasal" class="alphaid">m*</span></a> 
+					<a href="../S/S0623.html"><span title="long voiced bilabial nasal" class="alphaid">m:</span></a> 
+					<a href="../S/S0224.html"><span title="pharyngealized voiced velar nasal" class="alphaid">N9</span></a> 
+					<a href="../S/S0774.html"><span title="voiced alveolar flap" class="alphaid">r[</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0914.html"><span title="voiceless dental affricated click" class="alphaid">|</span></a> 
+					<a href="../S/S0917.html"><span title="velar-fricated voiceless dental affricated click" class="alphaid">|x</span></a> 
+					<a href="../S/S0916.html"><span title="voiceless aspirated dental affricated click" class="alphaid">|h</span></a> 
+					<a href="../S/S0520.html"><span title="glottalized nasalized voiceless dental affricated click" class="alphaid">hn|?</span></a> 
+					<a href="../S/S0522.html"><span title="glottalized nasalized velar-fricated voiceless dental affricated click" class="alphaid">hn|x?</span></a> 
+					<a href="../S/S0471.html"><span title="velar-fricated voiced dental affricated click" class="alphaid">g|x</span></a> 
+					<a href="../S/S0472.html"><span title="glottalized velar-fricated voiced dental affricated click" class="alphaid">g|x?</span></a> 
+					<a href="../S/S0470.html"><span title="breathy voiced dental affricated click" class="alphaid">g|h</span></a> 
+					<a href="../S/S0689.html"><span title="nasalized voiced dental affricated click" class="alphaid">n|</span></a> 
+					<a href="../S/S0690.html"><span title="nasalized breathy voiced dental affricated click" class="alphaid">n|h</span></a> 
+					<a href="../S/S0144.html"><span title="voiceless alveolar click" class="alphaid">/</span></a> 
+					<a href="../S/S0150.html"><span title="velar-fricated voiceless alveolar click" class="alphaid">/x</span></a> 
+					<a href="../S/S0148.html"><span title="voiceless aspirated alveolar click" class="alphaid">/h</span></a> 
+					<a href="../S/S0513.html"><span title="glottalized nasalized voiceless alveolar click" class="alphaid">hn/?</span></a> 
+					<a href="../S/S0514.html"><span title="nasalized voiceless aspirated alveolar click" class="alphaid">hn/h</span></a> 
+					<a href="../S/S0446.html"><span title="voiced alveolar click" class="alphaid">g/</span></a> 
+					<a href="../S/S0452.html"><span title="velar-fricated voiced alveolar click" class="alphaid">g/x</span></a> 
+					<a href="../S/S0451.html"><span title="breathy voiced alveolar click" class="alphaid">g/h</span></a> 
+					<a href="../S/S0453.html"><span title="glottalized velar-fricated voiced alveolar click" class="alphaid">g/x?</span></a> 
+					<a href="../S/S0643.html"><span title="nasalized voiced alveolar click" class="alphaid">n/</span></a> 
+					<a href="../S/S0646.html"><span title="nasalized breathy voiced alveolar click" class="alphaid">n/h</span></a> 
+					<a href="../S/S0145.html"><span title="voiceless palatal click" class="alphaid">/=</span></a> 
+					<a href="../S/S0147.html"><span title="velar-fricated voiceless palatal click" class="alphaid">/=x</span></a> 
+					<a href="../S/S0146.html"><span title="voiceless aspirated palatal click" class="alphaid">/=h</span></a> 
+					<a href="../S/S0510.html"><span title="glottalized nasalized voiceless palatal click" class="alphaid">hn/=?</span></a> 
+					<a href="../S/S0512.html"><span title="glottalized nasalized velar-fricated voiceless palatal click" class="alphaid">hn/=x?</span></a> 
+					<a href="../S/S0511.html"><span title="nasalized voiceless aspirated palatal click" class="alphaid">hn/=h</span></a> 
+					<a href="../S/S0447.html"><span title="voiced palatal click" class="alphaid">g/=</span></a> 
+					<a href="../S/S0449.html"><span title="velar-fricated voiced palatal click" class="alphaid">g/=x</span></a> 
+					<a href="../S/S0448.html"><span title="breathy voiced palatal click" class="alphaid">g/=h</span></a> 
+					<a href="../S/S0450.html"><span title="glottalized velar-fricated voiced palatal click" class="alphaid">g/=x?</span></a> 
+					<a href="../S/S0140.html"><span title="voiceless palatal lateral affricated click" class="alphaid">#j</span></a> 
+					<a href="../S/S0142.html"><span title="velar-fricated voiceless palatal lateral affricated click" class="alphaid">#jx</span></a> 
+					<a href="../S/S0141.html"><span title="voiceless aspirated palatal lateral affricated click" class="alphaid">#jh</span></a> 
+					<a href="../S/S0505.html"><span title="glottalized nasalized voiceless palatal lateral affricated click" class="alphaid">hn#j?</span></a> 
+					<a href="../S/S0507.html"><span title="glottalized nasalized velar-fricated voiceless palatal lateral affricated click" class="alphaid">hn#jx?</span></a> 
+					<a href="../S/S0506.html"><span title="nasalized voiceless aspirated palatal lateral affricated click" class="alphaid">hn#jh</span></a> 
+					<a href="../S/S0441.html"><span title="voiced palatal lateral affricated click" class="alphaid">g#j</span></a> 
+					<a href="../S/S0443.html"><span title="velar-fricated voiced palatal lateral affricated click" class="alphaid">g#jx</span></a> 
+					<a href="../S/S0442.html"><span title="breathy voiced palatal lateral affricated click" class="alphaid">g#jh</span></a> 
+					<a href="../S/S0444.html"><span title="glottalized velar-fricated voiced palatal lateral affricated click" class="alphaid">g#jx?</span></a> 
+					<a href="../S/S0644.html"><span title="nasalized voiced palatal click" class="alphaid">n/=</span></a> 
+					<a href="../S/S0645.html"><span title="nasalized breathy voiced palatal click" class="alphaid">n/=h</span></a> 
+					<a href="../S/S0638.html"><span title="nasalized voiced palatal lateral affricated click" class="alphaid">n#j</span></a> 
+					<a href="../S/S0639.html"><span title="nasalized breathy voiced palatal lateral affricated click" class="alphaid">n#jh</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0023.html"><span title="mid front unrounded vowel" class="alphaid">"e</span></a> 
+					<a href="../S/S0308.html"><span title="pharyngealized low central unrounded vowel" class="alphaid">a9</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0076.html"><span title="pharyngealized mid back rounded vowel" class="alphaid">"o9</span></a> 
+					<a href="../S/S0066.html"><span title="mid back rounded vowel" class="alphaid">"o</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0537.html"><span title="long high front unrounded vowel" class="alphaid">i:</span></a> 
+					<a href="../S/S0026.html"><span title="long mid front unrounded vowel" class="alphaid">"e:</span></a> 
+					<a href="../S/S0309.html"><span title="long pharyngealized low central unrounded vowel" class="alphaid">a9:</span></a> 
+					<a href="../S/S0312.html"><span title="long low central unrounded vowel" class="alphaid">a:</span></a> 
+					<a href="../S/S0077.html"><span title="long pharyngealized mid back rounded vowel" class="alphaid">"o9:</span></a> 
+					<a href="../S/S0079.html"><span title="long mid back rounded vowel" class="alphaid">"o:</span></a> 
+					<a href="../S/S0860.html"><span title="long high back rounded vowel" class="alphaid">u:</span></a> 
+					<a href="../S/S0564.html"><span title="nasalized high front unrounded vowel" class="alphaid">i~</span></a> 
+					<a href="../S/S0310.html"><span title="nasalized pharyngealized low central unrounded vowel" class="alphaid">a9~</span></a> 
+					<a href="../S/S0346.html"><span title="nasalized low central unrounded vowel" class="alphaid">a~</span></a> 
+					<a href="../S/S0081.html"><span title="nasalized mid back rounded vowel" class="alphaid">"o~</span></a> 
+					<a href="../S/S0884.html"><span title="nasalized high back rounded vowel" class="alphaid">u~</span></a> 
+					<a href="../S/S0311.html"><span title="long nasalized pharyngealized low central unrounded vowel" class="alphaid">a9~:</span></a> 
+					<a href="../S/S0348.html"><span title="long nasalized low central unrounded vowel" class="alphaid">a~:</span></a> 
+					<a href="../S/S0241.html"><span title="long nasalized pharyngealized lower mid back rounded vowel" class="alphaid">O9~:</span></a> 
+					<a href="../S/S0885.html"><span title="long nasalized high back rounded vowel" class="alphaid">u~:</span></a> 
+					<a href="../S/S0426.html"><span title="mid front unrounded to high front unrounded diphthong" class="alphaid">ei</span></a> 
+					<a href="../S/S0427.html"><span title="nasalized mid front unrounded to high front unrounded diphthong" class="alphaid">ei~</span></a> 
+					<a href="../S/S0430.html"><span title="nasalized mid front unrounded to high back rounded diphthong" class="alphaid">eu~</span></a> 
+					<a href="../S/S0332.html"><span title="pharyngealized low central unrounded to mid front unrounded diphthong" class="alphaid">ae9</span></a> 
+					<a href="../S/S0340.html"><span title="pharyngealized low central unrounded to mid back rounded diphthong" class="alphaid">ao9</span></a> 
+					<a href="../S/S0341.html"><span title="nasalized pharyngealized low central unrounded to mid back rounded diphthong" class="alphaid">ao9~</span></a> 
+					<a href="../S/S0331.html"><span title="low central unrounded to mid front unrounded diphthong" class="alphaid">ae</span></a> 
+					<a href="../S/S0339.html"><span title="low central unrounded to mid back rounded diphthong" class="alphaid">ao</span></a> 
+					<a href="../S/S0713.html"><span title="pharyngealized mid back rounded to high front unrounded diphthong" class="alphaid">oi9</span></a> 
+					<a href="../S/S0714.html"><span title="nasalized pharyngealized mid back rounded to high front unrounded diphthong" class="alphaid">oi9~</span></a> 
+					<a href="../S/S0712.html"><span title="mid back rounded to high front unrounded diphthong" class="alphaid">oi</span></a> 
+					<a href="../S/S0716.html"><span title="nasalized mid back rounded to high front unrounded diphthong" class="alphaid">oi~</span></a> 
+					<a href="../S/S0555.html"><span title="high front unrounded to low central unrounded diphthong" class="alphaid">ia</span></a> 
+					<a href="../S/S0707.html"><span title="pharyngealized mid back rounded to low central unrounded diphthong" class="alphaid">oa9</span></a> 
+					<a href="../S/S0708.html"><span title="nasalized pharyngealized mid back rounded to low central unrounded diphthong" class="alphaid">oa9~</span></a> 
+					<a href="../S/S0710.html"><span title="mid back rounded to mid front unrounded diphthong" class="alphaid">oe</span></a> 
+					<a href="../S/S0706.html"><span title="mid back rounded to low central unrounded diphthong" class="alphaid">oa</span></a> 
+					<a href="../S/S0709.html"><span title="nasalized mid back rounded to low central unrounded diphthong" class="alphaid">oa~</span></a> 
+					<a href="../S/S0869.html"><span title="high back rounded to high front unrounded diphthong" class="alphaid">ui</span></a> 
+					<a href="../S/S0871.html"><span title="nasalized high back rounded to high front unrounded diphthong" class="alphaid">ui~</span></a> 
+					<a href="../S/S0799.html"><span title="velarized voiceless alveolar plosive" class="alphaid">t-</span></a> 
+					<a href="../S/S0416.html"><span title="voiced alveolar sibilant ejective affricate" class="alphaid">dz'</span></a> 
+					<a href="../S/S0521.html"><span title="nasalized voiceless aspirated dental affricated click" class="alphaid">hn|h</span></a> 
+					<a href="../S/S0515.html"><span title="glottalized nasalized velarized voiceless alveolar click" class="alphaid">hn/x?</span></a> 
+					<a href="../S/S0078.html"><span title="nasalized pharyngealized mid back rounded vowel" class="alphaid">"o9~</span></a> 
+					<a href="../S/S0429.html"><span title="mid front unrounded to high back rounded diphthong" class="alphaid">eu</span></a> 
+					<a href="../S/S0333.html"><span title="nasalized pharyngealized low central unrounded to mid front unrounded diphthong" class="alphaid">ae9~</span></a> 
+					<a href="../S/S0469.html"><span title="voiced dental affricated click" class="alphaid">g|</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Snyman, J.W. 1969. An Introduction to the !Xu Language. Balkema, Cape Town. <br>Snyman, J.W. 1975. Zu|'hoasi fonologie en Woordeboek. Balkema, Cape Town.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

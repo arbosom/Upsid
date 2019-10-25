@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID SEDANG</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>SEDANG</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>2304</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Austro-Asiatic.html">Austro-Asiatic</a>, <a href = "../C/C_Bahnaric.html">Bahnaric</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>55 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.246401935 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0733.html"><span title="voiceless aspirated bilabial plosive" class="alphaid">ph</span></a> 
+					<a href="../S/S0628.html"><span title="prenasalized voiced bilabial plosive" class="alphaid">mb</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0112.html"><span title="voiceless aspirated dental/alveolar plosive" class="alphaid">"th</span></a> 
+					<a href="../S/S0058.html"><span title="prenasalized voiced dental/alveolar plosive" class="alphaid">"nd</span></a> 
+					<a href="../S/S0013.html"><span title="laryngealized voiced dental/alveolar plosive" class="alphaid">"d*</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0586.html"><span title="voiceless aspirated velar plosive" class="alphaid">kh</span></a> 
+					<a href="../S/S0227.html"><span title="prenasalized voiced velar plosive" class="alphaid">Ng</span></a> 
+					<a href="../S/S0827.html"><span title="voiceless palato-alveolar sibilant affricate" class="alphaid">tS</span></a> 
+					<a href="../S/S0665.html"><span title="prenasalized voiced palato-alveolar sibilant affricate" class="alphaid">ndZ</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0265.html"><span title="voiceless palato-alveolar sibilant fricative" class="alphaid">S</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0622.html"><span title="laryngealized voiced bilabial nasal" class="alphaid">m*</span></a> 
+					<a href="../S/S0499.html"><span title="voiceless bilabial nasal" class="alphaid">hm</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0054.html"><span title="laryngealized voiced dental/alveolar nasal" class="alphaid">"n*</span></a> 
+					<a href="../S/S0039.html"><span title="voiceless dental/alveolar nasal" class="alphaid">"hn</span></a> 
+					<a href="../S/S0671.html"><span title="voiced palatal nasal" class="alphaid">nj</span></a> 
+					<a href="../S/S0672.html"><span title="laryngealized voiced palatal nasal" class="alphaid">nj*</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0223.html"><span title="laryngealized voiced velar nasal" class="alphaid">N*</span></a> 
+					<a href="../S/S0477.html"><span title="voiceless velar nasal" class="alphaid">hN</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0046.html"><span title="laryngealized voiced dental/alveolar lateral approximant" class="alphaid">"l*</span></a> 
+					<a href="../S/S0032.html"><span title="voiceless dental/alveolar lateral approximant" class="alphaid">"hl</span></a> 
+					<a href="../S/S0083.html"><span title="voiced dental/alveolar trill" class="alphaid">"r</span></a> 
+					<a href="../S/S0084.html"><span title="laryngealized voiced dental/alveolar trill" class="alphaid">"r*</span></a> 
+					<a href="../S/S0041.html"><span title="voiceless dental/alveolar trill" class="alphaid">"hr</span></a> 
+					<a href="../S/S0173.html"><span title="glottal plosive" class="alphaid">?</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0532.html"><span title="high front unrounded vowel" class="alphaid">i</span></a> 
+					<a href="../S/S0533.html"><span title="laryngealized high front unrounded vowel" class="alphaid">i*</span></a> 
+					<a href="../S/S0419.html"><span title="higher mid front unrounded vowel" class="alphaid">e</span></a> 
+					<a href="../S/S0420.html"><span title="laryngealized higher mid front unrounded vowel" class="alphaid">e*</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0199.html"><span title="laryngealized lower mid front unrounded vowel" class="alphaid">E*</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0301.html"><span title="laryngealized low central unrounded vowel" class="alphaid">a*</span></a> 
+					<a href="../S/S0853.html"><span title="high back rounded vowel" class="alphaid">u</span></a> 
+					<a href="../S/S0854.html"><span title="laryngealized high back rounded vowel" class="alphaid">u*</span></a> 
+					<a href="../S/S0691.html"><span title="higher mid back rounded vowel" class="alphaid">o</span></a> 
+					<a href="../S/S0697.html"><span title="laryngealized higher mid back rounded vowel" class="alphaid">o*</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0239.html"><span title="laryngealized lower mid back rounded vowel" class="alphaid">O*</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0892.html"><span title="voiced labial-velar approximant" class="alphaid">w</span></a> 
+					<a href="../S/S0530.html"><span title="voiceless labial-velar approximant" class="alphaid">hw</span></a> 
+					<a href="../S/S0893.html"><span title="laryngealized voiced labial-velar approximant" class="alphaid">w*</span></a> 
+					<a href="../S/S0351.html"><span title="laryngealized voiced bilabial plosive" class="alphaid">b*</span></a> 
+					<a href="../S/S0519.html"><span title="voiceless palatal nasal" class="alphaid">hnj</span></a> 
+					<a href="../S/S0569.html"><span title="laryngealized voiced palatal approximant" class="alphaid">j*</span></a> 
+					<a href="../S/S0486.html"><span title="voiceless palatal approximant" class="alphaid">hj</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Sedang is spoken in Gia Lai-Cong Tum Province in Vietnam. Smith reports highly restricted nasalized vowels, after /h,?/ only. There are complex relationships between laryngealization of vowels, allowable final consonants and vowel diphthongization. In closed syllables, laryngealized vowels occur only before /j,w/ and nasals. These syllables could be interpreted as terminating with laryngealized consonants, but in open syllables plain and laryngealized vowels contrast and both differ from final -? and -h syllables.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Smith, K.D. 1968. Laryngealization and de-laryngealization in Sedang phonemics. Linguistics 38: 52-69.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

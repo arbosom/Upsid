@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><title>UPSID WOISIKA</title></head>
+
+	<body>
+		<table border="0">
+			<tr>
+				<td valign="top">Language name:</td>
+				<td>WOISIKA</td>
+			</tr>
+			<tr>
+				<td valign="top">UPSID number:</td>
+				<td>8633</td>
+			</tr>
+			<tr>
+				<td>Alternate name(s):</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Classification:</td>
+				<td><a href = "../C/C_Papuan.html">Papuan</a>, <a href = "../C/C_Trans-New Guinea.html">Trans-New Guinea</a></td>
+			</tr>
+			<tr>
+				<td>This language has</td>
+				<td>28 segments</td>
+			</tr>
+			<tr>
+				<td>Its Frequency index is</td>
+				<td>0.361656636 (average percentage of segments; 0.1: many very rare segments; 0.39: average; 0.7: many common segments)</td>
+			</tr>
+			<tr>
+				<td>The language has these sounds:</td>
+				<td>
+					<a href="../S/S0721.html"><span title="voiceless bilabial plosive" class="alphaid">p</span></a> 
+					<a href="../S/S0102.html"><span title="voiceless dental/alveolar plosive" class="alphaid">"t</span></a> 
+					<a href="../S/S0573.html"><span title="voiceless velar plosive" class="alphaid">k</span></a> 
+					<a href="../S/S0349.html"><span title="voiced bilabial plosive" class="alphaid">b</span></a> 
+					<a href="../S/S0012.html"><span title="voiced dental/alveolar plosive" class="alphaid">"d</span></a> 
+					<a href="../S/S0438.html"><span title="voiced velar plosive" class="alphaid">g</span></a> 
+					<a href="../S/S0433.html"><span title="voiceless labiodental fricative" class="alphaid">f</span></a> 
+					<a href="../S/S0473.html"><span title="voiceless "h"" class="alphaid">h</span></a> 
+					<a href="../S/S0094.html"><span title="voiceless dental/alveolar sibilant fricative" class="alphaid">"s</span></a> 
+					<a href="../S/S0621.html"><span title="voiced bilabial nasal" class="alphaid">m</span></a> 
+					<a href="../S/S0053.html"><span title="voiced dental/alveolar nasal" class="alphaid">"n</span></a> 
+					<a href="../S/S0222.html"><span title="voiced velar nasal" class="alphaid">N</span></a> 
+					<a href="../S/S0083.html"><span title="voiced dental/alveolar trill" class="alphaid">"r</span></a> 
+					<a href="../S/S0045.html"><span title="voiced dental/alveolar lateral approximant" class="alphaid">"l</span></a> 
+					<a href="../S/S0887.html"><span title="voiced labiodental approximant" class="alphaid">vA</span></a> 
+					<a href="../S/S0568.html"><span title="voiced palatal approximant" class="alphaid">j</span></a> 
+					<a href="../S/S0214.html"><span title="lowered high front unrounded vowel" class="alphaid">I</span></a> 
+					<a href="../S/S0196.html"><span title="lower mid front unrounded vowel" class="alphaid">E</span></a> 
+					<a href="../S/S0302.html"><span title="low front unrounded vowel" class="alphaid">a+</span></a> 
+					<a href="../S/S0300.html"><span title="low central unrounded vowel" class="alphaid">a</span></a> 
+					<a href="../S/S0315.html"><span title="low back unrounded vowel" class="alphaid">a_</span></a> 
+					<a href="../S/S0316.html"><span title="low back rounded vowel" class="alphaid">a_)</span></a> 
+					<a href="../S/S0238.html"><span title="lower mid back rounded vowel" class="alphaid">O</span></a> 
+					<a href="../S/S0272.html"><span title="lowered high back rounded vowel" class="alphaid">U</span></a> 
+					<a href="../S/S0545.html"><span title="high central unrounded vowel" class="alphaid">i_</span></a> 
+					<a href="../S/S0028.html"><span title="retracted mid front unrounded vowel" class="alphaid">"e_</span></a> 
+					<a href="../S/S0072.html"><span title="fronted mid back rounded vowel" class="alphaid">"o+</span></a> 
+					<a href="../S/S0855.html"><span title="high central rounded vowel" class="alphaid">u+</span></a> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">Comment:</td>
+				<td>Woisika is spoken in the center of the island of Alor, Nusa Tenggara Timur, Indonesia. Because Stokhof (1979) places 'w' on his chart of symbols in the labiodental column it is assumed the sound is labiodental. The vowels are described by Stokhof as divided into "tense" and "lax" sets. The "tense" vowels are usually lower, more peripheral and longer than the "lax" vowels and also are lower in pitch. "Lax" vowels, except for /a/, are more common than their nearest "tense" counterparts. The features available in UPSID require some compromises in vowel representation. Retracted front high and fronted back high vowels are represented here as central, although Stokhof marks them as halfway between center and periphery. Similarly, a retracted central low unrounded vowel is shown as back here. Palatograms included in the book show clearly dental articulation for /t, d, n/ etc. but Stokhof indicates variation to alveolar place.</td>
+			</tr>
+			<tr>
+				<td valign="top">Source(s):</td>
+				<td>Stokhof, W.A.L. 1979. Woisika II: Phonemics. (Pacific Linguistics, Series B, No. 59). Australian National University, Canberra.</td>
+			</tr>
+		</table>
+		<br><a href=&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#101;&#101;&#116;&#122;&#64;&#101;&#109;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#97;&#110;&#107;&#102;&#117;&#114;&#116;&#46;&#100;&#101;>Report a bug</a>	</body>
+</html>

@@ -14,10 +14,10 @@ import itertools
 class database:
     """La classe base de données permet la création la suppression l'actualisation la gestion des tables situées dans un schéma ainsi que la gestion et la création des requêtes permettant l'insertion l'actualisation des données provenant des corpus upside de langue de branche de phonème de géolocalisation des langues présentes.
     L'initialisation des instances de la classe database requiert des séquences de création des séquences de suppression un nom et l'option debug facultative mais néanmoins utile lors de la création des données pour voir les potentiels erreurs"""
-    def __init__(self,db,creation,deletion,name="mydb",debug=False):
+    def __init__(self,db,creation,deletion,name="upsid_db",debug=False):
         """"""
         self.db=db
-        self.mycursor=mydb.cursor()
+        self.mycursor=upsid_db.cursor()
         self.creation=creation
         self.deletion=deletion
         self.name=name
@@ -57,27 +57,25 @@ class database:
         self.file.close()
             
 
-mydb = mysql.connector.connect(
+upsid_db = mysql.connector.connect(
         host = "localhost",
-        user = "root",
-        passwd= "Mon Serveur MySQL 5.7.27",
-        auth_plugin='mysql_native_password',
-        database = "mydb",
-        use_pure=True
+        user = "estelle",
+        passwd= "connectSQL",
+        database = "upsid_db",
         )
-mycursor=mydb.cursor()
+mycursor=upsid_db.cursor()
 deletion=["DROP TABLE `Phonemes_Langues`;",
           "DROP TABLE `Langues_Branches`;",
           "DROP TABLE `Branches`;",
           "DROP TABLE `Phonemes`;",
           "DROP TABLE `Langues`;",
         ]
-creation=["CREATE TABLE IF NOT EXISTS `mydb`.`Langues` ( `upsid` INT NOT NULL, `nom` TEXT NOT NULL, `biblio` TEXT NULL, PRIMARY KEY (`upsid`)) ENGINE = InnoDB;",
- "CREATE TABLE IF NOT EXISTS `mydb`.`Phonemes` ( `id` INT NOT NULL AUTO_INCREMENT, `IPA` TEXT NOT NULL, `description` TEXT NULL, PRIMARY KEY (`id`)) ENGINE = InnoDB;",
- "CREATE TABLE IF NOT EXISTS `mydb`.`Branches` ( `famille` TEXT NOT NULL, `id` INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (`id`)) ENGINE = InnoDB;",
- "CREATE TABLE IF NOT EXISTS `mydb`.`Phonemes_Langues` ( `upsid` INT NOT NULL, `phoneme` INT NOT NULL, INDEX `upsid_idx` (`upsid` ASC), INDEX `IPA_idx` (`phoneme` ASC), PRIMARY KEY (`upsid`, `phoneme`), CONSTRAINT `upsid` FOREIGN KEY (`upsid`) REFERENCES `mydb`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT `IPA` FOREIGN KEY (`phoneme`) REFERENCES `mydb`.`Phonemes` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;",
- "CREATE TABLE IF NOT EXISTS `mydb`.`Langues_Branches` ( `famille` INT NOT NULL, `upsid` INT NOT NULL, PRIMARY KEY (`famille`, `upsid`), INDEX `upsid_fk_idx` (`upsid` ASC), INDEX `index3` (`famille` ASC), CONSTRAINT `famille_fk` FOREIGN KEY (`famille`) REFERENCES `mydb`.`Branches` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT `upsid_fk` FOREIGN KEY (`upsid`) REFERENCES `mydb`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;",
- "CREATE TABLE IF NOT EXISTS `mydb`.`Langues_geolocalisation` ( `upsid` INT NOT NULL, `variete` VARCHAR(100) NOT NULL, `geolocalisation` TEXT NOT NULL, PRIMARY KEY (`upsid`, `variete`), INDEX `upsid2_fk_idx` (`upsid` ASC), INDEX `index3` (`variete` ASC), CONSTRAINT `upsid2_fk` FOREIGN KEY (`upsid`) REFERENCES `mydb`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;"
+creation=["CREATE TABLE IF NOT EXISTS `upsid_db`.`Langues` ( `upsid` INT NOT NULL, `nom` TEXT NOT NULL, `biblio` TEXT NULL, PRIMARY KEY (`upsid`)) ENGINE = InnoDB;",
+ "CREATE TABLE IF NOT EXISTS `upsid_db`.`Phonemes` ( `id` INT NOT NULL AUTO_INCREMENT, `IPA` TEXT NOT NULL, `description` TEXT NULL, PRIMARY KEY (`id`)) ENGINE = InnoDB;",
+ "CREATE TABLE IF NOT EXISTS `upsid_db`.`Branches` ( `famille` TEXT NOT NULL, `id` INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (`id`)) ENGINE = InnoDB;",
+ "CREATE TABLE IF NOT EXISTS `upsid_db`.`Phonemes_Langues` ( `upsid` INT NOT NULL, `phoneme` INT NOT NULL, INDEX `upsid_idx` (`upsid` ASC), INDEX `IPA_idx` (`phoneme` ASC), PRIMARY KEY (`upsid`, `phoneme`), CONSTRAINT `upsid` FOREIGN KEY (`upsid`) REFERENCES `upsid_db`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT `IPA` FOREIGN KEY (`phoneme`) REFERENCES `upsid_db`.`Phonemes` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;",
+ "CREATE TABLE IF NOT EXISTS `upsid_db`.`Langues_Branches` ( `famille` INT NOT NULL, `upsid` INT NOT NULL, PRIMARY KEY (`famille`, `upsid`), INDEX `upsid_fk_idx` (`upsid` ASC), INDEX `index3` (`famille` ASC), CONSTRAINT `famille_fk` FOREIGN KEY (`famille`) REFERENCES `upsid_db`.`Branches` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT `upsid_fk` FOREIGN KEY (`upsid`) REFERENCES `upsid_db`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;",
+ "CREATE TABLE IF NOT EXISTS `upsid_db`.`Langues_geolocalisation` ( `upsid` INT NOT NULL, `variete` VARCHAR(100) NOT NULL, `geolocalisation` TEXT NOT NULL, PRIMARY KEY (`upsid`, `variete`), INDEX `upsid2_fk_idx` (`upsid` ASC), INDEX `index3` (`variete` ASC), CONSTRAINT `upsid2_fk` FOREIGN KEY (`upsid`) REFERENCES `upsid_db`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;"
  ]
 
 
@@ -86,7 +84,7 @@ phonemes=json.load(open("phonemes.json"))
 branches=json.load(open("branches.json"))
 geolocalisation=json.load(open("geolocalisation.json"))
 
-base_donnees=database(mydb,creation,deletion,"projet-Tanguy-Launay",True)#instantiation de la l'objet database
+base_donnees=database(upsid_db,creation,deletion,"projet-Tanguy-Launay",True)#instantiation de la l'objet database
 
 base_donnees.initialisation()
 val_langues=list(set([("%s"%(langue["UPSIDE number "]),"'%s'"%(langue["Language name "].replace("'","´"))) for langue in langues]))#liste d'un ensemble de tuples composées du numéro upsid et du nom de langue correspondante pour chaque langue présente dans le fichier langues.json

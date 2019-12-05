@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+<h2>Boucler sur les géolocalisations</h2>
+<!--il existe des values vides (pour les langues qui n'ont pas de geoloc)
+DONC mettre un if value est vide, afficher un popup "no geolocalisation for this language, sorry"-->
+    {%for key, value in dico_upsid_loc.items%}
+    <p>{{key}} -> {{value}}</p>
+    {%endfor%}
+
+
+
+  </body>
+</html>

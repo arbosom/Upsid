@@ -19,7 +19,9 @@ from . import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.accueil_site),
-    path('map/', include('map.urls')),
+    path('', views.accueil),
+    #path('map/', include('map.urls')),
+    path('carte/', views.display_map),
+    path('info_langue/', views.display_info_langue),
 
 ]

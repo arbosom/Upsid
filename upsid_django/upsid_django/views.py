@@ -23,8 +23,8 @@ def display_map(request):
             if str(loc.upsid).strip("Langues object (").strip(")") == str(upsid):
                 liste_geoloc_selon_upsid.append(loc.geolocalisation)
         langue_geoloc[upsid]=liste_geoloc_selon_upsid
-    return render(request, "upsid_django/test.html", {'dico_upsid_loc':langue_geoloc, 'liste_upsid':liste_upsid})
-
+    #return render(request, "upsid_django/test.html", {'dico_upsid_loc':langue_geoloc, 'liste_upsid':liste_upsid})
+    return render (request, "upsid_django/themekit-master/index.html", {'liste_langues':liste_langues, 'dico_upsid_loc':langue_geoloc})
 """
     if '<langue>' in request.GET:
         #return render (request, "upsid_django/themekit-master/index.html", {'liste_langues':liste_langues, 'dico_upsid_loc':langue_geoloc})

@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'upsid_django',
 ]
 
 MIDDLEWARE = [
@@ -54,7 +55,7 @@ ROOT_URLCONF = 'upsid_django.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -77,7 +78,7 @@ DATABASES = {
     'default': {
 
         'ENGINE' : 'django.db.backends.mysql',
-        'NAME' : 'UPSID',
+        'NAME' : 'upsid_db',
         'USER' : 'estelle',
         'PASSWORD' : 'connectSQL',
         'HOST' : 'localhost',

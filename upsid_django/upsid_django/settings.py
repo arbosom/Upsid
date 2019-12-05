@@ -77,7 +77,7 @@ DATABASES = {
     'default': {
 
         'ENGINE' : 'django.db.backends.mysql',
-        'NAME' : 'UPSID',
+        'NAME' : 'upsid_db',
         'USER' : 'estelle',
         'PASSWORD' : 'connectSQL',
         'HOST' : 'localhost',

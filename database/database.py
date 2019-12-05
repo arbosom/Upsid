@@ -76,13 +76,15 @@ creation=["CREATE TABLE IF NOT EXISTS `mydb`.`Langues` ( `upsid` INT NOT NULL, `
  "CREATE TABLE IF NOT EXISTS `mydb`.`Phonemes` ( `id` INT NOT NULL AUTO_INCREMENT, `IPA` TEXT NOT NULL, `description` TEXT NULL, PRIMARY KEY (`id`)) ENGINE = InnoDB;",
  "CREATE TABLE IF NOT EXISTS `mydb`.`Branches` ( `famille` TEXT NOT NULL, `id` INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (`id`)) ENGINE = InnoDB;",
  "CREATE TABLE IF NOT EXISTS `mydb`.`Phonemes_Langues` ( `upsid` INT NOT NULL, `phoneme` INT NOT NULL, INDEX `upsid_idx` (`upsid` ASC), INDEX `IPA_idx` (`phoneme` ASC), PRIMARY KEY (`upsid`, `phoneme`), CONSTRAINT `upsid` FOREIGN KEY (`upsid`) REFERENCES `mydb`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT `IPA` FOREIGN KEY (`phoneme`) REFERENCES `mydb`.`Phonemes` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;",
- "CREATE TABLE IF NOT EXISTS `mydb`.`Langues_Branches` ( `famille` INT NOT NULL, `upsid` INT NOT NULL, PRIMARY KEY (`famille`, `upsid`), INDEX `upsid_fk_idx` (`upsid` ASC), INDEX `index3` (`famille` ASC), CONSTRAINT `famille_fk` FOREIGN KEY (`famille`) REFERENCES `mydb`.`Branches` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT `upsid_fk` FOREIGN KEY (`upsid`) REFERENCES `mydb`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;"
+ "CREATE TABLE IF NOT EXISTS `mydb`.`Langues_Branches` ( `famille` INT NOT NULL, `upsid` INT NOT NULL, PRIMARY KEY (`famille`, `upsid`), INDEX `upsid_fk_idx` (`upsid` ASC), INDEX `index3` (`famille` ASC), CONSTRAINT `famille_fk` FOREIGN KEY (`famille`) REFERENCES `mydb`.`Branches` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT `upsid_fk` FOREIGN KEY (`upsid`) REFERENCES `mydb`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;",
+ "CREATE TABLE IF NOT EXISTS `mydb`.`Langues_geolocalisation` ( `upsid` INT NOT NULL, `variete` VARCHAR(100) NOT NULL, `geolocalisation` TEXT NOT NULL, PRIMARY KEY (`upsid`, `variete`), INDEX `upsid2_fk_idx` (`upsid` ASC), INDEX `index3` (`variete` ASC), CONSTRAINT `upsid2_fk` FOREIGN KEY (`upsid`) REFERENCES `mydb`.`Langues` (`upsid`) ON DELETE NO ACTION ON UPDATE NO ACTION) ENGINE = InnoDB;"
  ]
 
 
 langues=json.load(open("langues.json"))
 phonemes=json.load(open("phonemes.json"))
 branches=json.load(open("branches.json"))
+geolocalisation=json.load(open("geolocalisation.json"))
 
 base_donnees=database(mydb,creation,deletion,"projet-Tanguy-Launay",True)#instantiation de la l'objet database
 
@@ -99,11 +101,17 @@ for i in langues:#pour chacune des langues du fichier langues.json
         else:entrees=[alt]
         for entree in entrees:dico[entree.strip()]=i["UPSIDE number "]#ajout d'une clef différente pour chaque dénomination mais avec le même code upsid
 phon={a[0]:i for i,a in enumerate(val_phonemes)}#création d'un dictionnaire associant à chaque phonème son id
+val_geo=[]
+for upsid,varietes in geolocalisation.items():
+    for variete,geo in varietes.items():
+        if geo:
+            val_geo.append((dico[str(upsid)],"'%s'"%(str(variete).replace("'","")),"'%s'"%(str(geo).replace("'",""))))
 val_pl=[elem for elem in itertools.chain.from_iterable([[(dico[nom.strip()],"%s"%(phon["'%s'"%(son[2].replace("'","´"))])) for son in sons] for nom,sons in phonemes.items()])]#list de tuples qui permettent l'association de tous les codes upsid avec les codes de phonèmes que ces langues comportent.
 val_lb=[i for i in itertools.chain.from_iterable([[(dico[nom.strip()],"%s"%(str(val_branches.index(["'%s'"%(famille)])))) for famille in familles] for nom,familles in branches.items()])]#list de tuples qui permettent l'association de tous les codes upsid avec les codes de branche auqelles ces langues appartiennent.
 base_donnees.ajout_donnees("Langues","upsid nom",val_langues)#Ajout des valeurs précédemment décrites aux tables de la base de données
 base_donnees.ajout_donnees("Phonemes","IPA description",val_phonemes)
 base_donnees.ajout_donnees("Branches","famille",val_branches)
+base_donnees.ajout_donnees("Langues_geolocalisation","upsid variete geolocalisation",val_geo)
 base_donnees.ajout_donnees("Langues_Branches","upsid famille",val_lb)
 base_donnees.ajout_donnees("Phonemes_Langues","upsid phoneme",val_pl)
 

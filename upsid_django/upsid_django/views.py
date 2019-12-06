@@ -32,3 +32,13 @@ def display_map(request):
 
 def display_info_langue(request):
     return render(request, "upsid_django/matrix-admin-master/tables.html")
+
+
+def display_info_langue_arg(request, nom_langue):
+    #if 'name' in request.GET:
+        #nom_langue = request.GET['name']
+        return render(request, "upsid_django/matrix-admin-master/tables.html", {'nom_langue':nom_langue})
+        #return HttpResponse(nom_langue)
+    #else:
+        #return render(request, "upsid_django/matrix-admin-master/tables.html")
+        #return HttpResponse("ok")

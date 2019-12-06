@@ -22,6 +22,7 @@ urlpatterns = [
     path('', views.accueil),
     #path('map/', include('map.urls')),
     path('carte/', views.display_map, name="carte"),
+    path('<str:nom_langue>/', views.display_info_langue_arg, name="info_langue_arg"),
     path('info_langue/', views.display_info_langue, name="info_langue"),
     #path('test/', views.test, name="test"),
 

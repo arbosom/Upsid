@@ -28,30 +28,83 @@
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
-                    left: 0.0%;
-                    top: 0.0%;
+                    z-index: 2;
+                }
+                header{
+                    margin-bottom: 5em;
+                }
+                h2{
+                   text-align: center; 
+                }
+                
+                #myInput {
+                  background-image: url('/css/searchicon.png');
+                  background-position: 10px 12px;
+                  background-repeat: no-repeat;
+                  width: 100%;
+                  font-size: 16px;
+                  padding: 12px 20px 12px 40px;
+                  border: 1px solid #ddd;
+                  margin-bottom: 12px;
+                }
+
+                #myUL {
+                  position: absolute;
+                  list-style-type: none;
+                  padding: 0;
+                  margin: 0;
+                }
+
+                #myUL li a {
+                  border: 1px solid #ddd;
+                  font-style: italic;
+                  font-size: 12px;
+                  color: black;
+                  display: inline-flex;
+                }
+
+                #myUL li a:hover:not(.header) {
+                  background-color: #eee;
                 }
             </style>
-    <link rel="stylesheet" type="text/css" href="css/style.css">   
+                <link rel="stylesheet" type="text/css" href="css/style.css">
+                <script>
+                function myFunction() {
+                    var input, filter, ul, li, a, i, txtValue;
+                    input = document.getElementById("myInput");
+                    filter = input.value.toUpperCase();
+                    ul = document.getElementById("myUL");
+                    li = ul.getElementsByTagName("li");
+                    for (i = 0; i < li.length; i++){
+                        li[i].style.display= "";
+                    }
+                    for (i = 0; i < li.length; i++) {
+                        a = li[i].getElementsByTagName("a")[0];
+                        txtValue = a.textContent || a.innerText;
+                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                            li[i].style.display = "";
+                        } else {
+                            li[i].style.display = "none";
+                        }
+                    }
+                }
+            </script>
 </head>
 
 <body>   
 
-<div class="container" style="margin-bottom: 30px;">
-    <div class="row">
-        <h2>CARTE DE LANGUES</h2>
-           <div id="custom-search-input">
-                            <div class="input-group col-md-12">
-                                <input type="text" class="  search-query form-control" placeholder="Recherche" />
-                                <span class="input-group-btn">
-                                    <button class="btn btn-danger" type="button">
-                                        <span class=" glyphicon glyphicon-search"></span>
-                                    </button>
-                                </span>
-                            </div>
-                        </div>
-    </div>
-</div>
+<header>
+<h2>Cartes des langues</h2>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Recherche" title="Écrire une langue">
+
+<ul id="myUL">
+    {% for i in langues%}
+  <li><a href="#">{{i}}</a></li>
+    {% endfor %}
+</ul>
+
+        </header>
     
             <div class="folium-map" id="map_a55783eca9914283ae3dfd119e3869cd" ></div>
         

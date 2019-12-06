@@ -12,6 +12,19 @@ DONC mettre un if value est vide, afficher un popup "no geolocalisation for this
     <p>{{key}} -> {{value}}</p>
     {%endfor%}
 
+    <div class="input-group col-md-12">
+        <input name="user_research" type="text" class="search-query form-control" placeholder="Recherche" />
+        <span class="input-group-btn">
+            <button class="btn btn-danger" type="button" onclick="document.getElementById('id-btn-info').style.display='block'">
+                <span class=" glyphicon glyphicon-search"></span>
+            </button>
+        </span>
+        <form id="id-btn-info" style="display:none" class="form-info" action="{% url 'info_langue' %}">
+            <button class="btn-info" type="submit">infos</button>
+        </form>
+
+    </div>
+
 
 
   </body>

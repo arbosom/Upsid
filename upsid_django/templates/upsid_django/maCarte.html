@@ -75,9 +75,6 @@
                     filter = input.value.toUpperCase();
                     ul = document.getElementById("myUL");
                     li = ul.getElementsByTagName("li");
-                    for (i = 0; i < li.length; i++){
-                        li[i].style.display= "";
-                    }
                     for (i = 0; i < li.length; i++) {
                         a = li[i].getElementsByTagName("a")[0];
                         txtValue = a.textContent || a.innerText;
@@ -88,6 +85,10 @@
                         }
                     }
                 }
+                function show(myid){
+                    var monid=document.getElementById(myid);
+                    monid.style.display="block";
+                }
             </script>
 </head>
 
@@ -96,7 +97,7 @@
 <header>
 <h2>Cartes des langues</h2>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Recherche" title="Écrire une langue">
+<input type="text" id="myInput" onclick="show('myUL')" onkeyup="myFunction()" placeholder="Recherche" title="Écrire une langue">
 
 <ul id="myUL">
     {% for i in langues%}

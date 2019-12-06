@@ -154,6 +154,11 @@ h1, h2, h3, h4, h5, h6 {
 p {
   line-height: 28px;
   margin-bottom: 25px;
+  text-align: justify;
+}
+
+span{
+  text-align: left;
 }
 
 .centered {
@@ -252,22 +257,15 @@ a:before, a:after {
    ========================================================================== */
 
 #headerwrap {
-  background: url(../img/header_bg.jpg) no-repeat center top;
+  background: url(../../../../static/PCONTACT.jpg) no-repeat center 80%;
+  background-size: 100%;
   margin-top: -50px;
   padding-top: 120px;
   text-align: center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 650px;
+  min-height: 800px;
   width: 100%;
-  -webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  -o-background-size: 100%;
-  background-size: 100%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
 
 #headerwrap h1 {

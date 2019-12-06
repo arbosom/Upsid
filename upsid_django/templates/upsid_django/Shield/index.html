@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  {% load staticfiles %}
+  {% load static %}
   <meta charset="utf-8">
   <title>Shield - Bootstrap Agency Template</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -14,13 +14,12 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:Lato:300,400,700,300italic,400italic|Raleway:400,300,700" rel="stylesheet">
 
   <!-- Bootstrap CSS File -->
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{% static 'lib/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
 
   <!-- Libraries CSS Files -->
-  <link href="lib/icomoon/icomoon.css" rel="stylesheet">
-
+  <link href="{%  static 'lib/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
   <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href="{%  static 'css/style2.css'%}" rel="stylesheet">
 
   <!-- =======================================================
     Template Name: Shield

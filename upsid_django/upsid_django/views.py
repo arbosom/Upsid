@@ -4,7 +4,7 @@ from .models import Langues, Branches, LanguesBranches, LanguesGeolocalisation, 
 
 
 def accueil(request) :
-    #return render(request, "upsid_django/Shield/index.html")
+    return render(request, "upsid_django/Shield/index.html")
     return HttpResponse("ok")
 
 def display_map(request):

@@ -8,6 +8,7 @@
 /* ==========================================================================
    Base Styles and Bootstrap Modifications
    ========================================================================== */
+{% load static %}
 
 html, button, input, select, textarea {
   color: #222;
@@ -257,7 +258,7 @@ a:before, a:after {
    ========================================================================== */
 
 #headerwrap {
-  background: url(../../../../static/PCONTACT.jpg) no-repeat center 80%;
+  background: url('../PCONTACT.jpg') no-repeat center 80%;
   background-size: 100%;
   margin-top: -50px;
   padding-top: 120px;
@@ -730,3 +731,41 @@ a:before, a:after {
 .credits {
   color: #999;
 }
+#custom-search-input {
+        margin:0;
+        margin-top: 10px;
+        padding: 0;
+    }
+
+    #custom-search-input .search-query {
+        padding-right: 3px;
+        padding-right: 4px \9;
+        padding-left: 3px;
+        padding-left: 4px \9;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+    }
+
+    #custom-search-input button {
+        border: 0;
+        background: none;
+        /** belows styles are working good */
+        padding: 2px 5px;
+        margin-top: 2px;
+        position: relative;
+        left: -28px;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        color:#D9230F;
+    }
+
+    .search-query:focus + button {
+        z-index: 3;
+    }

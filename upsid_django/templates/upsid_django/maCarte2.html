@@ -49,6 +49,7 @@
                 }
 
                 #myUL {
+                    display: none;
                   position: absolute;
                   list-style-type: none;
                   padding: 0;
@@ -69,6 +70,12 @@
             </style>
                 <link rel="stylesheet" type="text/css" href="css/style.css">
                 <script>
+                    
+                function show(myid){
+                    var monid=document.getElementById(myid);
+                    monid.style.display="block";
+                }
+    
                 function myFunction() {
                     var input, filter, ul, li, a, i, txtValue;
                     input = document.getElementById("myInput");
@@ -84,10 +91,30 @@
                             li[i].style.display = "none";
                         }
                     }
-                }
-                function show(myid){
-                    var monid=document.getElementById(myid);
-                    monid.style.display="block";
+                    map_a55783eca9914283ae3dfd119e3869cd.eachLayer(function (layer) {
+                        if(layer instanceof L.Marker) {
+                            var valeur=layer.options.title;
+                            if (valeur.toUpperCase().indexOf(filter) > -1) {
+                                //alert(layer.options.opacity);
+                                layer.setOpacity(1);
+                            }
+                            else{
+                                //alert(layer.options.opacity);
+                                layer.setOpacity(0);
+                            }
+                        }
+                        });
+                    /*
+                    var mesDiv=document.getElementsByClassName("awesome-marker");
+                    for (j=0;j<mesDiv.length;j++){
+                        var valeur=mesDiv[j].title;
+                        if (valeur.toUpperCase().indexOf(filter) > -1) {
+                            mesDiv[j].style.display = "";
+                        }
+                        else:{
+                            mesDiv[j].style.display = "none";
+                        }
+                    }*/
                 }
             </script>
 </head>
@@ -131,11 +158,11 @@
                 "https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png",
                 {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
-
+//Map is set up with its title, the following vars are the points and pointers.
 
             var marker_6ad936271cde4ade83dd54eed027cece = L.marker(
                 [6.77321, 124.127],
-                {}
+                {title: 'TIRURAY'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -160,7 +187,7 @@
 
             var marker_baa875d6303749048a4596bb0d58bc54 = L.marker(
                 [4.778704, 45.152856],
-                {}
+                {title: 'SOMALI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -185,7 +212,7 @@
 
             var marker_755a5528e8614f68855621e925a60ebe = L.marker(
                 [39.2492, 237.048],
-                {}
+                {title: 'WIYOT'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -210,7 +237,7 @@
 
             var marker_b7d3f0f43f2549a499c79231a03b3404 = L.marker(
                 [50.5664, 257.475],
-                {}
+                {title: 'OJIBWA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -235,7 +262,7 @@
 
             var marker_816b150e316949fda9ad43f1197388e7 = L.marker(
                 [47.6857, 257.88],
-                {}
+                {title: 'DAKOTA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -260,7 +287,7 @@
 
             var marker_d2b6d188847042429228d9fcaa6a1d0d = L.marker(
                 [18.7302, 84.1414],
-                {}
+                {title: 'AVAR'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -285,7 +312,7 @@
 
             var marker_5016a188e4994f47b08a14cf7e739a2f = L.marker(
                 [40.2612, 65.3864],
-                {}
+                {title: 'UZBEK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -310,7 +337,7 @@
 
             var marker_2678378b284b48da93b4c46680f7cd42 = L.marker(
                 [39.7176, 237.555],
-                {}
+                {title: 'WINTU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -335,7 +362,7 @@
 
             var marker_c9652563a80f48d08a489692697d6afe = L.marker(
                 [41.0, 237.5],
-                {}
+                {title: 'WINTU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -360,7 +387,7 @@
 
             var marker_1a2625e3bdad4f5faa54d8e95a3be7d8 = L.marker(
                 [38.2363, 239.493],
-                {}
+                {title: 'SIERRA MIWOK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -385,7 +412,7 @@
 
             var marker_77a30d85500341609b9cd852222cc448 = L.marker(
                 [14.7793, 108.027],
-                {}
+                {title: 'SEDANG'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -410,7 +437,7 @@
 
             var marker_69fed903c9d743c2b0d87680c260d874 = L.marker(
                 [6.78584, 20.1702],
-                {}
+                {title: 'SANGO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -435,7 +462,7 @@
 
             var marker_b9f540464f0e4c22a592779a7b2c3525 = L.marker(
                 [60.4232, 215.238],
-                {}
+                {title: 'EYAK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -460,7 +487,7 @@
 
             var marker_21ebe4642dd64af4a87a93092d4657fa = L.marker(
                 [27.8685, 251.563],
-                {}
+                {title: 'HUARI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -485,7 +512,7 @@
 
             var marker_c3b200a5dbe745e1a761b5844d23b5c3 = L.marker(
                 [42.5861, 238.296],
-                {}
+                {title: 'KLAMATH'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -510,7 +537,7 @@
 
             var marker_67fac108552048cab3bdf39d3a73f70f = L.marker(
                 [18.1713, 266.90319999999997],
-                {}
+                {title: 'ZOQUE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -535,7 +562,7 @@
 
             var marker_c14788978b8849619150cfd6a120413f = L.marker(
                 [32.6819, 69.3444],
-                {}
+                {title: 'ORMURI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -560,7 +587,7 @@
 
             var marker_287e66ee04f6499888968e7591f65dc5 = L.marker(
                 [28.0239, 85.0563],
-                {}
+                {title: 'TAMA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -585,7 +612,7 @@
 
             var marker_5006bbbce1144831a9adccab02cef8c9 = L.marker(
                 [14.06, 121.747],
-                {}
+                {title: 'TAGALOG'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -610,7 +637,7 @@
 
             var marker_62a15584fe35469e94d60f8034e82f63 = L.marker(
                 [37.083011, 254.732856],
-                {}
+                {title: 'PICURIS'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -635,7 +662,7 @@
 
             var marker_28157f4dd0f24c4f98b477722d6ff348 = L.marker(
                 [34.9403, 261.0958],
-                {}
+                {title: 'KIOWA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -660,7 +687,7 @@
 
             var marker_adbeef634d4045a289f5453639fb200e = L.marker(
                 [7.79414, 124.175],
-                {}
+                {title: 'MARANAO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -685,7 +712,7 @@
 
             var marker_67defe8e41944d56893eb699684f17b4 = L.marker(
                 [36.2106, 249.918],
-                {}
+                {title: 'NAVAJO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -710,7 +737,7 @@
 
             var marker_4bb0823d14384b608aefac87f6d8e9e7 = L.marker(
                 [33.8162, 36.484],
-                {}
+                {title: 'NEO-ARAMAIC'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -735,7 +762,7 @@
 
             var marker_2c1a23c1d7414bceb09ea75fd858aa87 = L.marker(
                 [35.7653, 249.465],
-                {}
+                {title: 'HOPI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -760,7 +787,7 @@
 
             var marker_f0561ac554b440528c62edce24e9b66f = L.marker(
                 [42.0, 74.0],
-                {}
+                {title: 'KIRGHIZ'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -785,7 +812,7 @@
 
             var marker_0664d4ff42934b67a9eca22a7d37c2a5 = L.marker(
                 [20.681188, 105.774071],
-                {}
+                {title: 'VIETNAMESE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -810,7 +837,7 @@
 
             var marker_a173bcf6d413497f9d32d391ce59dfee = L.marker(
                 [29.04, 66.56],
-                {}
+                {title: 'BRAHUI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -835,7 +862,7 @@
 
             var marker_c2c92f402795402ab30a1e6dbbdce82c = L.marker(
                 [8.966667, 280.46666700000003],
-                {}
+                {title: 'NAMA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -860,7 +887,7 @@
 
             var marker_d99c1126a7c64844b2513f7aaf4f5d37 = L.marker(
                 [8.98356, 10.0288],
-                {}
+                {title: 'TAROK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -885,7 +912,7 @@
 
             var marker_c0b799139be342179e9895065156536e = L.marker(
                 [1.14995, 120.875],
-                {}
+                {title: 'TOL'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -910,7 +937,7 @@
 
             var marker_44214f968e324a348646a8a4a5f3f9de = L.marker(
                 [14.2584, 13.1571],
-                {}
+                {title: 'KANURI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -935,7 +962,7 @@
 
             var marker_6da2131ff32349fab2ded090755d6ec2 = L.marker(
                 [6.38956, 10.0807],
-                {}
+                {title: 'AGHEM'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -960,7 +987,7 @@
 
             var marker_52ce098b89c74ef192e27f52acc1bc13 = L.marker(
                 [8.04124, 23.6166],
-                {}
+                {title: 'YULU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -985,7 +1012,7 @@
 
             var marker_8abea978932f4404afd8ee2a43b771b3 = L.marker(
                 [23.216, 120.787],
-                {}
+                {title: 'TSOU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1010,7 +1037,7 @@
 
             var marker_dfb469091c8e41cb9fe3448abcd2bd78 = L.marker(
                 [35.4664, 276.837],
-                {}
+                {title: 'CHEROKEE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1035,7 +1062,7 @@
 
             var marker_c059bef34c87481fa4c7e38a602668be = L.marker(
                 [1.32382, 289.8061],
-                {}
+                {title: 'CUBEO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1060,7 +1087,7 @@
 
             var marker_ba616c02547c4c31a7735fd963551aef = L.marker(
                 [53.2616, 227.992],
-                {}
+                {title: 'HAIDA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1085,7 +1112,7 @@
 
             var marker_02cd5382670e4dbb826543ae9087427a = L.marker(
                 [34.7033, 70.8565],
-                {}
+                {title: 'LAI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1110,7 +1137,7 @@
 
             var marker_43119dd8a4e04c04be8761910b3247c3 = L.marker(
                 [50.8734, 240.333],
-                {}
+                {title: 'SHUSWAP'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1135,7 +1162,7 @@
 
             var marker_dd025712e2d945eb830b851a482ea325 = L.marker(
                 [35.0056, 251.21800000000002],
-                {}
+                {title: 'ZUNI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1160,7 +1187,7 @@
 
             var marker_ab89ecbb611a4013b1c0c2796a4f292a = L.marker(
                 [6.16277, 299.138],
-                {}
+                {title: 'AKAWAIO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1185,7 +1212,7 @@
 
             var marker_c096865320eb4734b436a7f04086b900 = L.marker(
                 [24.5209, 121.388],
-                {}
+                {title: 'ATAYAL'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1210,7 +1237,7 @@
 
             var marker_bd9f8a01e8c54c15aca5bc4db2b0e5af = L.marker(
                 [41.8228, 236.685],
-                {}
+                {title: 'KAROK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1235,7 +1262,7 @@
 
             var marker_bd2f8af7a54f4ce9bd97f03c5eb993ae = L.marker(
                 [62.6217, 9.48913],
-                {}
+                {title: 'NORWEGIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1260,7 +1287,7 @@
 
             var marker_1f6fe97ad8d64af89c96f4c1486e3510 = L.marker(
                 [53.5967, 56.5594],
-                {}
+                {title: 'BASHKIR'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1285,7 +1312,7 @@
 
             var marker_575d249ddc6f480e815d9e6b8a7adaa9 = L.marker(
                 [41.7587, 237.262],
-                {}
+                {title: 'SHASTA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1310,7 +1337,7 @@
 
             var marker_f003e0a15b00472fa667ba0eda43b73a = L.marker(
                 [20.0581, 262.1026],
-                {}
+                {title: 'NAHUATL'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1335,7 +1362,7 @@
 
             var marker_f5bc3ae6445d4a2799219ad8cfcff4d8 = L.marker(
                 [17.4201, 121.891],
-                {}
+                {title: 'IBAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1360,7 +1387,7 @@
 
             var marker_c4918e10d17d42748075624c418bb9ff = L.marker(
                 [6.1405, 35.5763],
-                {}
+                {title: 'DIZI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1385,7 +1412,7 @@
 
             var marker_4712e234bc0d4389a7fa32540e5b8285 = L.marker(
                 [30.76738, 265.37152000000003],
-                {}
+                {title: 'ALABAMA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1410,7 +1437,7 @@
 
             var marker_fbcf883447114802b8b9bd83dd0b98f7 = L.marker(
                 [28.0, 85.0],
-                {}
+                {title: 'NEPALI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1435,7 +1462,7 @@
 
             var marker_8a727726de5b4691b5cae42db58329d2 = L.marker(
                 [10.1115, 119.025],
-                {}
+                {title: 'BATAK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1460,7 +1487,7 @@
 
             var marker_d840121a1099415cb9efbe94354590b8 = L.marker(
                 [17.2436, 36.6666],
-                {}
+                {title: 'BEJA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1485,7 +1512,7 @@
 
             var marker_a63d7142f451406bb6ff02549aa890fb = L.marker(
                 [55.487, 47.163],
-                {}
+                {title: 'CHUVASH'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1510,7 +1537,7 @@
 
             var marker_fbef651fa2d64f21abf539f407ee1c46 = L.marker(
                 [15.364795, 298.657043],
-                {}
+                {title: 'ISLAND CARIB'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1535,7 +1562,7 @@
 
             var marker_88b06907d6f74d339d6120ea3f618f5d = L.marker(
                 [67.2527, 23.066],
-                {}
+                {title: 'FINNISH'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1560,7 +1587,7 @@
 
             var marker_26daaa9951c141f5864cdbba65fce204 = L.marker(
                 [17.3494, 38.2233],
-                {}
+                {title: 'TIGRE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1585,7 +1612,7 @@
 
             var marker_91426157901a4a34aaf3191816b222e6 = L.marker(
                 [20.1765, 263.1259],
-                {}
+                {title: 'TOTONAC'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1610,7 +1637,7 @@
 
             var marker_908fe7e5e79345d0b8c273831acddce4 = L.marker(
                 [12.4771, 104.026],
-                {}
+                {title: 'CHAM'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1635,7 +1662,7 @@
 
             var marker_1755e55707974bf9a6607218f8be677a = L.marker(
                 [47.3122, 126.557],
-                {}
+                {title: 'MANCHU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1660,7 +1687,7 @@
 
             var marker_7a241e1a675e421d9aca850b29fe64fb = L.marker(
                 [46.7981, 236.83100000000002],
-                {}
+                {title: 'UPPER CHEHALIS'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1685,7 +1712,7 @@
 
             var marker_b89d2b8e90804f199f2a2a441dd73f9a = L.marker(
                 [43.3646, 25.047],
-                {}
+                {title: 'BULGARIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1710,7 +1737,7 @@
 
             var marker_562f140ad5fa41329f3dfca0314989c2 = L.marker(
                 [1.267, 290.09000000000003],
-                {}
+                {title: 'AUCA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1735,7 +1762,7 @@
 
             var marker_8d2cdd3a50bb4e3e9acb0916e54feb19 = L.marker(
                 [4.800365, 14.606865],
-                {}
+                {title: 'BODO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1760,7 +1787,7 @@
 
             var marker_6f69e7cf8f23481a9b367076bb54e830 = L.marker(
                 [15.8822, 263.9682],
-                {}
+                {title: 'DANI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1785,7 +1812,7 @@
 
             var marker_79d669332f034f8e8cdb19b1decfe185 = L.marker(
                 [58.98, 255.56],
-                {}
+                {title: 'CHIPEWYAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1810,7 +1837,7 @@
 
             var marker_0ae8c12be877444f86380f139bd950e6 = L.marker(
                 [13.438011, 144.74474],
-                {}
+                {title: 'CHAMORRO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1835,7 +1862,7 @@
 
             var marker_ba7ee06660584d0892fd34e17fcf9b46 = L.marker(
                 [60.717, 55.756],
-                {}
+                {title: 'KOMI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1860,7 +1887,7 @@
 
             var marker_0e081d116731482893230c0d0904ae6d = L.marker(
                 [38.6347, 23.2164],
-                {}
+                {title: 'GREEK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1885,7 +1912,7 @@
 
             var marker_56c82fe2c3b44324b41fc3c94da9dec8 = L.marker(
                 [40.0, 45.0],
-                {}
+                {title: 'ARMENIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1910,7 +1937,7 @@
 
             var marker_06fe1c1959214ee1ae1d1c3fcd4b2743 = L.marker(
                 [32.9, 53.3],
-                {}
+                {title: 'FARSI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1935,7 +1962,7 @@
 
             var marker_aea663db69804589982e00e2b602c2eb = L.marker(
                 [24.4644, 86.4657],
-                {}
+                {title: 'KURUKH'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1960,7 +1987,7 @@
 
             var marker_8a89f022e64944c197af7f862502d1fa = L.marker(
                 [7.15, 3.66],
-                {}
+                {title: 'YORUBA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -1985,7 +2012,7 @@
 
             var marker_258a2ffdc03e4ad4a512b64967995d13 = L.marker(
                 [18.760713, 31.748657],
-                {}
+                {title: 'NUBIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2010,7 +2037,7 @@
 
             var marker_8f91e5e8b1534eaeb0d707afc7aee34d = L.marker(
                 [11.9861, 22.2013],
-                {}
+                {title: 'DAJU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2035,7 +2062,7 @@
 
             var marker_afb739a5d92b4318baae6d3a17721332 = L.marker(
                 [34.2504, 62.2802],
-                {}
+                {title: 'MOGHOL'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2060,7 +2087,7 @@
 
             var marker_f845b254f289413cbc75d5e60d704f59 = L.marker(
                 [8.67624, 117.36],
-                {}
+                {title: 'ALAWA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2085,7 +2112,7 @@
 
             var marker_2ad3a176b6624c2c972c4d5e8362b05a = L.marker(
                 [55.1429, 23.9601],
-                {}
+                {title: 'LITHUANIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2110,7 +2137,7 @@
 
             var marker_f8476dfe55264b8e82faa5c6aa9afdfe = L.marker(
                 [63.748611, 291.480278],
-                {}
+                {title: 'INUIT'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2135,7 +2162,7 @@
 
             var marker_7fae5debd3824ff3854bdb721dd8c6c9 = L.marker(
                 [8.90347, 11.71545],
-                {}
+                {title: 'MUMUYE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2160,7 +2187,7 @@
 
             var marker_f7d44ab18cf74f1cb7925685d269bdda = L.marker(
                 [12.1051, 11.0178],
-                {}
+                {title: 'NGIZIM'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2185,7 +2212,7 @@
 
             var marker_18854998bccd4cf2a9274f01a8a48a79 = L.marker(
                 [11.0376, 11.80953],
-                {}
+                {title: 'TERA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2210,7 +2237,7 @@
 
             var marker_e129298e874346b6990de7f5920a5168 = L.marker(
                 [5.81736, 291.0161],
-                {}
+                {title: 'GUAHIBO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2235,7 +2262,7 @@
 
             var marker_e9e65015e936405fa50a0774eb73f552 = L.marker(
                 [33.3184, 243.061],
-                {}
+                {title: 'LUISENO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2260,7 +2287,7 @@
 
             var marker_df38d95425d547e29d85c4f9db824327 = L.marker(
                 [11.8275, 29.3898],
-                {}
+                {title: 'TEMEIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2285,7 +2312,7 @@
 
             var marker_73ac672f0f5d408b94a95c4a67eaab1a = L.marker(
                 [2.55849, 283.418],
-                {}
+                {title: 'GUAMBIANO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2310,7 +2337,7 @@
 
             var marker_dad2f910fd06442aadf7ff749cb6d6d3 = L.marker(
                 [46.3073, 243.59199999999998],
-                {}
+                {title: 'NEZ PERCE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2335,7 +2362,7 @@
 
             var marker_6453a98e0ecc4e71a4787263a2f9c529 = L.marker(
                 [19.7239, 259.707],
-                {}
+                {title: 'MAZAHUA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2360,7 +2387,7 @@
 
             var marker_ab3bd9cf7e1b4ca7917a1375b60e9d15 = L.marker(
                 [17.36, 263.95],
-                {}
+                {title: 'MIXE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2385,7 +2412,7 @@
 
             var marker_0424af7f2cf34384aaa6e121d5f2f7b6 = L.marker(
                 [16.3353, 107.094],
-                {}
+                {title: 'PACOH'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2410,7 +2437,7 @@
 
             var marker_a7c0f76f4585440db8f418438705bef1 = L.marker(
                 [36.5137, 48.4302],
-                {}
+                {title: 'AZERBAIJANI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2435,7 +2462,7 @@
 
             var marker_d90a1218d352479086c23ece8d0a9b08 = L.marker(
                 [40.2612, 65.3864],
-                {}
+                {title: 'UZBEK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2460,7 +2487,7 @@
 
             var marker_12589ddaa51c49ef87fe3db80eac99b4 = L.marker(
                 [41.0979, 238.809],
-                {}
+                {title: 'ACHUMAWI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2485,7 +2512,7 @@
 
             var marker_ec8816b361924a068158054c01fd6b97 = L.marker(
                 [36.2161, 74.8236],
-                {}
+                {title: 'BURUSHASKI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2510,7 +2537,7 @@
 
             var marker_717befa9db0146b2a171a29347bc5b00 = L.marker(
                 [68.6436, 170.045],
-                {}
+                {title: 'CHUKCHI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2535,7 +2562,7 @@
 
             var marker_a1ca4e5ab9fb4c79ba1738c58de60f8a = L.marker(
                 [41.65, 82.9],
-                {}
+                {title: 'KHARIA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2560,7 +2587,7 @@
 
             var marker_48fd1e63e4fc4161a8ba4e53937d82f9 = L.marker(
                 [5.52889, 6.24682],
-                {}
+                {title: 'ISOKO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2585,7 +2612,7 @@
 
             var marker_9ae6a250e2564996973d5f09740ee8ea = L.marker(
                 [10.8423, 29.4914],
-                {}
+                {title: 'KADUGLI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2610,7 +2637,7 @@
 
             var marker_39189e5907834f5a866add316bcb9af6 = L.marker(
                 [4.1651, 22.1702],
-                {}
+                {title: 'KOMA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2635,7 +2662,7 @@
 
             var marker_bfa4453d70c1438ca6a241f3ca2cdaa1 = L.marker(
                 [2.58744, 300.1979],
-                {}
+                {title: 'WAPISHANA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2660,7 +2687,7 @@
 
             var marker_ebfe9e0ee740482abba4ac2e5271e57a = L.marker(
                 [35.75, 273.25],
-                {}
+                {title: 'YUCHI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2685,7 +2712,7 @@
 
             var marker_1054b5d344fb44dd855467beae3487aa = L.marker(
                 [22.7738, 120.844],
-                {}
+                {title: 'RUKAI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2710,7 +2737,7 @@
 
             var marker_4d0fa717569c4f0bb358386548f824f8 = L.marker(
                 [6.82744, 93.8042],
-                {}
+                {title: 'NICOBARESE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2735,7 +2762,7 @@
 
             var marker_86a56e6792b54f7da3a7094f6c65e994 = L.marker(
                 [41.0, 20.0],
-                {}
+                {title: 'ALBANIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2760,7 +2787,7 @@
 
             var marker_f69ce4986cf34c3a91f3fe7f5a666ab9 = L.marker(
                 [9.0, 11.8],
-                {}
+                {title: 'DAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2785,7 +2812,7 @@
 
             var marker_380a5b09da2043a0993c3f2f3ae99206 = L.marker(
                 [59.9409, 82.3004],
-                {}
+                {title: 'SELKUP'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2810,7 +2837,7 @@
 
             var marker_d0d9daeee8f74822b2815ffa2428ee11 = L.marker(
                 [28.0239, 85.0563],
-                {}
+                {title: 'TAMA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2835,7 +2862,7 @@
 
             var marker_0444d0feec094fc490ba7e66b251f263 = L.marker(
                 [16.5198, 261.9536],
-                {}
+                {title: 'AMUZGO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2860,7 +2887,7 @@
 
             var marker_06db3eb1c8c04bc0ad94fa46e181be75 = L.marker(
                 [23.0196, 105.07],
-                {}
+                {title: 'GELAO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2885,7 +2912,7 @@
 
             var marker_79a06468738a43a384b5f4659f107ea2 = L.marker(
                 [11.4911, 125.012],
-                {}
+                {title: 'WARAY'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2910,7 +2937,7 @@
 
             var marker_8b0bdd3ecc284cd1856181068d775c28 = L.marker(
                 [10.9972, 11.1188],
-                {}
+                {title: 'HAUSA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2935,7 +2962,7 @@
 
             var marker_4cff9fbb2fd144b09084a4fd328787bf = L.marker(
                 [17.0311, 262.77070000000003],
-                {}
+                {title: 'MIXTEC'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2960,7 +2987,7 @@
 
             var marker_2cbfe246cda746748f77c503988ea74c = L.marker(
                 [36.241, 52.3009],
-                {}
+                {title: 'DERA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -2985,7 +3012,7 @@
 
             var marker_22a247dd44944c2a98577cef09f10236 = L.marker(
                 [52.59103, 231.455455],
-                {}
+                {title: 'TSIMSHIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3010,7 +3037,7 @@
 
             var marker_8d5b9f40270e4e6f913ec45368e87fa3 = L.marker(
                 [64.6383, 18.646],
-                {}
+                {title: 'SAAMI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3035,7 +3062,7 @@
 
             var marker_1964c0bf692c44989643f4d90bf07d5b = L.marker(
                 [56.22, 46.569],
-                {}
+                {title: 'MARI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3060,7 +3087,7 @@
 
             var marker_b6fbeccf6ef2481598f21923056eb0a2 = L.marker(
                 [3.15636, 22.1212],
-                {}
+                {title: 'BETE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3085,7 +3112,7 @@
 
             var marker_7f8c1be367d74daabd428f2180e66d54 = L.marker(
                 [20.83, 101.17],
-                {}
+                {title: 'MIEN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3110,7 +3137,7 @@
 
             var marker_baca2914aaf14fd3b9720e9735026cce = L.marker(
                 [24.816667, 113.6],
-                {}
+                {title: 'HAKKA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3135,7 +3162,7 @@
 
             var marker_f5870ade87ca4ad883852468046a0d43 = L.marker(
                 [48.42, 237.471],
-                {}
+                {title: 'LUSHOOTSEED'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3160,7 +3187,7 @@
 
             var marker_8c8aebf4a54c42a9a31a2a9f25ca6c1d = L.marker(
                 [47.9341, 237.862],
-                {}
+                {title: 'LUSHOOTSEED'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3185,7 +3212,7 @@
 
             var marker_022d09d446164d2c99eba0fc6a69a93f = L.marker(
                 [48.5314, 238.00900000000001],
-                {}
+                {title: 'LUSHOOTSEED'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3210,7 +3237,7 @@
 
             var marker_4f1b462253c14b88a0040be84c85a2e7 = L.marker(
                 [47.9106, 235.397],
-                {}
+                {title: 'QUILEUTE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3235,7 +3262,7 @@
 
             var marker_c6aa8e174f4d476c81095ece0e95068d = L.marker(
                 [9.4, 276.95],
-                {}
+                {title: 'BRIBRI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3260,7 +3287,7 @@
 
             var marker_26ef9f30d4ff48f488835f9428d16a5d = L.marker(
                 [39.8078, 238.809],
-                {}
+                {title: 'MAIDU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3285,7 +3312,7 @@
 
             var marker_515229555f4a4b03af0bc1407609fb8b = L.marker(
                 [23.0196, 105.07],
-                {}
+                {title: 'GELAO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3310,7 +3337,7 @@
 
             var marker_1510bec7312c41f58549ca52882a1499 = L.marker(
                 [41.6187, 47.3244],
-                {}
+                {title: 'RUTUL'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3335,7 +3362,7 @@
 
             var marker_3b69d5cd78124bf0ba0c191a2e050168 = L.marker(
                 [27.2614, 84.9577],
-                {}
+                {title: 'NEWARI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3360,7 +3387,7 @@
 
             var marker_b650994255284bf387d03e74f81444f8 = L.marker(
                 [42.56, 282.47],
-                {}
+                {title: 'SENECA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3410,7 +3437,7 @@
 
             var marker_9d6e1cfc96d34eeeb36fab19660f5d62 = L.marker(
                 [42.1806, 45.344],
-                {}
+                {title: 'BATS'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3435,7 +3462,7 @@
 
             var marker_a03ce5a6b3ff4937bc7847862ac36afa = L.marker(
                 [20.16, 96.908],
-                {}
+                {title: 'KAREN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3460,7 +3487,7 @@
 
             var marker_2bc45280c8504a4ebaf6d5c1b9bf1821 = L.marker(
                 [19.2414, 73.9166],
-                {}
+                {title: 'KONKANI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3485,7 +3512,7 @@
 
             var marker_308b0f4e799348528de9ac52b57e697e = L.marker(
                 [23.0, 103.4],
-                {}
+                {title: 'HUPA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3510,7 +3537,7 @@
 
             var marker_0dc307e10c554d1f9302e6427fccd0b2 = L.marker(
                 [11.708182, 39.543456],
-                {}
+                {title: 'AMHARIC'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3535,7 +3562,7 @@
 
             var marker_e4d71a6137094deeb11558f433c5b141 = L.marker(
                 [27.45988, 100.18172],
-                {}
+                {title: 'NAXI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3560,7 +3587,7 @@
 
             var marker_bebbeb58e70a40e99873a86e8de1c20d = L.marker(
                 [4.485, 20.6448],
-                {}
+                {title: 'FUR'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3585,7 +3612,7 @@
 
             var marker_7375d4c1ab504b14bd44275b72c5d149 = L.marker(
                 [26.08142, 279.09153000000003],
-                {}
+                {title: 'IK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3610,7 +3637,7 @@
 
             var marker_0ef1276b7a98441b9ae4fb415105c789 = L.marker(
                 [52.3448, 233.311],
-                {}
+                {title: 'BELLA COOLA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3635,7 +3662,7 @@
 
             var marker_dacb661f9eb74497a9a74e70989a42d8 = L.marker(
                 [38.25, 237.5],
-                {}
+                {title: 'WAPPO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3660,7 +3687,7 @@
 
             var marker_1d806ec7282f4f278533159e47715d80 = L.marker(
                 [18.7757, 271.0433],
-                {}
+                {title: 'YUCATEC'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3685,7 +3712,7 @@
 
             var marker_9953cbe7040943c6bebbcb6a15f2a4a2 = L.marker(
                 [46.9068585714, 19.6555271429],
-                {}
+                {title: 'HUNGARIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3710,7 +3737,7 @@
 
             var marker_508e5701df3f4f02b663dea7240ebdce = L.marker(
                 [30.25, 263.25],
-                {}
+                {title: 'TONKAWA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3735,7 +3762,7 @@
 
             var marker_ee54e37fcb3d4c639425c89f3f6c8860 = L.marker(
                 [24.1169, 110.106],
-                {}
+                {title: 'LAKKIA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3760,7 +3787,7 @@
 
             var marker_52c6ef481aa441019eda994ca6926358 = L.marker(
                 [37.5, 128.0],
-                {}
+                {title: 'KOREAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3785,7 +3812,7 @@
 
             var marker_bc06990ab5014338b7261c95cf322857 = L.marker(
                 [36.63, 127.31],
-                {}
+                {title: 'KOREAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3810,7 +3837,7 @@
 
             var marker_9769849b8cdd4b66b1d97a37ccd4d406 = L.marker(
                 [42.34, 129.84],
-                {}
+                {title: 'KOREAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3835,7 +3862,7 @@
 
             var marker_679e4b3646c640239a6e0ed70c350b03 = L.marker(
                 [38.29, 125.47],
-                {}
+                {title: 'KOREAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3860,7 +3887,7 @@
 
             var marker_1f63950ec6f1493f8ed4289c0547b922 = L.marker(
                 [35.14, 126.84],
-                {}
+                {title: 'KOREAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3885,7 +3912,7 @@
 
             var marker_404cd3e7bfd54424880e5aea59e8263b = L.marker(
                 [39.44, 126.16],
-                {}
+                {title: 'KOREAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3910,7 +3937,7 @@
 
             var marker_4254cd15df714f819ffc2a236dd81e07 = L.marker(
                 [35.3, 128.3],
-                {}
+                {title: 'KOREAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3935,7 +3962,7 @@
 
             var marker_f784f8bb24ee4bb4b1f57d3072463853 = L.marker(
                 [37.54, 126.98],
-                {}
+                {title: 'KOREAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3960,7 +3987,7 @@
 
             var marker_d35d5709de6d40a28bd0dfd06d2e9a66 = L.marker(
                 [41.02675, 28.85551],
-                {}
+                {title: 'TURKISH'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -3985,7 +4012,7 @@
 
             var marker_dd71112f73ae41dd80e3a7e5f830372e = L.marker(
                 [7.34549, 0.50746],
-                {}
+                {title: 'LELEMI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4010,7 +4037,7 @@
 
             var marker_4259e34720f64752939a14aed57f1891 = L.marker(
                 [52.59, 140.681],
-                {}
+                {title: 'NIVKH'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4035,7 +4062,7 @@
 
             var marker_1e86aad5851a45b0b577f29f31458d68 = L.marker(
                 [7.50851, 300.6472],
-                {}
+                {title: 'WARAO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4060,7 +4087,7 @@
 
             var marker_66b741c564e64faca918673af6d1a376 = L.marker(
                 [18.2, 265.2453],
-                {}
+                {title: 'CAYAPA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4085,7 +4112,7 @@
 
             var marker_9c0e054bf7714161ae27a37b3feb2163 = L.marker(
                 [3.02245, 30.8642],
-                {}
+                {title: 'LUGBARA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4110,7 +4137,7 @@
 
             var marker_1f41969d31694d96aa57be816b59dca6 = L.marker(
                 [34.166825, 74.330455],
-                {}
+                {title: 'KASHMIRI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4135,7 +4162,7 @@
 
             var marker_49f909729cec49379187198c4dc6b314 = L.marker(
                 [10.4689, 13.5233],
-                {}
+                {title: 'AKAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4160,7 +4187,7 @@
 
             var marker_3ef5ed1515a842b5a4e19f2f6b0ea4ae = L.marker(
                 [27.3708, 93.1284],
-                {}
+                {title: 'DAFLA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4185,7 +4212,7 @@
 
             var marker_cca6b7db43c74acab8d9114727f53ce0 = L.marker(
                 [61.25, 73.35],
-                {}
+                {title: 'KHANTY'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4210,7 +4237,7 @@
 
             var marker_53c2cd0457804262b17b04ed7c90ebe1 = L.marker(
                 [53.054427, 157.430702],
-                {}
+                {title: 'ITELMEN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4235,7 +4262,7 @@
 
             var marker_8b4b76991d764188ae94baa4294fd077 = L.marker(
                 [5.3097, 36.9139],
-                {}
+                {title: 'SAMA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4260,7 +4287,7 @@
 
             var marker_22424bfadf9c4c8a9bb13dae81c86e27 = L.marker(
                 [60.4238, 211.957],
-                {}
+                {title: 'YUPIK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4285,7 +4312,7 @@
 
             var marker_c0f1dc125b6e45c5b2cac1fe6462ca39 = L.marker(
                 [29.9446, 249.31900000000002],
-                {}
+                {title: 'YAQUI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4310,7 +4337,7 @@
 
             var marker_232496eb35e1403fa302df7099c3d7b1 = L.marker(
                 [48.0, 124.0],
-                {}
+                {title: 'DAGUR'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4335,7 +4362,7 @@
 
             var marker_c1412498730d4567a331f1cd901a4216 = L.marker(
                 [46.3699, 256.05],
-                {}
+                {title: 'KOTA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4360,7 +4387,7 @@
 
             var marker_994e765600484ece84993f882736f0ca = L.marker(
                 [17.3003, 261.7904],
-                {}
+                {title: 'LAHU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4385,7 +4412,7 @@
 
             var marker_ea5349ff76624a64aeb6cf4a69c44c66 = L.marker(
                 [17.22264, 261.85513000000003],
-                {}
+                {title: 'LAHU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4410,7 +4437,7 @@
 
             var marker_4b776ce42ba74f868d96570a35f4504b = L.marker(
                 [17.27301, 261.72411999999997],
-                {}
+                {title: 'LAHU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4435,7 +4462,7 @@
 
             var marker_668e5de2e18c46ef80853ffd3b073f61 = L.marker(
                 [17.35912, 261.762751],
-                {}
+                {title: 'LAHU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4460,7 +4487,7 @@
 
             var marker_4a6792bce115404e9f5a64bdf837608e = L.marker(
                 [12.1517, 18.385],
-                {}
+                {title: 'DANGALEAT'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4485,7 +4512,7 @@
 
             var marker_84dc6026b72d45329d580772c7a01ffe = L.marker(
                 [22.3271, 120.806],
-                {}
+                {title: 'PAIWAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4510,7 +4537,7 @@
 
             var marker_9685b12917044db5a1811b7890bc13a4 = L.marker(
                 [59.4447, 224.71],
-                {}
+                {title: 'TLINGIT'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4535,7 +4562,7 @@
 
             var marker_43b54020e84a436f94b8fabddabe0741 = L.marker(
                 [33.8574, 249.877],
-                {}
+                {title: 'ACHE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4560,7 +4587,7 @@
 
             var marker_0006e974a6b84730ab673d365096be88 = L.marker(
                 [4.89379, 8.38121],
-                {}
+                {title: 'EFIK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4585,7 +4612,7 @@
 
             var marker_bfd6649c8f0d46dd8348d498166815ff = L.marker(
                 [4.62705, 7.23441],
-                {}
+                {title: 'IGBO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4610,7 +4637,7 @@
 
             var marker_4a36b95ca5a14f6a859dc322832950f8 = L.marker(
                 [0.31733, 283.9763],
-                {}
+                {title: 'SIONA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4635,7 +4662,7 @@
 
             var marker_c462382256cd40e982f0d389a810ab38 = L.marker(
                 [70.6687, 130.914],
-                {}
+                {title: 'EVEN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4660,7 +4687,7 @@
 
             var marker_b27ea6696ac849359eb8dd5255eefe45 = L.marker(
                 [16.2167, 265.1841],
-                {}
+                {title: 'HUAVE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4685,7 +4712,7 @@
 
             var marker_befd05dd76b645fdaf68fe49813da41e = L.marker(
                 [14.5994, 107.008],
-                {}
+                {title: 'BRAO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4710,7 +4737,7 @@
 
             var marker_a6fa7ca905d840239564b1d1c2eb7a2d = L.marker(
                 [4.75352, 6.34034],
-                {}
+                {title: 'OGBIA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4735,7 +4762,7 @@
 
             var marker_4e9349563b49465f8a95fc295dd7aa6b = L.marker(
                 [73.1354, 86.2106],
-                {}
+                {title: 'NGANASAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4760,7 +4787,7 @@
 
             var marker_a39edfeefb3d4642a7cbc53fa758ffaf = L.marker(
                 [36.241, 52.3009],
-                {}
+                {title: 'DERA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4785,7 +4812,7 @@
 
             var marker_84b0203fee0441108104b4649ddf3059 = L.marker(
                 [10.8301, 13.6633],
-                {}
+                {title: 'MABA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4810,7 +4837,7 @@
 
             var marker_3989fc974123497a9eef2cd4bc8b4cd1 = L.marker(
                 [2.50288, 96.2757],
-                {}
+                {title: 'LUE'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4835,7 +4862,7 @@
 
             var marker_4979266a4e334433b3d28dac7d681e6c = L.marker(
                 [40.0209, 116.228],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4860,7 +4887,7 @@
 
             var marker_a837ea3845604b6484599b0dc40e8f30 = L.marker(
                 [45.846595, 126.551056],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4885,7 +4912,7 @@
 
             var marker_e225e9ccabcc47c6afc5301315e0395a = L.marker(
                 [41.8049906, 123.1563167],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4910,7 +4937,7 @@
 
             var marker_c64c7be8ac1d4c538aa78b5fe2ef38e3 = L.marker(
                 [36.690777, 116.997299],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4935,7 +4962,7 @@
 
             var marker_5957a3c84d7c40a9a05f4a4f2fbd4005 = L.marker(
                 [39.186072, 117.215424],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4960,7 +4987,7 @@
 
             var marker_e577b19ad01e44bf9936d6054f2e99e6 = L.marker(
                 [39.9385466, 116.1172766],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -4985,7 +5012,7 @@
 
             var marker_32193b370c7e440c8b0acf5fbbb55d82 = L.marker(
                 [36.089393, 120.379715],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5010,7 +5037,7 @@
 
             var marker_8c3a2a5a673e414eb030310b52af818e = L.marker(
                 [30.605768, 103.970947],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5035,7 +5062,7 @@
 
             var marker_e5d2f7aeb6f243658785c774a20a7713 = L.marker(
                 [30.624086, 114.305649],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5060,7 +5087,7 @@
 
             var marker_b86efddee42340d98769b2c564284bca = L.marker(
                 [25.049711, 102.72274],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5085,7 +5112,7 @@
 
             var marker_0a236f626a6f4156aed5505590453ebd = L.marker(
                 [30.7462984, 115.3468074],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5110,7 +5137,7 @@
 
             var marker_d54bee7509434064857b738b1aa49d66 = L.marker(
                 [32.0989607, 118.4575646],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5135,7 +5162,7 @@
 
             var marker_0ec3f8db5486476cbbbaa73a9d25e94c = L.marker(
                 [31.873593, 117.223663],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5160,7 +5187,7 @@
 
             var marker_a755494fd8504bcf812cc3c0b02e4216 = L.marker(
                 [37.130642, 122.434269],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5185,7 +5212,7 @@
 
             var marker_a29b4a9f7deb49e3967758836eae1a58 = L.marker(
                 [32.4171449, 119.209227],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5210,7 +5237,7 @@
 
             var marker_4e9a2b4a7ea740baa47d77266bd8db07 = L.marker(
                 [37.6394177, 112.5650222],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5235,7 +5262,7 @@
 
             var marker_ffad8f405b084a7b88196cc928c1fc3d = L.marker(
                 [38.546662, 106.240082],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5260,7 +5287,7 @@
 
             var marker_f1902fb647a645b38ac913c81476b851 = L.marker(
                 [43.8216271, 87.4226688],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5285,7 +5312,7 @@
 
             var marker_6b0279d7eb364bb68d6f48eadeeed0d9 = L.marker(
                 [36.080515, 103.838425],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5310,7 +5337,7 @@
 
             var marker_a31f8d46ed274acaae6dca925d6d447f = L.marker(
                 [36.671283, 101.776886],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5335,7 +5362,7 @@
 
             var marker_43fc000aee2e4647a50a31f0940d1580 = L.marker(
                 [34.228154, 108.960571],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5360,7 +5387,7 @@
 
             var marker_f125a8890727458a9fce129add1414bf = L.marker(
                 [34.807715, 113.639374],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5385,7 +5412,7 @@
 
             var marker_b4c526ad3a2b4f61bfb5e4ddf8761a41 = L.marker(
                 [38.546662, 106.240082],
-                {}
+                {title: 'MANDARIN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5410,7 +5437,7 @@
 
             var marker_9cfa87f801d34e7d92b034c452484ea8 = L.marker(
                 [43.5082, 43.3918],
-                {}
+                {title: 'KABARDIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5435,7 +5462,7 @@
 
             var marker_02f58d8a2f24437aa33e8aa3c8d482c3 = L.marker(
                 [66.1775, 71.0234],
-                {}
+                {title: 'NENETS'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5460,7 +5487,7 @@
 
             var marker_26f84a6bdf0847abbc67922d9a5a1772 = L.marker(
                 [10.6474, 34.7042],
-                {}
+                {title: 'BERTA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5485,7 +5512,7 @@
 
             var marker_3fb2fc26904645728a8975803383db6a = L.marker(
                 [48.4343, 134.797],
-                {}
+                {title: 'NANAI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5510,7 +5537,7 @@
 
             var marker_32018734804545058973484d6afca7b1 = L.marker(
                 [14.192, 100.671],
-                {}
+                {title: 'THAI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5535,7 +5562,7 @@
 
             var marker_3ad8139ae47048908abf1aad5d21db25 = L.marker(
                 [32.8977, 46.5976],
-                {}
+                {title: 'KURDISH'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5560,7 +5587,7 @@
 
             var marker_83ab35436c9b4d6087189a9e2f5bc163 = L.marker(
                 [25.6518, 106.122],
-                {}
+                {title: 'HMONG'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5585,7 +5612,7 @@
 
             var marker_7dac2df49e6b4565bf57490f9306d4ca = L.marker(
                 [5.69801, 36.0971],
-                {}
+                {title: 'MURSI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5610,7 +5637,7 @@
 
             var marker_0476752d21074e668fe3993812aad4b1 = L.marker(
                 [43.5082, 43.3918],
-                {}
+                {title: 'KABARDIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5635,7 +5662,7 @@
 
             var marker_30008a5125b445f5a444754553eecf6f = L.marker(
                 [46.72252, 6.78425],
-                {}
+                {title: 'French'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5648,7 +5675,7 @@
         var popup_851852849b0b4e0887f690d09e505b67 = L.popup({"maxWidth": "100%"});
 
 
-            var html_c8dc7ac55a384fe98585c6d9bdef7ea7 = $(`<div id="html_c8dc7ac55a384fe98585c6d9bdef7ea7" style="width: 100.0%; height: 100.0%;"><a href="{%url 'info_langue_arg' 'French' %}">FRENCH</a>: Swiss-French Sign Language 0</div>`)[0];
+            var html_c8dc7ac55a384fe98585c6d9bdef7ea7 = $(`<div id="html_c8dc7ac55a384fe98585c6d9bdef7ea7" style="width: 100.0%; height: 100.0%;"><a href="{%url 'info_langue_arg' 'FRENCH' %}">FRENCH</a>: Swiss-French Sign Language 0</div>`)[0];
             popup_851852849b0b4e0887f690d09e505b67.setContent(html_c8dc7ac55a384fe98585c6d9bdef7ea7);
 
 
@@ -5660,7 +5687,7 @@
 
             var marker_8bb93100abce4b0195a77a8da876a045 = L.marker(
                 [6.87212, 158.223],
-                {}
+                {title: 'POHNPEIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5685,7 +5712,7 @@
 
             var marker_9e7db75f1d8e4af8959b6c937ca466e6 = L.marker(
                 [36.0538, 241.321],
-                {}
+                {title: 'KAWAIISU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5710,7 +5737,7 @@
 
             var marker_39cc8066880f404190e614d091d37459 = L.marker(
                 [6.69736, 11.3161],
-                {}
+                {title: 'MAMBILA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5735,7 +5762,7 @@
 
             var marker_57e66f514f6b4c2ba3cc6636397f5ceb = L.marker(
                 [38.7643, 237.45499999999998],
-                {}
+                {title: 'POMO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5760,7 +5787,7 @@
 
             var marker_6734fbdc03ac4dd49763596336bd07ed = L.marker(
                 [7.02206, 31.285],
-                {}
+                {title: 'DINKA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5785,7 +5812,7 @@
 
             var marker_785d7a2e08e449f1997231a6e24ca877 = L.marker(
                 [5.92596, 7.96202],
-                {}
+                {title: 'KOHUMONO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5810,7 +5837,7 @@
 
             var marker_5ee5c2886a354ada94b7cb43df097d4d = L.marker(
                 [18.2868, 263.5054],
-                {}
+                {title: 'MAZATEC'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5835,7 +5862,7 @@
 
             var marker_06365f4b9a7d43afad0beafb9ae06d40 = L.marker(
                 [16.4529, 78.7024],
-                {}
+                {title: 'TELUGU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5860,7 +5887,7 @@
 
             var marker_c67003b084ce4b6c941d3baa1c9d39c8 = L.marker(
                 [18.2775, 83.1908],
-                {}
+                {title: 'TELUGU'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5885,7 +5912,7 @@
 
             var marker_4b136141fb8747e4be94ce6298aa3e28 = L.marker(
                 [63.8977, 166.695],
-                {}
+                {title: 'KORYAK'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5910,7 +5937,7 @@
 
             var marker_75541deda75a4e29b96e7568eb645b48 = L.marker(
                 [16.52799, 262.54454],
-                {}
+                {title: 'CHATINO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5935,7 +5962,7 @@
 
             var marker_e13286b1d9c4482b974ef1632058a9e9 = L.marker(
                 [30.9888, 267.4597],
-                {}
+                {title: 'TUNICA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5960,7 +5987,7 @@
 
             var marker_e20ff85147f2496788291843deb71aa9 = L.marker(
                 [33.33, 266.5],
-                {}
+                {title: 'CADDO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -5985,7 +6012,7 @@
 
             var marker_d7a9026f001e4f889966daeba483a645 = L.marker(
                 [35.0665, 261.81690000000003],
-                {}
+                {title: 'WICHITA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6010,7 +6037,7 @@
 
             var marker_d5a5369fb9eb48a9b086479f5b6020d4 = L.marker(
                 [54.6601, 167.782],
-                {}
+                {title: 'ALEUT'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6035,7 +6062,7 @@
 
             var marker_2c51e3f229c5429ba494f663b745d211 = L.marker(
                 [14.5879, 37.5292],
-                {}
+                {title: 'KUNAMA'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6060,7 +6087,7 @@
 
             var marker_7c68993a5158450ca23b9acf7bd5473c = L.marker(
                 [5.54442, 8.90959],
-                {}
+                {title: 'EJAGHAM'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6085,7 +6112,7 @@
 
             var marker_e303c93e6ca14c8ba3ff9b66a725a910 = L.marker(
                 [21.3616, 102.926],
-                {}
+                {title: 'AO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6110,7 +6137,7 @@
 
             var marker_3a45c227e23e4afb9ce2289459de43da = L.marker(
                 [24.977, 91.9998],
-                {}
+                {title: 'KHASI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6135,7 +6162,7 @@
 
             var marker_d702fcca443a4e3184ebc1b6057eca50 = L.marker(
                 [7.58343, 10.1642],
-                {}
+                {title: 'KPAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6160,7 +6187,7 @@
 
             var marker_1e729e95f8774c74a9247ec99afa41c5 = L.marker(
                 [37.17, 68.25],
-                {}
+                {title: 'PASHTO'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6185,7 +6212,7 @@
 
             var marker_07aa44461f4e47c58d7edc9683f2688e = L.marker(
                 [42.3239, 46.8267],
-                {}
+                {title: 'ARCHI'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6210,7 +6237,7 @@
 
             var marker_e8887b6ee3934f00a8b4968c952a38a5 = L.marker(
                 [9.44956, 10.2881],
-                {}
+                {title: 'KAM'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
@@ -6235,7 +6262,7 @@
 
             var marker_81790f92b30f4867a193a0e9a81261ba = L.marker(
                 [0.45332, 127.63],
-                {}
+                {title: 'WEST MAKIAN'}
             ).addTo(map_a55783eca9914283ae3dfd119e3869cd);
 
 
